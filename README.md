@@ -12,23 +12,23 @@ Streamlit dashboard exposes the whole pipeline.
 
 ```mermaid
 flowchart LR
-    A[CVs PDF/TXT] --> B[extraction.py<br/>pdfplumber + clean]
-    B --> C[anonymize<br/>name, gender, age,<br/>nationality, contacts]
-    C --> D[LLM extraction<br/>CandidateProfile JSON]
-    C --> E[scoring.py<br/>LLM: term + evidence<br/>per criterion, K runs]
-    J[Job offer] --> E
-    J --> W[weights.py<br/>expert / LLM / manual<br/>fuzzy weights]
-    E --> G[evidence grounding<br/>fuzzy match in CV]
-    G --> F[fuzzy.py<br/>terms -> TFN (l,m,u)<br/>aggregate K runs]
-    F --> T[topsis.py<br/>normalise, weight,<br/>FPIS/FNIS, vertex distance, CC]
+    A["CVs PDF/TXT"] --> B["extraction.py<br/>pdfplumber + clean"]
+    B --> C["anonymize<br/>name, gender, age,<br/>nationality, contacts"]
+    C --> D["LLM extraction<br/>CandidateProfile JSON"]
+    C --> E["scoring.py<br/>LLM: term + evidence<br/>per criterion, K runs"]
+    J["Job offer"] --> E
+    J --> W["weights.py<br/>expert / LLM / manual<br/>fuzzy weights"]
+    E --> G["evidence grounding<br/>fuzzy match in CV"]
+    G --> F["fuzzy.py<br/>terms to TFN (l, m, u)<br/>aggregate K runs"]
+    F --> T["topsis.py<br/>normalise, weight,<br/>FPIS/FNIS, vertex distance, CC"]
     W --> T
-    T --> R[Ranking]
-    R --> X[explain.py<br/>LLM justification<br/>evidence only + bias filter]
-    R --> V[evaluation.py<br/>baselines, Spearman, Kendall,<br/>top-k, sensitivity, fairness]
-    R --> S[app.py Streamlit]
+    T --> R["Ranking"]
+    R --> X["explain.py<br/>LLM justification<br/>evidence only + bias filter"]
+    R --> V["evaluation.py<br/>baselines, Spearman, Kendall,<br/>top-k, sensitivity, fairness"]
+    R --> S["app.py Streamlit"]
     X --> S
-    subgraph llm.py
-      L[provider-agnostic client<br/>Ollama / OpenAI / Gemini<br/>JSON + pydantic + retries<br/>SQLite cache]
+    subgraph llm["llm.py"]
+      L["provider-agnostic client<br/>Ollama / OpenAI / Gemini<br/>JSON + pydantic + retries<br/>SQLite cache"]
     end
     D -.-> L
     E -.-> L
