@@ -1,0 +1,90 @@
+[
+ {
+  "id": "J1",
+  "title": "Data Scientist",
+  "required_skills": [
+   "Python",
+   "SQL",
+   "Machine Learning",
+   "Statistics",
+   "Pandas",
+   "Scikit-learn"
+  ],
+  "preferred_skills": [
+   "Deep Learning",
+   "Spark",
+   "Docker"
+  ],
+  "relevant_domains": [
+   "data_science",
+   "data_analysis",
+   "ml_engineering"
+  ],
+  "min_years": 3,
+  "relevant_fields": [
+   "Computer Science",
+   "Statistics",
+   "Applied Mathematics",
+   "Data Science"
+  ],
+  "relevant_certs": [
+   "AWS Certified Machine Learning - Specialty",
+   "Google Professional Data Engineer",
+   "TensorFlow Developer Certificate",
+   "Microsoft Certified: Azure Data Scientist Associate"
+  ],
+  "soft_skills": [
+   "communication",
+   "teamwork",
+   "problem solving",
+   "autonomy"
+  ],
+  "required_languages": [
+   "English",
+   "French"
+  ],
+  "text": "Job title: Data Scientist\n\nWe are hiring a Data Scientist to join our team.\n\nRequired skills: Python, SQL, Machine Learning, Statistics, Pandas, Scikit-learn.\nNice to have: Deep Learning, Spark, Docker.\nExperience: at least 3 years of professional experience in a similar role.\nEducation: degree in Computer Science, Statistics, Applied Mathematics or Data Science; a Master's degree or PhD is a plus.\nCertifications appreciated: AWS Certified Machine Learning - Specialty, Google Professional Data Engineer, TensorFlow Developer Certificate, Microsoft Certified: Azure Data Scientist Associate.\nSoft skills: communication, teamwork, problem solving, autonomy.\nLanguages: English and French required (professional proficiency)."
+ },
+ {
+  "id": "J2",
+  "title": "Backend Software Engineer (Java)",
+  "required_skills": [
+   "Java",
+   "Spring Boot",
+   "SQL",
+   "REST APIs",
+   "Docker",
+   "Git"
+  ],
+  "preferred_skills": [
+   "Kubernetes",
+   "Kafka",
+   "AWS"
+  ],
+  "relevant_domains": [
+   "backend",
+   "devops"
+  ],
+  "min_years": 4,
+  "relevant_fields": [
+   "Computer Science",
+   "Software Engineering",
+   "Computer Engineering"
+  ],
+  "relevant_certs": [
+   "Oracle Certified Professional: Java SE Developer",
+   "AWS Certified Solutions Architect",
+   "Certified Kubernetes Administrator (CKA)"
+  ],
+  "soft_skills": [
+   "teamwork",
+   "communication",
+   "leadership",
+   "problem solving"
+  ],
+  "required_languages": [
+   "English"
+  ],
+  "text": "Job title: Backend Software Engineer (Java)\n\nWe are hiring a Backend Software Engineer (Java) to join our team.\n\nRequired skills: Java, Spring Boot, SQL, REST APIs, Docker, Git.\nNice to have: Kubernetes, Kafka, AWS.\nExperience: at least 4 years of professional experience in a similar role.\nEducation: degree in Computer Science, Software Engineering or Computer Engineering; a Master's degree or PhD is a plus.\nCertifications appreciated: Oracle Certified Professional: Java SE Developer, AWS Certified Solutions Architect, Certified Kubernetes Administrator (CKA).\nSoft skills: teamwork, communication, leadership, problem solving.\nLanguages: English required (professional proficiency)."
+ }
+]

@@ -1,0 +1,22 @@
+Name: Mei Lin Chen
+Gender: Female
+Age: 55
+Nationality: Chinese
+
+PROFESSIONAL EXPERIENCE
+MLOps Engineer (2024 - 2026)
+Deployed scalable machine learning pipelines using Kubernetes to ensure system reliability and time management throughout the development cycle.
+Optimized Python scripts for Scikit-learn models, demonstrating strong time management while reducing inference latency by 30%.
+
+Machine Learning Engineer (2021 - 2024)
+Developed predictive analytics solutions utilizing Python and Scikit-learn to solve complex data problems with precise time management.
+Integrated Git workflows for version control, showcasing collaborative time management to streamline team delivery.
+
+EDUCATION
+Master's degree in Computer Engineering
+
+SKILLS
+Python, Machine Learning, Scikit-learn, Git, Kubernetes
+
+LANGUAGES
+English, Arabic, German

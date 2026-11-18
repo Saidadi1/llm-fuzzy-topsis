@@ -1,0 +1,3 @@
+max |skfuzzy.trimf - ours| over 12 TFNs (Chen 7-term + our 5-term scales), 1001 points: 0.00e+00
+max |skfuzzy centroid - (l+m+u)/3| over our 5-term scale (numeric integration): 2.22e-16
+Note: scikit-fuzzy has no TOPSIS; it is used only to validate membership functions and centroids.

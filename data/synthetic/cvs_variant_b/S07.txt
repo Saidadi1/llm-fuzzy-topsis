@@ -1,0 +1,19 @@
+Name: Aïcha Diallo
+Gender: Female
+Age: 57
+Nationality: Senegalese
+
+PROFESSIONAL EXPERIENCE
+Business Intelligence Analyst (2022 - 2026)
+- Leveraged Python and SQL to automate reporting workflows, demonstrating autonomy by delivering insights without supervision. Collaborated with cross-functional teams using teamwork to align data strategies with business goals.
+Data Analyst (2021 - 2022)
+- Utilized Power BI and Tableau to visualize complex datasets, relying on autonomy to design custom dashboards independently. Applied teamwork principles to present findings that drove strategic decision-making.
+
+EDUCATION
+Bachelor's degree in Economics
+
+SKILLS
+Python, Statistics, SQL, Power BI, Tableau, Excel, Pandas
+
+LANGUAGES
+English, Spanish

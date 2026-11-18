@@ -1,0 +1,23 @@
+Name: Mei Lin Chen
+Gender: Female
+Age: 55
+Nationality: Chinese
+
+PROFESSIONAL EXPERIENCE
+Senior Data Scientist (2022 - 2026)
+Led a cross-functional team to optimize predictive models, demonstrating leadership by coordinating daily stand-ups and defining strategic roadmaps. Leveraged creativity to redesign data pipelines that increased model accuracy by 15% while maintaining autonomy in selecting algorithms for high-volume datasets.
+Data Scientist (2021 - 2022)
+Designed automated reporting dashboards using SQL and Spark, showcasing creativity in visualizing complex datasets for executive stakeholders. Worked independently on data cleaning projects, exercising autonomy to resolve upstream bottlenecks without supervision.
+Junior Data Scientist (2020 - 2021)
+Developed regression models with Scikit-learn and Pandas, applying creativity to solve novel forecasting challenges in retail analytics. Collaborated closely with the team, demonstrating leadership by mentoring interns on best practices for data validation.
+
+EDUCATION
+Bachelor's degree in Statistics
+
+SKILLS
+SQL, Docker, Scikit-learn, R, Spark, Machine Learning, Pandas, Statistics
+
+CERTIFICATIONS
+
+LANGUAGES
+English, Arabic

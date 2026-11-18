@@ -1,0 +1,11 @@
+{
+ "provider": "ollama",
+ "model": "qwen3.5:4b",
+ "runs": 3,
+ "steps": [
+  "crosscheck"
+ ],
+ "llm_calls": 0,
+ "cache_hits": 0,
+ "seconds": 2
+}

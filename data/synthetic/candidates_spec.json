@@ -1,0 +1,1100 @@
+[
+ {
+  "id": "S01",
+  "archetype": "data_science",
+  "skills": [
+   "Machine Learning",
+   "Deep Learning",
+   "Python",
+   "SQL",
+   "R"
+  ],
+  "positions": [
+   {
+    "title": "Senior Data Scientist",
+    "domain": "data_science",
+    "start": 2025,
+    "end": 2026
+   },
+   {
+    "title": "Data Scientist",
+    "domain": "data_science",
+    "start": 2022,
+    "end": 2025
+   },
+   {
+    "title": "Junior Data Scientist",
+    "domain": "data_science",
+    "start": 2017,
+    "end": 2022
+   },
+   {
+    "title": "DevOps Engineer",
+    "domain": "devops",
+    "start": 2016,
+    "end": 2017
+   }
+  ],
+  "degree_level": "high_school",
+  "degree_field": "Data Science",
+  "certifications": [],
+  "soft_skills": [
+   "communication",
+   "leadership"
+  ],
+  "languages": [
+   "English",
+   "Spanish",
+   "Arabic"
+  ],
+  "header_a": [
+   "Thomas Martin",
+   "Male",
+   29,
+   "French"
+  ],
+  "header_b": [
+   "Fatima Zahra El Amrani",
+   "Female",
+   54,
+   "Moroccan"
+  ],
+  "body": "PROFESSIONAL EXPERIENCE\nSenior Data Scientist (2025 - 2026): Led a cross-functional team to deploy advanced Machine Learning models, demonstrating strong leadership in project delivery. Successfully trained Deep Learning architectures for predictive analytics while maintaining clear communication with stakeholders across departments.\nData Scientist (2022 - 2025): Managed end-to-end data pipelines using Python and SQL to support business objectives, showcasing effective communication during weekly review meetings. Collaborated on strategic initiatives that required significant leadership in resource allocation and team coordination.\nJunior Data Scientist (2017 - 2022): Executed automated analysis workflows leveraging R for statistical modeling, utilizing Python for script optimization. Participated in team brainstorming sessions to foster open communication and contributed to project planning with supportive leadership behaviors.\nDevOps Engineer (2016 - 2017): Automated deployment processes using Python scripts, ensuring seamless integration of data tools. Communicated technical updates clearly to non-technical staff and coordinated infrastructure upgrades through collaborative leadership efforts.\n\nEDUCATION\nHigh School Diploma in Data Science\n\nSKILLS\nMachine Learning, Deep Learning, Python, SQL, R\n\nCERTIFICATIONS\n\nLANGUAGES\nEnglish, Spanish, Arabic",
+  "body_source": "llm"
+ },
+ {
+  "id": "S02",
+  "archetype": "data_science",
+  "skills": [
+   "R",
+   "Tableau",
+   "Deep Learning"
+  ],
+  "positions": [
+   {
+    "title": "Junior Data Scientist",
+    "domain": "data_science",
+    "start": 2024,
+    "end": 2026
+   },
+   {
+    "title": "Digital Marketing Manager",
+    "domain": "marketing",
+    "start": 2023,
+    "end": 2024
+   }
+  ],
+  "degree_level": "bachelor",
+  "degree_field": "Statistics",
+  "certifications": [
+   "TensorFlow Developer Certificate",
+   "AWS Certified Machine Learning - Specialty"
+  ],
+  "soft_skills": [
+   "leadership"
+  ],
+  "languages": [
+   "English",
+   "French",
+   "Spanish"
+  ],
+  "header_a": [
+   "Lucas Bernard",
+   "Male",
+   31,
+   "French"
+  ],
+  "header_b": [
+   "Ngozi Okafor",
+   "Female",
+   52,
+   "Nigerian"
+  ],
+  "body": "PROFESSIONAL EXPERIENCE\nJunior Data Scientist (2024 - 2026)\n- Leveraged R and Deep Learning to optimize predictive models, demonstrating leadership by guiding the team through iterative refinement of algorithms.\nDigital Marketing Manager (2023 - 2024)\n- Utilized Tableau to visualize campaign performance data, applying leadership skills to align marketing strategies with organizational goals.\n\nEDUCATION\nBachelor's degree in Statistics\n\nSKILLS\nR, Tableau, Deep Learning\n\nCERTIFICATIONS\nTensorFlow Developer Certificate, AWS Certified Machine Learning - Specialty\n\nLANGUAGES\nEnglish, French, Spanish",
+  "body_source": "llm"
+ },
+ {
+  "id": "S03",
+  "archetype": "data_science",
+  "skills": [
+   "Statistics",
+   "Spark",
+   "Docker",
+   "Deep Learning",
+   "R",
+   "Machine Learning",
+   "Tableau"
+  ],
+  "positions": [
+   {
+    "title": "Senior Data Scientist",
+    "domain": "data_science",
+    "start": 2022,
+    "end": 2026
+   },
+   {
+    "title": "Data Scientist",
+    "domain": "data_science",
+    "start": 2019,
+    "end": 2022
+   },
+   {
+    "title": "Junior Data Scientist",
+    "domain": "data_science",
+    "start": 2016,
+    "end": 2019
+   },
+   {
+    "title": "Machine Learning Engineer",
+    "domain": "ml_engineering",
+    "start": 2013,
+    "end": 2016
+   }
+  ],
+  "degree_level": "high_school",
+  "degree_field": "Applied Mathematics",
+  "certifications": [
+   "TensorFlow Developer Certificate",
+   "Microsoft Certified: Azure Data Scientist Associate"
+  ],
+  "soft_skills": [
+   "problem solving",
+   "leadership",
+   "communication",
+   "creativity"
+  ],
+  "languages": [
+   "English",
+   "French",
+   "Spanish"
+  ],
+  "header_a": [
+   "Hugo Petit",
+   "Male",
+   27,
+   "French"
+  ],
+  "header_b": [
+   "Aïcha Diallo",
+   "Female",
+   57,
+   "Senegalese"
+  ],
+  "body": "PROFESSIONAL EXPERIENCE\nSenior Data Scientist (2022 - 2026): Led a cross-functional team to redesign the predictive maintenance model, applying creativity to solve complex operational bottlenecks. Demonstrated leadership by mentoring five junior analysts and enhanced communication during weekly stakeholder reviews.\nData Scientist (2019 - 2022): Built real-time analytics pipelines using Spark and Docker, improving data processing speed by forty percent. Utilized statistics and machine learning to identify key market trends, showcasing strong problem-solving abilities.\nJunior Data Scientist (2016 - 2019): Developed interactive dashboards in Tableau for executive reporting, ensuring clear communication of financial data. Applied deep learning techniques to automate customer segmentation tasks.\nMachine Learning Engineer (2013 - 2016): Optimized neural network architectures using R and TensorFlow, solving legacy algorithm inefficiencies with creative coding approaches.\n\nEDUCATION\nHigh School Diploma in Applied Mathematics\n\nSKILLS\nStatistics, Spark, Docker, Deep Learning, R, Machine Learning, Tableau\n\nCERTIFICATIONS\nTensorFlow Developer Certificate, Microsoft Certified: Azure Data Scientist Associate\n\nLANGUAGES\nEnglish, French, Spanish",
+  "body_source": "llm"
+ },
+ {
+  "id": "S04",
+  "archetype": "data_science",
+  "skills": [
+   "SQL",
+   "Docker",
+   "Scikit-learn",
+   "R",
+   "Spark",
+   "Machine Learning",
+   "Pandas",
+   "Statistics"
+  ],
+  "positions": [
+   {
+    "title": "Senior Data Scientist",
+    "domain": "data_science",
+    "start": 2022,
+    "end": 2026
+   },
+   {
+    "title": "Data Scientist",
+    "domain": "data_science",
+    "start": 2021,
+    "end": 2022
+   },
+   {
+    "title": "Junior Data Scientist",
+    "domain": "data_science",
+    "start": 2020,
+    "end": 2021
+   }
+  ],
+  "degree_level": "bachelor",
+  "degree_field": "Statistics",
+  "certifications": [],
+  "soft_skills": [
+   "creativity",
+   "leadership",
+   "autonomy"
+  ],
+  "languages": [
+   "English",
+   "Arabic"
+  ],
+  "header_a": [
+   "Louis Durand",
+   "Male",
+   33,
+   "French"
+  ],
+  "header_b": [
+   "Mei Lin Chen",
+   "Female",
+   55,
+   "Chinese"
+  ],
+  "body": "PROFESSIONAL EXPERIENCE\nSenior Data Scientist (2022 - 2026)\nLed a cross-functional team to optimize predictive models, demonstrating leadership by coordinating daily stand-ups and defining strategic roadmaps. Leveraged creativity to redesign data pipelines that increased model accuracy by 15% while maintaining autonomy in selecting algorithms for high-volume datasets.\nData Scientist (2021 - 2022)\nDesigned automated reporting dashboards using SQL and Spark, showcasing creativity in visualizing complex datasets for executive stakeholders. Worked independently on data cleaning projects, exercising autonomy to resolve upstream bottlenecks without supervision.\nJunior Data Scientist (2020 - 2021)\nDeveloped regression models with Scikit-learn and Pandas, applying creativity to solve novel forecasting challenges in retail analytics. Collaborated closely with the team, demonstrating leadership by mentoring interns on best practices for data validation.\n\nEDUCATION\nBachelor's degree in Statistics\n\nSKILLS\nSQL, Docker, Scikit-learn, R, Spark, Machine Learning, Pandas, Statistics\n\nCERTIFICATIONS\n\nLANGUAGES\nEnglish, Arabic",
+  "body_source": "llm"
+ },
+ {
+  "id": "S05",
+  "archetype": "data_analysis",
+  "skills": [
+   "Python",
+   "SQL",
+   "Power BI",
+   "Statistics"
+  ],
+  "positions": [
+   {
+    "title": "Data Analyst",
+    "domain": "data_analysis",
+    "start": 2023,
+    "end": 2026
+   },
+   {
+    "title": "MLOps Engineer",
+    "domain": "ml_engineering",
+    "start": 2021,
+    "end": 2023
+   }
+  ],
+  "degree_level": "phd",
+  "degree_field": "Statistics",
+  "certifications": [],
+  "soft_skills": [
+   "autonomy",
+   "time management"
+  ],
+  "languages": [
+   "English",
+   "German"
+  ],
+  "header_a": [
+   "Thomas Martin",
+   "Male",
+   29,
+   "French"
+  ],
+  "header_b": [
+   "Fatima Zahra El Amrani",
+   "Female",
+   54,
+   "Moroccan"
+  ],
+  "body": "PROFESSIONAL EXPERIENCE\nData Analyst (2023 - 2026)\nImplemented Python scripts to automate data cleaning workflows, demonstrating autonomy in identifying and resolving complex dataset issues without constant supervision. Utilized SQL to extract high-volume transaction records, ensuring precise analysis while managing tight project deadlines through effective time management.\nMLOps Engineer (2021 - 2023)\nDeployed machine learning models using Python pipelines, showcasing independence in designing scalable infrastructure for production environments. Applied advanced Statistics methods to validate model performance metrics, maintaining rigorous standards under strict regulatory timelines via proactive time management.\nEDUCATION\nPhD in Statistics\nSKILLS\nPython, SQL, Power BI, Statistics\nLANGUAGES\nEnglish, German",
+  "body_source": "llm"
+ },
+ {
+  "id": "S06",
+  "archetype": "data_analysis",
+  "skills": [
+   "Tableau",
+   "Statistics",
+   "Power BI",
+   "Excel",
+   "SQL",
+   "Pandas"
+  ],
+  "positions": [
+   {
+    "title": "Data Analyst",
+    "domain": "data_analysis",
+    "start": 2024,
+    "end": 2026
+   },
+   {
+    "title": "MLOps Engineer",
+    "domain": "ml_engineering",
+    "start": 2023,
+    "end": 2024
+   }
+  ],
+  "degree_level": "master",
+  "degree_field": "Economics",
+  "certifications": [
+   "Microsoft Certified: Power BI Data Analyst Associate"
+  ],
+  "soft_skills": [
+   "teamwork"
+  ],
+  "languages": [
+   "English"
+  ],
+  "header_a": [
+   "Lucas Bernard",
+   "Male",
+   31,
+   "French"
+  ],
+  "header_b": [
+   "Ngozi Okafor",
+   "Female",
+   52,
+   "Nigerian"
+  ],
+  "body": "PROFESSIONAL EXPERIENCE\nData Analyst (2024 - 2026)\nUtilized Tableau to visualize complex datasets and collaborated through teamwork to deliver actionable insights. Applied advanced Statistics techniques in Excel and SQL to refine financial models, ensuring accuracy while fostering strong teamwork within the department.\nMLOps Engineer (2023 - 2024)\nDeployed automated pipelines using Pandas and Power BI for real-time data monitoring, demonstrating clear teamwork in cross-functional project delivery. Leveraged statistical analysis to optimize model performance, reinforcing a culture of teamwork among engineers.\nEDUCATION\nMaster's degree in Economics\nSKILLS\nTableau, Statistics, Power BI, Excel, SQL, Pandas\nCERTIFICATIONS\nMicrosoft Certified: Power BI Data Analyst Associate\nLANGUAGES\nEnglish",
+  "body_source": "llm"
+ },
+ {
+  "id": "S07",
+  "archetype": "data_analysis",
+  "skills": [
+   "Python",
+   "Statistics",
+   "SQL",
+   "Power BI",
+   "Tableau",
+   "Excel",
+   "Pandas"
+  ],
+  "positions": [
+   {
+    "title": "Business Intelligence Analyst",
+    "domain": "data_analysis",
+    "start": 2022,
+    "end": 2026
+   },
+   {
+    "title": "Data Analyst",
+    "domain": "data_analysis",
+    "start": 2021,
+    "end": 2022
+   }
+  ],
+  "degree_level": "bachelor",
+  "degree_field": "Economics",
+  "certifications": [],
+  "soft_skills": [
+   "autonomy",
+   "teamwork"
+  ],
+  "languages": [
+   "English",
+   "Spanish"
+  ],
+  "header_a": [
+   "Hugo Petit",
+   "Male",
+   27,
+   "French"
+  ],
+  "header_b": [
+   "Aïcha Diallo",
+   "Female",
+   57,
+   "Senegalese"
+  ],
+  "body": "PROFESSIONAL EXPERIENCE\nBusiness Intelligence Analyst (2022 - 2026)\n- Leveraged Python and SQL to automate reporting workflows, demonstrating autonomy by delivering insights without supervision. Collaborated with cross-functional teams using teamwork to align data strategies with business goals.\nData Analyst (2021 - 2022)\n- Utilized Power BI and Tableau to visualize complex datasets, relying on autonomy to design custom dashboards independently. Applied teamwork principles to present findings that drove strategic decision-making.\n\nEDUCATION\nBachelor's degree in Economics\n\nSKILLS\nPython, Statistics, SQL, Power BI, Tableau, Excel, Pandas\n\nLANGUAGES\nEnglish, Spanish",
+  "body_source": "llm"
+ },
+ {
+  "id": "S08",
+  "archetype": "ml_engineering",
+  "skills": [
+   "Python",
+   "Machine Learning",
+   "Scikit-learn",
+   "Git",
+   "Kubernetes"
+  ],
+  "positions": [
+   {
+    "title": "MLOps Engineer",
+    "domain": "ml_engineering",
+    "start": 2024,
+    "end": 2026
+   },
+   {
+    "title": "Machine Learning Engineer",
+    "domain": "ml_engineering",
+    "start": 2021,
+    "end": 2024
+   }
+  ],
+  "degree_level": "master",
+  "degree_field": "Computer Engineering",
+  "certifications": [],
+  "soft_skills": [
+   "time management"
+  ],
+  "languages": [
+   "English",
+   "Arabic",
+   "German"
+  ],
+  "header_a": [
+   "Louis Durand",
+   "Male",
+   33,
+   "French"
+  ],
+  "header_b": [
+   "Mei Lin Chen",
+   "Female",
+   55,
+   "Chinese"
+  ],
+  "body": "PROFESSIONAL EXPERIENCE\nMLOps Engineer (2024 - 2026)\nDeployed scalable machine learning pipelines using Kubernetes to ensure system reliability and time management throughout the development cycle.\nOptimized Python scripts for Scikit-learn models, demonstrating strong time management while reducing inference latency by 30%.\n\nMachine Learning Engineer (2021 - 2024)\nDeveloped predictive analytics solutions utilizing Python and Scikit-learn to solve complex data problems with precise time management.\nIntegrated Git workflows for version control, showcasing collaborative time management to streamline team delivery.\n\nEDUCATION\nMaster's degree in Computer Engineering\n\nSKILLS\nPython, Machine Learning, Scikit-learn, Git, Kubernetes\n\nLANGUAGES\nEnglish, Arabic, German",
+  "body_source": "llm"
+ },
+ {
+  "id": "S09",
+  "archetype": "ml_engineering",
+  "skills": [
+   "Spark",
+   "Kubernetes",
+   "Docker",
+   "AWS",
+   "Machine Learning",
+   "Python",
+   "Scikit-learn",
+   "Git"
+  ],
+  "positions": [
+   {
+    "title": "Machine Learning Engineer",
+    "domain": "ml_engineering",
+    "start": 2021,
+    "end": 2026
+   }
+  ],
+  "degree_level": "master",
+  "degree_field": "Computer Engineering",
+  "certifications": [],
+  "soft_skills": [
+   "leadership",
+   "problem solving",
+   "teamwork"
+  ],
+  "languages": [
+   "English",
+   "French"
+  ],
+  "header_a": [
+   "Thomas Martin",
+   "Male",
+   29,
+   "French"
+  ],
+  "header_b": [
+   "Fatima Zahra El Amrani",
+   "Female",
+   54,
+   "Moroccan"
+  ],
+  "body": "PROFESSIONAL EXPERIENCE\nMachine Learning Engineer (2021 - 2026)\n\nEDUCATION\nMaster's degree in Computer Engineering\n\nSKILLS\nSpark, Kubernetes, Docker, AWS, Machine Learning, Python, Scikit-learn, Git\n\nLANGUAGES\nEnglish (professional), French (professional)\n\nSOFT SKILLS\nleadership, problem solving, teamwork",
+  "body_source": "template"
+ },
+ {
+  "id": "S10",
+  "archetype": "backend",
+  "skills": [
+   "REST APIs",
+   "Hibernate",
+   "Kubernetes",
+   "Git",
+   "Spring Boot",
+   "Kafka",
+   "AWS"
+  ],
+  "positions": [
+   {
+    "title": "Java Developer",
+    "domain": "backend",
+    "start": 2025,
+    "end": 2026
+   },
+   {
+    "title": "Backend Developer",
+    "domain": "backend",
+    "start": 2024,
+    "end": 2025
+   }
+  ],
+  "degree_level": "bachelor",
+  "degree_field": "Computer Science",
+  "certifications": [
+   "AWS Certified Solutions Architect",
+   "Oracle Certified Professional: Java SE Developer"
+  ],
+  "soft_skills": [
+   "problem solving",
+   "communication",
+   "teamwork"
+  ],
+  "languages": [
+   "English",
+   "Spanish"
+  ],
+  "header_a": [
+   "Lucas Bernard",
+   "Male",
+   31,
+   "French"
+  ],
+  "header_b": [
+   "Ngozi Okafor",
+   "Female",
+   52,
+   "Nigerian"
+  ],
+  "body": "PROFESSIONAL EXPERIENCE\n\nJava Developer (2025 - 2026)\n- Designed scalable REST APIs using Spring Boot and Hibernate, leveraging problem solving to optimize database queries and ensure high availability on AWS.\n- Collaborated with cross-functional teams to integrate Kafka streams for real-time data processing, demonstrating strong communication and teamwork while deploying solutions via Kubernetes and Git.\n\nBackend Developer (2024 - 2025)\n- Developed secure microservices utilizing Spring Boot and REST APIs, applying problem solving to resolve complex latency issues and enhancing system reliability on AWS infrastructure.\n- Facilitated agile development cycles through effective communication and teamwork, managing code versioning with Git and orchestrating containerized environments using Kubernetes.\n\nEDUCATION\nBachelor's degree in Computer Science\n\nSKILLS\nREST APIs, Hibernate, Kubernetes, Git, Spring Boot, Kafka, AWS\n\nCERTIFICATIONS\nAWS Certified Solutions Architect, Oracle Certified Professional: Java SE Developer\n\nLANGUAGES\nEnglish, Spanish",
+  "body_source": "llm"
+ },
+ {
+  "id": "S11",
+  "archetype": "backend",
+  "skills": [
+   "Java",
+   "Kafka",
+   "Git",
+   "Kubernetes",
+   "AWS",
+   "Hibernate",
+   "Docker"
+  ],
+  "positions": [
+   {
+    "title": "Java Developer",
+    "domain": "backend",
+    "start": 2024,
+    "end": 2026
+   },
+   {
+    "title": "Backend Developer",
+    "domain": "backend",
+    "start": 2020,
+    "end": 2024
+   }
+  ],
+  "degree_level": "bachelor",
+  "degree_field": "Computer Engineering",
+  "certifications": [
+   "Oracle Certified Professional: Java SE Developer"
+  ],
+  "soft_skills": [
+   "autonomy",
+   "time management",
+   "communication",
+   "teamwork"
+  ],
+  "languages": [
+   "English",
+   "French",
+   "Spanish"
+  ],
+  "header_a": [
+   "Hugo Petit",
+   "Male",
+   27,
+   "French"
+  ],
+  "header_b": [
+   "Aïcha Diallo",
+   "Female",
+   57,
+   "Senegalese"
+  ],
+  "body": "PROFESSIONAL EXPERIENCE\n\nJava Developer (2024 - 2026)\n- Leveraged Java and Hibernate to architect scalable microservices while demonstrating autonomy in resolving complex data layer issues.\n- Managed distributed event processing using Kafka within Kubernetes environments, showcasing time management by delivering critical updates ahead of schedule.\n\nBackend Developer (2020 - 2024)\n- Deployed containerized applications via Docker and AWS to ensure high availability, utilizing effective communication with cross-functional teams.\n- Collaborated on CI/CD pipelines involving Git and Kafka integration, evidencing teamwork through successful project completions.\n\nEDUCATION\nBachelor's degree in Computer Engineering\n\nSKILLS\nJava, Kafka, Git, Kubernetes, AWS, Hibernate, Docker\n\nCERTIFICATIONS\nOracle Certified Professional: Java SE Developer\n\nLANGUAGES\nEnglish, French, Spanish",
+  "body_source": "llm"
+ },
+ {
+  "id": "S12",
+  "archetype": "backend",
+  "skills": [
+   "Hibernate",
+   "Kafka",
+   "Git",
+   "Spring Boot"
+  ],
+  "positions": [
+   {
+    "title": "Software Engineer",
+    "domain": "backend",
+    "start": 2021,
+    "end": 2026
+   },
+   {
+    "title": "Java Developer",
+    "domain": "backend",
+    "start": 2019,
+    "end": 2021
+   },
+   {
+    "title": "Backend Developer",
+    "domain": "backend",
+    "start": 2018,
+    "end": 2019
+   },
+   {
+    "title": "Accountant",
+    "domain": "accounting",
+    "start": 2015,
+    "end": 2018
+   }
+  ],
+  "degree_level": "master",
+  "degree_field": "Computer Science",
+  "certifications": [
+   "Oracle Certified Professional: Java SE Developer"
+  ],
+  "soft_skills": [
+   "communication",
+   "problem solving"
+  ],
+  "languages": [
+   "English",
+   "Arabic"
+  ],
+  "header_a": [
+   "Louis Durand",
+   "Male",
+   33,
+   "French"
+  ],
+  "header_b": [
+   "Mei Lin Chen",
+   "Female",
+   55,
+   "Chinese"
+  ],
+  "body": "PROFESSIONAL EXPERIENCE\nSoftware Engineer (2021 - 2026)\nImplemented scalable microservices using Spring Boot and Kafka to enhance system throughput, demonstrating strong problem solving by diagnosing latency bottlenecks. Led team meetings to clarify project goals with stakeholders, showcasing effective communication.\nJava Developer (2019 - 2021)\nDeveloped robust enterprise applications with Hibernate for seamless data persistence, utilizing Git for efficient version control collaboration. Resolved complex architectural conflicts through active communication and applied problem solving to optimize database queries.\nBackend Developer (2018 - 2019)\nDesigned secure REST APIs leveraging Spring Boot and Hibernate frameworks, maintaining clear communication during sprint planning sessions. Analyzed system logs to identify performance issues, applying rigorous problem solving techniques.\nAccountant (2015 - 2018)\nManaged financial reporting processes with high accuracy, ensuring all data was communicated clearly to senior management. Detected discrepancies in ledgers through detailed problem solving and corrected errors within deadlines.\n\nEDUCATION\nMaster's degree in Computer Science\n\nSKILLS\nHibernate, Kafka, Git, Spring Boot\n\nCERTIFICATIONS\nOracle Certified Professional: Java SE Developer\n\nLANGUAGES\nEnglish, Arabic",
+  "body_source": "llm"
+ },
+ {
+  "id": "S13",
+  "archetype": "backend",
+  "skills": [
+   "Java",
+   "Git",
+   "Kafka",
+   "AWS"
+  ],
+  "positions": [
+   {
+    "title": "Software Engineer",
+    "domain": "backend",
+    "start": 2021,
+    "end": 2026
+   },
+   {
+    "title": "Java Developer",
+    "domain": "backend",
+    "start": 2017,
+    "end": 2021
+   },
+   {
+    "title": "Backend Developer",
+    "domain": "backend",
+    "start": 2012,
+    "end": 2017
+   },
+   {
+    "title": "Data Analyst",
+    "domain": "data_analysis",
+    "start": 2009,
+    "end": 2012
+   }
+  ],
+  "degree_level": "master",
+  "degree_field": "Computer Science",
+  "certifications": [
+   "Oracle Certified Professional: Java SE Developer",
+   "AWS Certified Solutions Architect"
+  ],
+  "soft_skills": [
+   "teamwork",
+   "autonomy"
+  ],
+  "languages": [
+   "English",
+   "French",
+   "Spanish"
+  ],
+  "header_a": [
+   "Thomas Martin",
+   "Male",
+   29,
+   "French"
+  ],
+  "header_b": [
+   "Fatima Zahra El Amrani",
+   "Female",
+   54,
+   "Moroccan"
+  ],
+  "body": "PROFESSIONAL EXPERIENCE\nSoftware Engineer (2021 - 2026)\nDeveloped scalable cloud-native applications using AWS and Kafka, demonstrating teamwork by coordinating with cross-functional squads. Worked autonomously to optimize system performance, reducing latency by 20%.\nJava Developer (2017 - 2021)\nEngineered robust backend services leveraging Java and Git for version control, showcasing autonomy in resolving complex architectural challenges. Collaborated effectively within the team to deliver features ahead of schedule through active teamwork.\nBackend Developer (2012 - 2017)\nMaintained legacy enterprise systems using Java and Git, exercising autonomy in refactoring critical modules without supervision. Practiced teamwork by mentoring junior developers on best practices.\nData Analyst (2009 - 2012)\nAnalyzed large datasets to drive strategic decisions, utilizing teamwork to align data insights with business goals. Operated autonomously to automate reporting workflows, improving data accuracy.\nEDUCATION\nMaster's degree in Computer Science\nSKILLS\nJava, Git, Kafka, AWS\nCERTIFICATIONS\nOracle Certified Professional: Java SE Developer, AWS Certified Solutions Architect\nLANGUAGES\nEnglish, French, Spanish",
+  "body_source": "llm"
+ },
+ {
+  "id": "S14",
+  "archetype": "frontend",
+  "skills": [
+   "TypeScript",
+   "CSS",
+   "JavaScript",
+   "Figma",
+   "REST APIs",
+   "HTML"
+  ],
+  "positions": [
+   {
+    "title": "Frontend Developer",
+    "domain": "frontend",
+    "start": 2025,
+    "end": 2026
+   }
+  ],
+  "degree_level": "master",
+  "degree_field": "Computer Science",
+  "certifications": [
+   "Meta Front-End Developer Certificate"
+  ],
+  "soft_skills": [
+   "leadership",
+   "time management",
+   "creativity",
+   "teamwork",
+   "problem solving"
+  ],
+  "languages": [
+   "English",
+   "German"
+  ],
+  "header_a": [
+   "Lucas Bernard",
+   "Male",
+   31,
+   "French"
+  ],
+  "header_b": [
+   "Ngozi Okafor",
+   "Female",
+   52,
+   "Nigerian"
+  ],
+  "body": "PROFESSIONAL EXPERIENCE\nFrontend Developer (2025 - 2026)\n- Led a cross-functional team in delivering complex user interfaces, demonstrating strong leadership and creativity while streamlining the development workflow through effective time management.\n- Collaborated with backend engineers to integrate REST APIs into dynamic web applications, utilizing teamwork and problem-solving skills to resolve critical data visualization issues promptly.\n\nEDUCATION\nMaster's degree in Computer Science\n\nSKILLS\nTypeScript, CSS, JavaScript, Figma, REST APIs, HTML\n\nCERTIFICATIONS\nMeta Front-End Developer Certificate\n\nLANGUAGES\nEnglish, German",
+  "body_source": "llm"
+ },
+ {
+  "id": "S15",
+  "archetype": "frontend",
+  "skills": [
+   "CSS",
+   "Figma",
+   "TypeScript",
+   "HTML",
+   "Git",
+   "REST APIs",
+   "JavaScript"
+  ],
+  "positions": [
+   {
+    "title": "Web Developer",
+    "domain": "frontend",
+    "start": 2022,
+    "end": 2026
+   },
+   {
+    "title": "Frontend Developer",
+    "domain": "frontend",
+    "start": 2019,
+    "end": 2022
+   },
+   {
+    "title": "Data Analyst",
+    "domain": "data_analysis",
+    "start": 2017,
+    "end": 2019
+   }
+  ],
+  "degree_level": "bachelor",
+  "degree_field": "Web Design",
+  "certifications": [],
+  "soft_skills": [
+   "creativity",
+   "time management"
+  ],
+  "languages": [
+   "English",
+   "French",
+   "German"
+  ],
+  "header_a": [
+   "Hugo Petit",
+   "Male",
+   27,
+   "French"
+  ],
+  "header_b": [
+   "Aïcha Diallo",
+   "Female",
+   57,
+   "Senegalese"
+  ],
+  "body": "PROFESSIONAL EXPERIENCE\n\nWeb Developer (2022 - 2026)\n- Engineered responsive user interfaces using HTML and CSS, applying creativity to design intuitive navigation flows. \n- Deployed complex front-end logic via JavaScript and TypeScript to optimize REST API interactions, demonstrating time management by delivering features ahead of schedule.\n\nFrontend Developer (2019 - 2022)\n- Collaborated with design teams using Figma to translate wireframes into pixel-perfect layouts, showcasing creativity in visual problem solving. \n- Maintained version control pipelines through Git, ensuring time management during rapid sprints and bug fixes.\n\nData Analyst (2017 - 2019)\n- Transformed raw datasets into actionable reports using JavaScript logic, reflecting creativity in identifying hidden trends. \n- Streamlined data processing workflows with REST APIs, highlighting time management by reducing reporting latency by 30%.\n\nEDUCATION\n\nBachelor's degree in Web Design\n\nSKILLS\n\nCSS, Figma, TypeScript, HTML, Git, REST APIs, JavaScript\n\nLANGUAGES\n\nEnglish, French, German",
+  "body_source": "llm"
+ },
+ {
+  "id": "S16",
+  "archetype": "devops",
+  "skills": [
+   "Python",
+   "Terraform",
+   "Kubernetes"
+  ],
+  "positions": [
+   {
+    "title": "DevOps Engineer",
+    "domain": "devops",
+    "start": 2024,
+    "end": 2026
+   }
+  ],
+  "degree_level": "phd",
+  "degree_field": "Computer Science",
+  "certifications": [
+   "AWS Certified Solutions Architect"
+  ],
+  "soft_skills": [
+   "problem solving",
+   "time management"
+  ],
+  "languages": [
+   "English",
+   "Spanish"
+  ],
+  "header_a": [
+   "Louis Durand",
+   "Male",
+   33,
+   "French"
+  ],
+  "header_b": [
+   "Mei Lin Chen",
+   "Female",
+   55,
+   "Chinese"
+  ],
+  "body": "PROFESSIONAL EXPERIENCE\nDevOps Engineer (2024 - 2026)\n- Orchestrated automated infrastructure deployments using Python and Terraform, ensuring seamless integration of microservices on Kubernetes clusters while demonstrating strong problem-solving capabilities to resolve complex configuration bottlenecks.\n- Managed daily operational cycles across distributed environments with rigorous time management, delivering critical performance enhancements within strict deadlines without compromising system reliability.\n\nEDUCATION\nPhD in Computer Science\n\nSKILLS\nPython, Terraform, Kubernetes\n\nCERTIFICATIONS\nAWS Certified Solutions Architect\n\nLANGUAGES\nEnglish, Spanish",
+  "body_source": "llm"
+ },
+ {
+  "id": "S17",
+  "archetype": "devops",
+  "skills": [
+   "Git",
+   "Linux",
+   "Python",
+   "AWS",
+   "Docker",
+   "Terraform"
+  ],
+  "positions": [
+   {
+    "title": "DevOps Engineer",
+    "domain": "devops",
+    "start": 2025,
+    "end": 2026
+   },
+   {
+    "title": "Machine Learning Engineer",
+    "domain": "ml_engineering",
+    "start": 2024,
+    "end": 2025
+   }
+  ],
+  "degree_level": "bachelor",
+  "degree_field": "Computer Engineering",
+  "certifications": [
+   "AWS Certified Solutions Architect"
+  ],
+  "soft_skills": [
+   "teamwork",
+   "leadership",
+   "creativity",
+   "autonomy"
+  ],
+  "languages": [
+   "English",
+   "French",
+   "Spanish"
+  ],
+  "header_a": [
+   "Thomas Martin",
+   "Male",
+   29,
+   "French"
+  ],
+  "header_b": [
+   "Fatima Zahra El Amrani",
+   "Female",
+   54,
+   "Moroccan"
+  ],
+  "body": "PROFESSIONAL EXPERIENCE\nDevOps Engineer (2025 - 2026)\nLed cross-functional projects requiring strong teamwork to automate infrastructure pipelines, demonstrating leadership in coordinating resources. Utilized creativity to design novel CI/CD workflows and maintained autonomy by independently resolving complex deployment issues.\nMachine Learning Engineer (2024 - 2025)\nCollaborated with data science teams using teamwork to integrate ML models into production environments, showcasing leadership in defining technical roadmaps. Exercised creativity to optimize model performance and exercised autonomy in debugging legacy systems on Linux.\nEDUCATION\nBachelor's degree in Computer Engineering\nSKILLS\nGit, Python, AWS, Docker, Terraform\nCERTIFICATIONS\nAWS Certified Solutions Architect\nLANGUAGES\nEnglish, French, Spanish",
+  "body_source": "llm"
+ },
+ {
+  "id": "S18",
+  "archetype": "accounting",
+  "skills": [
+   "Financial Reporting",
+   "Excel",
+   "IFRS"
+  ],
+  "positions": [
+   {
+    "title": "Accountant",
+    "domain": "accounting",
+    "start": 2023,
+    "end": 2026
+   },
+   {
+    "title": "Marketing Specialist",
+    "domain": "marketing",
+    "start": 2022,
+    "end": 2023
+   }
+  ],
+  "degree_level": "bachelor",
+  "degree_field": "Accounting",
+  "certifications": [
+   "Certified Public Accountant (CPA)"
+  ],
+  "soft_skills": [
+   "leadership",
+   "autonomy",
+   "problem solving"
+  ],
+  "languages": [
+   "English",
+   "French"
+  ],
+  "header_a": [
+   "Lucas Bernard",
+   "Male",
+   31,
+   "French"
+  ],
+  "header_b": [
+   "Ngozi Okafor",
+   "Female",
+   52,
+   "Nigerian"
+  ],
+  "body": "PROFESSIONAL EXPERIENCE\nAccountant (2023 - 2026)\nManaged complex financial datasets using Excel to prepare monthly reports, demonstrating autonomy in daily operations. Led a team of junior staff to review quarterly statements, showcasing leadership and problem-solving during audits.\nMarketing Specialist (2022 - 2023)\nPrepared sales analytics for client presentations using Financial Reporting standards, illustrating problem-solving abilities. Directed campaign metrics analysis with Excel, exhibiting autonomy in strategic planning.\nEDUCATION\nBachelor's degree in Accounting\nSKILLS\nFinancial Reporting, Excel, IFRS\nCERTIFICATIONS\nCertified Public Accountant (CPA)\nLANGUAGES\nEnglish, French",
+  "body_source": "llm"
+ },
+ {
+  "id": "S19",
+  "archetype": "accounting",
+  "skills": [
+   "Excel",
+   "SAP",
+   "IFRS",
+   "Budgeting"
+  ],
+  "positions": [
+   {
+    "title": "Financial Analyst",
+    "domain": "accounting",
+    "start": 2021,
+    "end": 2026
+   },
+   {
+    "title": "Accountant",
+    "domain": "accounting",
+    "start": 2019,
+    "end": 2021
+   },
+   {
+    "title": "Frontend Developer",
+    "domain": "frontend",
+    "start": 2016,
+    "end": 2019
+   }
+  ],
+  "degree_level": "bachelor",
+  "degree_field": "Accounting",
+  "certifications": [
+   "Certified Public Accountant (CPA)"
+  ],
+  "soft_skills": [
+   "communication"
+  ],
+  "languages": [
+   "English",
+   "Spanish"
+  ],
+  "header_a": [
+   "Hugo Petit",
+   "Male",
+   27,
+   "French"
+  ],
+  "header_b": [
+   "Aïcha Diallo",
+   "Female",
+   57,
+   "Senegalese"
+  ],
+  "body": "PROFESSIONAL EXPERIENCE\nFinancial Analyst (2021 - 2026)\nImplemented rigorous budgeting strategies that optimized quarterly cash flow projections by fifteen percent.\nCollaborated cross-functionally to ensure accurate financial reporting standards aligned with IFRS requirements.\nAccountant (2019 - 2021)\nManaged complex tax reconciliation tasks while maintaining clear communication with external auditors throughout the review process.\nDeveloped automated Excel models that reduced manual data entry errors by twenty percent across departmental ledgers.\nFrontend Developer (2016 - 2019)\nDesigned intuitive user interfaces for internal financial dashboards, demonstrating effective communication during stakeholder training sessions.\nIntegrated SAP modules to streamline data visualization tools used by accounting teams for real-time reporting.\nEDUCATION\nBachelor's degree in Accounting\nSKILLS\nExcel, SAP, IFRS, Budgeting\nCERTIFICATIONS\nCertified Public Accountant (CPA)\nLANGUAGES\nEnglish, Spanish",
+  "body_source": "llm"
+ },
+ {
+  "id": "S20",
+  "archetype": "marketing",
+  "skills": [
+   "Excel",
+   "Social Media Marketing",
+   "Content Strategy"
+  ],
+  "positions": [
+   {
+    "title": "Digital Marketing Manager",
+    "domain": "marketing",
+    "start": 2021,
+    "end": 2026
+   },
+   {
+    "title": "Marketing Specialist",
+    "domain": "marketing",
+    "start": 2018,
+    "end": 2021
+   }
+  ],
+  "degree_level": "phd",
+  "degree_field": "Communication",
+  "certifications": [],
+  "soft_skills": [
+   "autonomy",
+   "problem solving"
+  ],
+  "languages": [
+   "Spanish"
+  ],
+  "header_a": [
+   "Louis Durand",
+   "Male",
+   33,
+   "French"
+  ],
+  "header_b": [
+   "Mei Lin Chen",
+   "Female",
+   55,
+   "Chinese"
+  ],
+  "body": "PROFESSIONAL EXPERIENCE\nDigital Marketing Manager (2021 - 2026)\n- Led cross-functional teams with full autonomy to execute a data-driven content strategy that increased organic social media engagement by 40% while resolving complex algorithmic shifts.\n- Applied advanced problem solving techniques using Excel to forecast campaign ROI, optimizing budget allocation and resulting in a 25% reduction in cost per acquisition.\n\nMarketing Specialist (2018 - 2021)\n- Operated independently to develop and monitor content strategies across multiple channels, ensuring timely delivery without daily supervision.\n- Utilized Excel for market analysis and employed problem solving skills to overcome platform restrictions, successfully launching three viral social media campaigns.\n\nEDUCATION\nPhD in Communication\n\nSKILLS\nExcel, Social Media Marketing, Content Strategy\n\nLANGUAGES\nSpanish",
+  "body_source": "llm"
+ }
+]

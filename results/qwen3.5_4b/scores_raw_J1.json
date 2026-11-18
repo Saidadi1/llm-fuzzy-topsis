@@ -1,0 +1,2322 @@
+{
+ "S01": [
+  {
+   "C1": {
+    "criterion_id": "C1",
+    "evidence": "Machine Learning, Deep Learning, Python, SQL, R",
+    "rationale": "Candidate lists all required core skills plus preferred Deep Learning and Spark-equivalent tools.",
+    "term": "High"
+   },
+   "C2": {
+    "criterion_id": "C2",
+    "evidence": "Senior Data Scientist (2025 - 2026)",
+    "rationale": "Ten years of progressive experience exceeds the minimum three-year requirement.",
+    "term": "Very High"
+   },
+   "C3": {
+    "criterion_id": "C3",
+    "evidence": "High School Diploma in Data Science",
+    "rationale": "A high school diploma does not meet the degree requirement for this role.",
+    "term": "Low"
+   },
+   "C4": {
+    "criterion_id": "C4",
+    "evidence": "",
+    "rationale": "No professional certifications are listed on the CV.",
+    "term": "Very Low"
+   },
+   "C5": {
+    "criterion_id": "C5",
+    "evidence": "demonstrating strong leadership in project delivery",
+    "rationale": "Explicit mentions of leadership and communication partially satisfy soft skill requirements.",
+    "term": "Medium"
+   },
+   "C6": {
+    "criterion_id": "C6",
+    "evidence": "English, Spanish, Arabic",
+    "rationale": "Candidate speaks English but lacks the required French proficiency.",
+    "term": "Low"
+   }
+  },
+  {
+   "C1": {
+    "criterion_id": "C1",
+    "evidence": "Machine Learning, Deep Learning, Python, SQL, R",
+    "rationale": "Candidate lists core skills but lacks specific mention of Pandas, Scikit-learn, or Spark required by the offer. term",
+    "term": "Medium"
+   },
+   "C2": {
+    "criterion_id": "C2",
+    "evidence": "Senior Data Scientist (2025 - 2026)",
+    "rationale": "Current title is future-dated and total experience since 2017 spans only about 8 years with no specific project details confirming 3+ years in the exact role. term",
+    "term": "Low"
+   },
+   "C3": {
+    "criterion_id": "C3",
+    "evidence": "High School Diploma in Data Science",
+    "rationale": "The highest degree is a high school diploma, which does not meet the requirement for a degree or Master's/PhD in a relevant field. term",
+    "term": "Very Low"
+   },
+   "C4": {
+    "criterion_id": "C4",
+    "evidence": "",
+    "rationale": "No certifications are listed on the CV despite several being appreciated by the job offer. term",
+    "term": "Very Low"
+   },
+   "C5": {
+    "criterion_id": "C5",
+    "evidence": "demonstrating strong leadership in project delivery",
+    "rationale": "Soft skills like communication and teamwork are mentioned but lack concrete achievements or demonstrated problem-solving examples. term",
+    "term": "Low"
+   },
+   "C6": {
+    "criterion_id": "C6",
+    "evidence": "English, Spanish, Arabic",
+    "rationale": "The CV lists Spanish and Arabic instead of the required French, and proficiency levels are not specified. term",
+    "term": "Low"
+   }
+  },
+  {
+   "C1": {
+    "criterion_id": "C1",
+    "evidence": "Machine Learning, Deep Learning, Python, SQL, R",
+    "rationale": "Candidate covers all required hard skills plus preferred tools like Deep Learning and Spark alternatives via deep learning architectures.",
+    "term": "High"
+   },
+   "C2": {
+    "criterion_id": "C2",
+    "evidence": "",
+    "rationale": "CV shows dates 2017-2026 but no explicit statement of years of professional experience in a Data Scientist role.",
+    "term": "Very Low"
+   },
+   "C3": {
+    "criterion_id": "C3",
+    "evidence": "High School Diploma in Data Science",
+    "rationale": "A high school diploma does not meet the requirement for a degree, Master's or PhD.",
+    "term": "Low"
+   },
+   "C4": {
+    "criterion_id": "C4",
+    "evidence": "",
+    "rationale": "No specific certifications are listed in the CV section, only an empty LANGUAGES header.",
+    "term": "Very Low"
+   },
+   "C5": {
+    "criterion_id": "C5",
+    "evidence": "demonstrating strong leadership... clear communication with stakeholders... fostering open communication",
+    "rationale": "CV explicitly mentions leadership, teamwork through cross-functional collaboration, and clear communication multiple times.",
+    "term": "High"
+   },
+   "C6": {
+    "criterion_id": "C6",
+    "evidence": "English, Spanish, Arabic",
+    "rationale": "Candidate speaks English but lacks the required French proficiency; also does not list professional language level.",
+    "term": "Low"
+   }
+  }
+ ],
+ "S02": [
+  {
+   "C1": {
+    "criterion_id": "C1",
+    "evidence": "Leveraged R and Deep Learning to optimize predictive models",
+    "rationale": "Candidate lists required Python, SQL, Pandas, Scikit-learn but only demonstrates R, Deep Learning, and Tableau usage without depth evidence for core requirements.",
+    "term": "Medium"
+   },
+   "C2": {
+    "criterion_id": "C2",
+    "evidence": "",
+    "rationale": "No professional experience listed prior to 2024, failing the minimum 3 years requirement for a Data Scientist role.",
+    "term": "Very Low"
+   },
+   "C3": {
+    "criterion_id": "C3",
+    "evidence": "Bachelor's degree in Statistics",
+    "rationale": "Degree field matches requirements but lacks the Master's or PhD level preferred by the job offer.",
+    "term": "Medium"
+   },
+   "C4": {
+    "criterion_id": "C4",
+    "evidence": "TensorFlow Developer Certificate, AWS Certified Machine Learning - Specialty",
+    "rationale": "Candidate holds two highly relevant certifications explicitly listed as appreciated in the job offer.",
+    "term": "High"
+   },
+   "C5": {
+    "criterion_id": "C5",
+    "evidence": "demonstrating leadership by guiding the team through iterative refinement of algorithms",
+    "rationale": "Evidence shows teamwork and problem solving but lacks explicit mention of communication skills or autonomy.",
+    "term": "Medium"
+   },
+   "C6": {
+    "criterion_id": "C6",
+    "evidence": "English, French, Spanish",
+    "rationale": "Candidate lists both required languages (English and French) with no indication of lower proficiency.",
+    "term": "Very High"
+   }
+  },
+  {
+   "C1": {
+    "criterion_id": "C1",
+    "evidence": "",
+    "rationale": "The candidate lists R and Deep Learning but lacks explicit Python, SQL, or Scikit-learn usage required by the role.",
+    "term": "Very Low"
+   },
+   "C2": {
+    "criterion_id": "C2",
+    "evidence": "Junior Data Scientist (2024 - 2026)",
+    "rationale": "The role requires at least 3 years of experience while this candidate has only one year listed.",
+    "term": "Low"
+   },
+   "C3": {
+    "criterion_id": "C3",
+    "evidence": "Bachelor's degree in Statistics",
+    "rationale": "The candidate holds a Bachelor's in Statistics, which directly matches the education requirement.",
+    "term": "High"
+   },
+   "C4": {
+    "criterion_id": "C4",
+    "evidence": "TensorFlow Developer Certificate, AWS Certified Machine Learning - Specialty",
+    "rationale": "The candidate has two relevant certifications including the requested AWS and TensorFlow certificates.",
+    "term": "Medium"
+   },
+   "C5": {
+    "criterion_id": "C5",
+    "evidence": "demonstrating leadership by guiding the team through iterative refinement of algorithms",
+    "rationale": "The candidate explicitly mentions leadership skills applied to algorithm refinement, meeting soft skill criteria.",
+    "term": "Medium"
+   },
+   "C6": {
+    "criterion_id": "C6",
+    "evidence": "English, French, Spanish",
+    "rationale": "The candidate lists both English and French at a professional level, fully covering the language requirements.",
+    "term": "Very High"
+   }
+  },
+  {
+   "C1": {
+    "criterion_id": "C1",
+    "evidence": "Leveraged R and Deep Learning to optimize predictive models... Utilized Tableau... SKILLS: R, Tableau, Deep Learning",
+    "rationale": "Candidate has relevant Python tools (Deep Learning) but lacks explicit mention of required Python, SQL, Pandas, or Scikit-learn.",
+    "term": "Medium"
+   },
+   "C2": {
+    "criterion_id": "C2",
+    "evidence": "",
+    "rationale": "No evidence of at least 3 years of professional experience in a Data Scientist role; current role duration is listed as future dates.",
+    "term": "Very Low"
+   },
+   "C3": {
+    "criterion_id": "C3",
+    "evidence": "Bachelor's degree in Statistics",
+    "rationale": "Candidate holds a Bachelor's which meets the minimum requirement but lacks the preferred Master's or PhD.",
+    "term": "Low"
+   },
+   "C4": {
+    "criterion_id": "C4",
+    "evidence": "TensorFlow Developer Certificate, AWS Certified Machine Learning - Specialty",
+    "rationale": "Candidate possesses two of the four specific certifications listed as appreciated for this role.",
+    "term": "High"
+   },
+   "C5": {
+    "criterion_id": "C5",
+    "evidence": "demonstrating leadership by guiding the team... applying leadership skills to align marketing strategies...",
+    "rationale": "Evidence supports soft skills like leadership, but explicit communication and teamwork are not demonstrated with concrete achievements.",
+    "term": "Medium"
+   },
+   "C6": {
+    "criterion_id": "C6",
+    "evidence": "English, French, Spanish",
+    "rationale": "Candidate explicitly lists both required languages (English and French) alongside a third language.",
+    "term": "Very High"
+   }
+  }
+ ],
+ "S03": [
+  {
+   "C1": {
+    "criterion_id": "C1",
+    "evidence": "Statistics, Spark, Docker, Deep Learning, R, Machine Learning, Tableau",
+    "rationale": "Candidate lists all required Python tools plus preferred Spark and Docker, though Python is not explicitly listed in the skills section.",
+    "term": "High"
+   },
+   "C2": {
+    "criterion_id": "C2",
+    "evidence": "Senior Data Scientist (2022 - 2026)",
+    "rationale": "Five years of professional experience exceeds the minimum three-year requirement for a similar role.",
+    "term": "Very High"
+   },
+   "C3": {
+    "criterion_id": "C3",
+    "evidence": "High School Diploma in Applied Mathematics",
+    "rationale": "A high school diploma does not meet the degree requirement, and applied mathematics is less relevant than statistics or data science.",
+    "term": "Low"
+   },
+   "C4": {
+    "criterion_id": "C4",
+    "evidence": "TensorFlow Developer Certificate, Microsoft Certified: Azure Data Scientist Associate",
+    "rationale": "Two certifications match two of the four listed preferred certifications, demonstrating partial relevance.",
+    "term": "Medium"
+   },
+   "C5": {
+    "criterion_id": "C5",
+    "evidence": "Led a cross-functional team... Demonstrated leadership by mentoring five junior analysts and enhanced communication",
+    "rationale": "Explicit mentions of leading teams, mentoring, and stakeholder communication directly address the required soft skills.",
+    "term": "High"
+   },
+   "C6": {
+    "criterion_id": "C6",
+    "evidence": "English, French, Spanish",
+    "rationale": "Candidate lists both English and French with no proficiency level specified, meeting the language requirement.",
+    "term": "Very High"
+   }
+  },
+  {
+   "C1": {
+    "criterion_id": "C1",
+    "evidence": "Statistics, Spark, Docker, Deep Learning, R, Machine Learning, Tableau",
+    "rationale": "Candidate lists key required tools but lacks specific evidence of Python and Pandas usage in the CV text. C2 term: ",
+    "term": "Medium"
+   },
+   "C2": {
+    "criterion_id": "C2",
+    "evidence": "Senior Data Scientist (2022 - 2026)",
+    "rationale": "The candidate holds a Senior title with over 8 years of experience, exceeding the minimum 3-year requirement.",
+    "term": "High"
+   },
+   "C3": {
+    "criterion_id": "C3",
+    "evidence": "High School Diploma in Applied Mathematics",
+    "rationale": "A high school diploma is insufficient compared to the required degree or higher education for this role.",
+    "term": "Low"
+   },
+   "C4": {
+    "criterion_id": "C4",
+    "evidence": "TensorFlow Developer Certificate, Microsoft Certified: Azure Data Scientist Associate",
+    "rationale": "Candidate holds two relevant certifications, including one from the preferred list. C5 term: ",
+    "term": "Medium"
+   },
+   "C5": {
+    "criterion_id": "C5",
+    "evidence": "Demonstrated leadership by mentoring five junior analysts and enhanced communication during weekly stakeholder reviews",
+    "rationale": "Explicit mentions of leadership, communication, and problem-solving directly align with required soft skills.",
+    "term": "High"
+   },
+   "C6": {
+    "criterion_id": "C6",
+    "evidence": "English, French, Spanish",
+    "rationale": "Candidate meets the requirement for both English and French with additional proficiency in Spanish.",
+    "term": "Very High"
+   }
+  },
+  {
+   "C1": {
+    "criterion_id": "C1",
+    "evidence": "Statistics, Spark, Docker, Deep Learning, R, Machine Learning, Tableau",
+    "rationale": "Candidate lists all core required Python/ML tools plus several nice-to-haves like Spark and Docker but lacks explicit Python mention in the skills list.",
+    "term": "High"
+   },
+   "C2": {
+    "criterion_id": "C2",
+    "evidence": "Senior Data Scientist (2022 - 2026)... Data Scientist (2019 - 2022)",
+    "rationale": "Ten years of progressively senior professional experience exceeds the minimum three-year requirement.",
+    "term": "Very High"
+   },
+   "C3": {
+    "criterion_id": "C3",
+    "evidence": "High School Diploma in Applied Mathematics",
+    "rationale": "A high school diploma does not meet the education requirement for a degree or Master's degree.",
+    "term": "Low"
+   },
+   "C4": {
+    "criterion_id": "C4",
+    "evidence": "TensorFlow Developer Certificate, Microsoft Certified: Azure Data Scientist Associate",
+    "rationale": "Two relevant certifications match two of four listed options, indicating partial coverage of preferred credentials.",
+    "term": "Medium"
+   },
+   "C5": {
+    "criterion_id": "C5",
+    "evidence": "Led a cross-functional team... mentoring five junior analysts and enhanced communication",
+    "rationale": "Direct evidence of leadership, teamwork, and communication skills is provided through specific role descriptions.",
+    "term": "High"
+   },
+   "C6": {
+    "criterion_id": "C6",
+    "evidence": "English, French, Spanish",
+    "rationale": "Candidate lists both required languages (English and French) in addition to a third language.",
+    "term": "Very High"
+   }
+  }
+ ],
+ "S04": [
+  {
+   "C1": {
+    "criterion_id": "C1",
+    "evidence": "SQL, Docker, Scikit-learn, R, Spark, Machine Learning, Pandas, Statistics",
+    "rationale": "Candidate lists all required hard skills plus preferred tools like Spark and Docker.",
+    "term": "High"
+   },
+   "C2": {
+    "criterion_id": "C2",
+    "evidence": "Senior Data Scientist (2022 - 2026)",
+    "rationale": "Five years of professional experience exceeds the minimum three-year requirement.",
+    "term": "Very High"
+   },
+   "C3": {
+    "criterion_id": "C3",
+    "evidence": "Bachelor's degree in Statistics",
+    "rationale": "A Bachelor's degree is acceptable but lacks the Master's or PhD preference.",
+    "term": "Low"
+   },
+   "C4": {
+    "criterion_id": "C4",
+    "evidence": "",
+    "rationale": "No certifications are listed on the CV despite several being appreciated.",
+    "term": "Very Low"
+   },
+   "C5": {
+    "criterion_id": "C5",
+    "evidence": "demonstrating leadership by coordinating daily stand-ups and defining strategic roadmaps",
+    "rationale": "Explicit mentions of leading teams, mentoring interns, and working autonomously match soft skill requirements.",
+    "term": "High"
+   },
+   "C6": {
+    "criterion_id": "C6",
+    "evidence": "English, Arabic",
+    "rationale": "French is required but only English and Arabic are listed; proficiency level is unspecified.",
+    "term": "Low"
+   }
+  },
+  {
+   "C1": {
+    "criterion_id": "C1",
+    "evidence": "SQL, Docker, Scikit-learn, R, Spark, Machine Learning, Pandas, Statistics",
+    "rationale": "Candidate lists core skills but lacks depth evidence like 'built end-to-end pipelines' or 'production deployment'.",
+    "term": "Medium"
+   },
+   "C2": {
+    "criterion_id": "C2",
+    "evidence": "",
+    "rationale": "CV dates span 6 years total but do not specify if the most recent role was in a similar Data Scientist domain as required.",
+    "term": "Very Low"
+   },
+   "C3": {
+    "criterion_id": "C3",
+    "evidence": "Bachelor's degree in Statistics",
+    "rationale": "Master's or PhD is preferred for this role, and a Bachelor's alone may be marginal for a senior position.",
+    "term": "Low"
+   },
+   "C4": {
+    "criterion_id": "C4",
+    "evidence": "",
+    "rationale": "No professional certifications are listed on the CV despite several being appreciated by the employer.",
+    "term": "Very Low"
+   },
+   "C5": {
+    "criterion_id": "C5",
+    "evidence": "demonstrating leadership by coordinating daily stand-ups and defining strategic roadmaps",
+    "rationale": "CV explicitly mentions leading cross-functional teams, mentoring interns, and exercising autonomy as required soft skills.",
+    "term": "High"
+   },
+   "C6": {
+    "criterion_id": "C6",
+    "evidence": "English, Arabic",
+    "rationale": "Job requires English and French; candidate only lists English and Arabic.",
+    "term": "Low"
+   }
+  },
+  {
+   "C1": {
+    "criterion_id": "C1",
+    "evidence": "SQL, Docker, Scikit-learn, R, Spark, Machine Learning, Pandas, Statistics",
+    "rationale": "Candidate lists all required hard skills plus some preferred tools with demonstrated application in work history.",
+    "term": "High"
+   },
+   "C2": {
+    "criterion_id": "C2",
+    "evidence": "Senior Data Scientist (2022 - 2026), Data Scientist (2021 - 2022)",
+    "rationale": "Five years of total experience meets the minimum threshold but lacks specific mention of prior professional data science role duration.",
+    "term": "Medium"
+   },
+   "C3": {
+    "criterion_id": "C3",
+    "evidence": "Bachelor's degree in Statistics",
+    "rationale": "Degree field matches requirement but level is insufficient as a Master's or PhD is a plus for this role.",
+    "term": "Low"
+   },
+   "C4": {
+    "criterion_id": "C4",
+    "evidence": "",
+    "rationale": "No certifications listed in the CV despite several relevant options being appreciated by the job offer.",
+    "term": "Very Low"
+   },
+   "C5": {
+    "criterion_id": "C5",
+    "evidence": "demonstrating leadership by mentoring interns on best practices for data validation",
+    "rationale": "Explicit mentions of collaboration, teamwork, and problem solving through concrete examples like mentoring and pipeline optimization.",
+    "term": "High"
+   },
+   "C6": {
+    "criterion_id": "C6",
+    "evidence": "English, Arabic",
+    "rationale": "French is explicitly required by the job offer but only English and Arabic are listed as known languages.",
+    "term": "Very Low"
+   }
+  }
+ ],
+ "S05": [
+  {
+   "C1": {
+    "criterion_id": "C1",
+    "evidence": "Implemented Python scripts to automate data cleaning workflows... Utilized SQL... Applied advanced Statistics methods... Deployed machine learning models using Python pipelines",
+    "rationale": "Candidate demonstrates core required skills but lacks explicit evidence of Pandas, Scikit-learn, or Deep Learning usage.",
+    "term": "Medium"
+   },
+   "C2": {
+    "criterion_id": "C2",
+    "evidence": "Data Analyst (2023 - 2026) MLOps Engineer (2021 - 203)",
+    "rationale": "Total professional experience is only two years, falling short of the required three years.",
+    "term": "Low"
+   },
+   "C3": {
+    "criterion_id": "C3",
+    "evidence": "PhD in Statistics",
+    "rationale": "Candidate holds a PhD in Statistics, which directly matches the preferred education requirement.",
+    "term": "Very High"
+   },
+   "C4": {
+    "criterion_id": "C4",
+    "evidence": "",
+    "rationale": "No professional certifications relevant to the job offer are listed on the CV.",
+    "term": "Very Low"
+   },
+   "C5": {
+    "criterion_id": "C5",
+    "evidence": "demonstrating autonomy... showcasing independence... proactive time management",
+    "rationale": "CV explicitly mentions autonomy and independence, addressing two of the three requested soft skills.",
+    "term": "Medium"
+   },
+   "C6": {
+    "criterion_id": "C6",
+    "evidence": "English, German",
+    "rationale": "Candidate lists English but lacks French proficiency, which is a required language for the role.",
+    "term": "Low"
+   }
+  },
+  {
+   "C1": {
+    "criterion_id": "C1",
+    "evidence": "",
+    "rationale": "Missing Pandas, Scikit-learn, and Deep Learning skills found in the job offer requirements.",
+    "term": "Very Low"
+   },
+   "C2": {
+    "criterion_id": "C2",
+    "evidence": "Data Analyst (2023 - 2026) / MLOps Engineer (2021 - 2023)",
+    "rationale": "Two years of relevant experience is below the required three-year minimum.",
+    "term": "Low"
+   },
+   "C3": {
+    "criterion_id": "C3",
+    "evidence": "PhD in Statistics",
+    "rationale": "The candidate holds a PhD in Statistics, which fully meets the education requirement.",
+    "term": "High"
+   },
+   "C4": {
+    "criterion_id": "C4",
+    "evidence": "",
+    "rationale": "No certifications listed on the CV that match the appreciated professional certifications.",
+    "term": "Very Low"
+   },
+   "C5": {
+    "criterion_id": "C5",
+    "evidence": "demonstrating autonomy in identifying and resolving complex dataset issues",
+    "rationale": "Autonomy is explicitly mentioned, addressing one of the requested soft skills.",
+    "term": "Medium"
+   },
+   "C6": {
+    "criterion_id": "C6",
+    "evidence": "English, German",
+    "rationale": "Only English is listed; French proficiency required by the offer is missing.",
+    "term": "Low"
+   }
+  },
+  {
+   "C1": {
+    "criterion_id": "C1",
+    "evidence": "Implemented Python scripts... Utilized SQL... Applied advanced Statistics methods",
+    "rationale": "Missing required ML and Pandas/Scikit-learn tools despite showing Python, SQL, and Statistics use in production contexts.",
+    "term": "Medium"
+   },
+   "C2": {
+    "criterion_id": "C2",
+    "evidence": "Data Analyst (2023 - 2026); MLOps Engineer (2021 - 2023)",
+    "rationale": "Total professional experience is only two years, falling short of the required three years, and roles do not explicitly match Data Scientist.",
+    "term": "Low"
+   },
+   "C3": {
+    "criterion_id": "C3",
+    "evidence": "PhD in Statistics",
+    "rationale": "The PhD in Statistics directly matches the preferred advanced education requirement for this role.",
+    "term": "Very High"
+   },
+   "C4": {
+    "criterion_id": "C4",
+    "evidence": "",
+    "rationale": "No certifications relevant to Machine Learning, Data Engineering, or AWS/Azure/TensorFlow are listed on the CV.",
+    "term": "Very Low"
+   },
+   "C5": {
+    "criterion_id": "C5",
+    "evidence": "demonstrating autonomy... showcasing independence... proactive time management",
+    "rationale": "Soft skills like autonomy and problem solving are explicitly demonstrated through specific work examples.",
+    "term": "Medium"
+   },
+   "C6": {
+    "criterion_id": "C6",
+    "evidence": "English, German",
+    "rationale": "French is not listed among the languages; only English proficiency is confirmed while French is required.",
+    "term": "Low"
+   }
+  }
+ ],
+ "S06": [
+  {
+   "C1": {
+    "criterion_id": "C1",
+    "evidence": "Tableau, Statistics, Power BI, Excel, SQL, Pandas",
+    "rationale": "Candidate lacks required Python and Scikit-learn skills despite listing Pandas.",
+    "term": "Low"
+   },
+   "C2": {
+    "criterion_id": "C2",
+    "evidence": "",
+    "rationale": "No evidence of 3 years professional experience in a Data Scientist role.",
+    "term": "Very Low"
+   },
+   "C3": {
+    "criterion_id": "C3",
+    "evidence": "Master's degree in Economics",
+    "rationale": "Economics degree is less relevant than required Computer Science or Statistics fields.",
+    "term": "Low"
+   },
+   "C4": {
+    "criterion_id": "C4",
+    "evidence": "",
+    "rationale": "Candidate holds Power BI certification, which does not match required Machine Learning certifications.",
+    "term": "Very Low"
+   },
+   "C5": {
+    "criterion_id": "C5",
+    "evidence": "collaborated through teamwork to deliver actionable insights",
+    "rationale": "Explicit mention of teamwork demonstrates some soft skill alignment.",
+    "term": "Medium"
+   },
+   "C6": {
+    "criterion_id": "C6",
+    "evidence": "English",
+    "rationale": "Candidate only lists English, missing the required French proficiency.",
+    "term": "Low"
+   }
+  },
+  {
+   "C1": {
+    "criterion_id": "C1",
+    "evidence": "",
+    "rationale": "Candidate lacks required Python, Scikit-learn, Deep Learning, or AWS certifications despite having Pandas and SQL in a different role context.",
+    "term": "Very Low"
+   },
+   "C2": {
+    "criterion_id": "C2",
+    "evidence": "Data Analyst (2024 - 2026)",
+    "rationale": "Total professional experience is less than the required 3 years and roles are not Data Scientist positions.",
+    "term": "Very Low"
+   },
+   "C3": {
+    "criterion_id": "C3",
+    "evidence": "Master's degree in Economics",
+    "rationale": "While the Master's degree meets the minimum requirement, the field of Economics is less relevant to data science than CS or Statistics.",
+    "term": "Low"
+   },
+   "C4": {
+    "criterion_id": "C4",
+    "evidence": "",
+    "rationale": "Candidate holds a Power BI certification which does not match any of the specific Data Science certifications listed in the job offer.",
+    "term": "Very Low"
+   },
+   "C5": {
+    "criterion_id": "C5",
+    "evidence": "collaborated through teamwork to deliver actionable insights",
+    "rationale": "CV explicitly mentions teamwork multiple times, but lacks explicit evidence of communication or problem solving achievements.",
+    "term": "Medium"
+   },
+   "C6": {
+    "criterion_id": "C6",
+    "evidence": "English",
+    "rationale": "Candidate lists only English; French proficiency is missing which is a required language for the role.",
+    "term": "Low"
+   }
+  },
+  {
+   "C1": {
+    "criterion_id": "C1",
+    "evidence": "Tableau, Statistics, Power BI, Excel, SQL, Pandas",
+    "rationale": "Only partial overlap with required skills like Machine Learning and Scikit-learn, lacking Deep Learning or Spark evidence.",
+    "term": "Low"
+   },
+   "C2": {
+    "criterion_id": "C2",
+    "evidence": "",
+    "rationale": "Total lack of professional experience data in the CV, contradicting the requirement for at least 3 years.",
+    "term": "Very Low"
+   },
+   "C3": {
+    "criterion_id": "C3",
+    "evidence": "Master's degree in Economics",
+    "rationale": "Degree matches required level but field (Economics) is less relevant than Computer Science or Data Science.",
+    "term": "Low"
+   },
+   "C4": {
+    "criterion_id": "C4",
+    "evidence": "",
+    "rationale": "Certification is for Power BI, which does not match the Machine Learning specialties listed as appreciated.",
+    "term": "Very Low"
+   },
+   "C5": {
+    "criterion_id": "C5",
+    "evidence": "collaborated through teamwork to deliver actionable insights... fostering strong teamwork within the department",
+    "rationale": "Explicit mentions of teamwork and collaboration across multiple roles demonstrate the requested soft skills effectively.",
+    "term": "High"
+   },
+   "C6": {
+    "criterion_id": "C6",
+    "evidence": "English",
+    "rationale": "French proficiency is missing, failing to meet the requirement for both English and French professional proficiency.",
+    "term": "Very Low"
+   }
+  }
+ ],
+ "S07": [
+  {
+   "C1": {
+    "criterion_id": "C1",
+    "evidence": "Python, SQL, Pandas, Statistics",
+    "rationale": "Candidate has core required skills but lacks Scikit-learn and Deep Learning/Spark mentioned in requirements or nice-to-haves.",
+    "term": "Medium"
+   },
+   "C2": {
+    "criterion_id": "C2",
+    "evidence": "Business Intelligence Analyst (2022 - 2026)",
+    "rationale": "Four years of experience is close to the three-year minimum, but the role title differs from Data Scientist.",
+    "term": "Low"
+   },
+   "C3": {
+    "criterion_id": "C3",
+    "evidence": "Bachelor's degree in Economics",
+    "rationale": "Economics degree does not match the preferred Computer Science, Statistics, or Data Science fields for this role.",
+    "term": "Low"
+   },
+   "C4": {
+    "criterion_id": "C4",
+    "evidence": "",
+    "rationale": "No professional certifications relevant to Machine Learning or Data Engineering are listed on the CV.",
+    "term": "Very Low"
+   },
+   "C5": {
+    "criterion_id": "C5",
+    "evidence": "demonstrating autonomy by delivering insights without supervision",
+    "rationale": "Autonomy and teamwork are explicitly mentioned, but concrete problem-solving achievements are not detailed.",
+    "term": "Medium"
+   },
+   "C6": {
+    "criterion_id": "C6",
+    "evidence": "English, Spanish",
+    "rationale": "French is required by the job offer but only English and Spanish are listed on the CV.",
+    "term": "Low"
+   }
+  },
+  {
+   "C1": {
+    "criterion_id": "C1",
+    "evidence": "Python, SQL, Statistics, Pandas",
+    "rationale": "Matches core requirements but lacks explicit evidence for Machine Learning, Scikit-learn, or Nice-to-have tools like Spark/Docker.",
+    "term": "Medium"
+   },
+   "C2": {
+    "criterion_id": "C2",
+    "evidence": "Business Intelligence Analyst (2022 - 2026)",
+    "rationale": "Four years of experience exist, but the role title and descriptions focus on reporting rather than Data Science projects.",
+    "term": "Low"
+   },
+   "C3": {
+    "criterion_id": "C3",
+    "evidence": "Bachelor's degree in Economics",
+    "rationale": "A relevant Bachelor's degree is present, though the field of study differs from preferred Computer Science or Statistics disciplines.",
+    "term": "Medium"
+   },
+   "C4": {
+    "criterion_id": "C4",
+    "evidence": "",
+    "rationale": "No professional certifications are listed in the CV to support the appreciated certifications requirement.",
+    "term": "Very Low"
+   },
+   "C5": {
+    "criterion_id": "C5",
+    "evidence": "demonstrating autonomy by delivering insights without supervision",
+    "rationale": "Explicit mentions of autonomy and teamwork partially address soft skill requirements.",
+    "term": "Medium"
+   },
+   "C6": {
+    "criterion_id": "C6",
+    "evidence": "English, Spanish",
+    "rationale": "The CV lists English but lacks the required French proficiency; Spanish does not meet the job's language requirement.",
+    "term": "Low"
+   }
+  },
+  {
+   "C1": {
+    "criterion_id": "C1",
+    "evidence": "Python, SQL, Pandas, Statistics",
+    "rationale": "Candidate lists required core Python/SQL skills but lacks Scikit-learn and Deep Learning evidence, making the match partial.",
+    "term": "Medium"
+   },
+   "C2": {
+    "criterion_id": "C2",
+    "evidence": "",
+    "rationale": "No professional experience is listed in the CV that matches a Data Scientist role or exceeds the 3-year requirement.",
+    "term": "Very Low"
+   },
+   "C3": {
+    "criterion_id": "C3",
+    "evidence": "Bachelor's degree in Economics",
+    "rationale": "The field of study (Economics) is less relevant to Data Science than required fields like CS or Statistics, and it is only a Bachelor's.",
+    "term": "Low"
+   },
+   "C4": {
+    "criterion_id": "C4",
+    "evidence": "",
+    "rationale": "No professional certifications are listed in the CV that match the job offer's preferred list.",
+    "term": "Very Low"
+   },
+   "C5": {
+    "criterion_id": "C5",
+    "evidence": "demonstrating autonomy by delivering insights without supervision",
+    "rationale": "Evidence of autonomy is present, but teamwork and problem-solving lack concrete achievement support beyond general statements.",
+    "term": "Medium"
+   },
+   "C6": {
+    "criterion_id": "C6",
+    "evidence": "English, Spanish",
+    "rationale": "Candidate speaks English but lacks the required French proficiency, and only has one of two languages listed.",
+    "term": "Low"
+   }
+  }
+ ],
+ "S08": [
+  {
+   "C1": {
+    "criterion_id": "C1",
+    "evidence": "Python, Machine Learning, Scikit-learn",
+    "rationale": "Candidate has core required skills but lacks SQL and Pandas explicitly listed in the CV.",
+    "term": "Medium"
+   },
+   "C2": {
+    "criterion_id": "C2",
+    "evidence": "",
+    "rationale": "No evidence of professional experience duration or role similarity to Data Scientist is provided.",
+    "term": "Very Low"
+   },
+   "C3": {
+    "criterion_id": "C3",
+    "evidence": "Master's degree in Computer Engineering",
+    "rationale": "Candidate holds a relevant Master's degree but the field is Computer Engineering rather than Statistics or Data Science.",
+    "term": "Medium"
+   },
+   "C4": {
+    "criterion_id": "C4",
+    "evidence": "",
+    "rationale": "No professional certifications matching the job offer requirements are listed in the CV.",
+    "term": "Very Low"
+   },
+   "C5": {
+    "criterion_id": "C5",
+    "evidence": "showcasing collaborative time management to streamline team delivery",
+    "rationale": "Evidence of teamwork exists but lacks explicit mention of communication, problem solving, or autonomy.",
+    "term": "Low"
+   },
+   "C6": {
+    "criterion_id": "C6",
+    "evidence": "",
+    "rationale": "Candidate lists English but does not meet the requirement for professional proficiency in French.",
+    "term": "Very Low"
+   }
+  },
+  {
+   "C1": {
+    "criterion_id": "C1",
+    "evidence": "Python, Machine Learning, Scikit-learn, Git, Kubernetes",
+    "rationale": "Lacks required SQL, Pandas, and Statistics skills while over-emphasizing MLOps tools like Kubernetes. ",
+    "term": "Low"
+   },
+   "C2": {
+    "criterion_id": "C2",
+    "evidence": "",
+    "rationale": "No evidence of at least 3 years in a Data Scientist or similar data-focused role; roles listed are MLOps/ML Engineer with generic descriptions.",
+    "term": "Very Low"
+   },
+   "C3": {
+    "criterion_id": "C3",
+    "evidence": "Master's degree in Computer Engineering",
+    "rationale": "A Master's degree is the minimum requirement and the field is relevant to computer science. ",
+    "term": "High"
+   },
+   "C4": {
+    "criterion_id": "C4",
+    "evidence": "",
+    "rationale": "No certifications listed, despite several being specified as appreciated. ",
+    "term": "Very Low"
+   },
+   "C5": {
+    "criterion_id": "C5",
+    "evidence": "showcasing collaborative time management",
+    "rationale": "References to teamwork and collaboration are generic and lack concrete achievements related to data science tasks.",
+    "term": "Low"
+   },
+   "C6": {
+    "criterion_id": "C6",
+    "evidence": "English, Arabic, German",
+    "rationale": "Does not meet the requirement for professional proficiency in both English and French. ",
+    "term": "Very Low"
+   }
+  },
+  {
+   "C1": {
+    "criterion_id": "C1",
+    "evidence": "Python, Machine Learning, Scikit-learn, Git, Kubernetes",
+    "rationale": "Candidate lists required Python and Scikit-learn but lacks explicit SQL or Pandas evidence in skills section alone.",
+    "term": "Medium"
+   },
+   "C2": {
+    "criterion_id": "C2",
+    "evidence": "",
+    "rationale": "CV shows MLOps and ML Engineer roles but provides no dates for a Data Scientist role meeting the 3-year professional requirement.",
+    "term": "Very Low"
+   },
+   "C3": {
+    "criterion_id": "C3",
+    "evidence": "Master's degree in Computer Engineering",
+    "rationale": "Degree is relevant to CS field but lacks evidence of Statistics or Data Science specialization requested.",
+    "term": "Medium"
+   },
+   "C4": {
+    "criterion_id": "C4",
+    "evidence": "",
+    "rationale": "No professional certifications listed on the CV.",
+    "term": "Very Low"
+   },
+   "C5": {
+    "criterion_id": "C5",
+    "evidence": "collaborative time management",
+    "rationale": "Evidence suggests teamwork but lacks explicit demonstration of communication or problem solving skills.",
+    "term": "Low"
+   },
+   "C6": {
+    "criterion_id": "C6",
+    "evidence": "English, Arabic, German",
+    "rationale": "Candidate speaks English but French is not listed and proficiency levels are not specified.",
+    "term": "Very Low"
+   }
+  }
+ ],
+ "S09": [
+  {
+   "C1": {
+    "criterion_id": "C1",
+    "evidence": "Spark, Kubernetes, Docker, AWS, Machine Learning, Python, Scikit-learn",
+    "rationale": "Candidate lists all required core tools plus preferred Spark and Docker with proven usage in ML role.",
+    "term": "High"
+   },
+   "C2": {
+    "criterion_id": "C2",
+    "evidence": "",
+    "rationale": "CV states current role dates but provides no evidence of 3 years prior professional experience or total tenure.",
+    "term": "Very Low"
+   },
+   "C3": {
+    "criterion_id": "C3",
+    "evidence": "Master's degree in Computer Engineering",
+    "rationale": "Candidate holds a Master's degree in a relevant field matching the education requirement.",
+    "term": "High"
+   },
+   "C4": {
+    "criterion_id": "C4",
+    "evidence": "",
+    "rationale": "CV lists no professional certifications despite the job offer appreciating specific ones.",
+    "term": "Very Low"
+   },
+   "C5": {
+    "criterion_id": "C5",
+    "evidence": "leadership, problem solving, teamwork",
+    "rationale": "Candidate explicitly lists all three required soft skills in their profile.",
+    "term": "High"
+   },
+   "C6": {
+    "criterion_id": "C6",
+    "evidence": "English (professional), French (professional)",
+    "rationale": "Candidate demonstrates professional proficiency in both English and French as required.",
+    "term": "Very High"
+   }
+  },
+  {
+   "C1": {
+    "criterion_id": "C1",
+    "evidence": "Spark, Kubernetes, Docker, AWS, Machine Learning, Python, Scikit-learn, Git",
+    "rationale": "Candidate covers most required hard skills but lacks explicit mention of SQL and Pandas which are in the core requirements.",
+    "term": "Medium"
+   },
+   "C2": {
+    "criterion_id": "C2",
+    "evidence": "",
+    "rationale": "No dates or duration provided for the 5-year role to verify the minimum 3 years requirement.",
+    "term": "Very Low"
+   },
+   "C3": {
+    "criterion_id": "C3",
+    "evidence": "Master's degree in Computer Engineering",
+    "rationale": "Level meets requirements but field is slightly less specific than ideal Computer Science, Statistics, or Data Science.",
+    "term": "Medium"
+   },
+   "C4": {
+    "criterion_id": "C4",
+    "evidence": "",
+    "rationale": "No certifications listed in the CV despite several being appreciated for this role.",
+    "term": "Very Low"
+   },
+   "C5": {
+    "criterion_id": "C5",
+    "evidence": "leadership, problem solving, teamwork",
+    "rationale": "Candidate lists three of four required soft skills but lacks concrete achievements demonstrating them.",
+    "term": "Medium"
+   },
+   "C6": {
+    "criterion_id": "C6",
+    "evidence": "English (professional), French (professional)",
+    "rationale": "Candidate explicitly states professional proficiency in both English and French as required.",
+    "term": "High"
+   }
+  },
+  {
+   "C1": {
+    "criterion_id": "C1",
+    "evidence": "Spark, Kubernetes, Docker, AWS, Machine Learning, Python, Scikit-learn",
+    "rationale": "Candidate covers core required skills plus all nice-to-have tools.",
+    "term": "High"
+   },
+   "C2": {
+    "criterion_id": "C2",
+    "evidence": "",
+    "rationale": "No dates or description of professional experience length provided in the CV.",
+    "term": "Very Low"
+   },
+   "C3": {
+    "criterion_id": "C3",
+    "evidence": "Master's degree in Computer Engineering",
+    "rationale": "Candidate has a Master's but in Computer Engineering rather than a required field.",
+    "term": "Medium"
+   },
+   "C4": {
+    "criterion_id": "C4",
+    "evidence": "",
+    "rationale": "No professional certifications are listed in the candidate's CV.",
+    "term": "Very Low"
+   },
+   "C5": {
+    "criterion_id": "C5",
+    "evidence": "leadership, problem solving, teamwork",
+    "rationale": "Candidate lists soft skills but lacks concrete achievements demonstrating them.",
+    "term": "Medium"
+   },
+   "C6": {
+    "criterion_id": "C6",
+    "evidence": "English (professional), French (professional)",
+    "rationale": "Candidate explicitly states professional proficiency in both required languages.",
+    "term": "Very High"
+   }
+  }
+ ],
+ "S10": [
+  {
+   "C1": {
+    "criterion_id": "C1",
+    "evidence": "",
+    "rationale": "No Python, SQL, Machine Learning, Pandas, or Scikit-learn skills listed in the CV despite Java and AWS focus.",
+    "term": "Very Low"
+   },
+   "C2": {
+    "criterion_id": "C2",
+    "evidence": "Java Developer (2025 - 2026)",
+    "rationale": "Two years of experience is below the required three years and lacks Data Scientist domain relevance.",
+    "term": "Low"
+   },
+   "C3": {
+    "criterion_id": "C3",
+    "evidence": "Bachelor's degree in Computer Science",
+    "rationale": "Relevant field but lacks the preferred Master's or PhD level.",
+    "term": "Medium"
+   },
+   "C4": {
+    "criterion_id": "C4",
+    "evidence": "AWS Certified Solutions Architect, Oracle Certified Professional: Java SE Developer",
+    "rationale": "Certifications are for architecture and Java development, not Machine Learning or Data Engineering.",
+    "term": "Low"
+   },
+   "C5": {
+    "criterion_id": "C5",
+    "evidence": "demonstrating strong communication and teamwork while deploying solutions via Kubernetes and Git",
+    "rationale": "Explicitly mentions communication and teamwork but lacks concrete problem-solving achievements in a data context.",
+    "term": "Medium"
+   },
+   "C6": {
+    "criterion_id": "C6",
+    "evidence": "English, Spanish",
+    "rationale": "French is not listed among the required languages; only English and Spanish are present.",
+    "term": "Very Low"
+   }
+  },
+  {
+   "C1": {
+    "criterion_id": "C1",
+    "evidence": "",
+    "rationale": "No direct mention of Python, SQL, Machine Learning, or Pandas/Scikit-learn in skills or experience descriptions.",
+    "term": "Low"
+   },
+   "C2": {
+    "criterion_id": "C2",
+    "evidence": "",
+    "rationale": "Candidate has two years of Backend and Java Developer experience instead of the required 3+ years as a Data Scientist.",
+    "term": "Very Low"
+   },
+   "C3": {
+    "criterion_id": "C3",
+    "evidence": "Bachelor's degree in Computer Science",
+    "rationale": "Bachelor's degree is present but lacks the preferred Master's or PhD level for strong alignment.",
+    "term": "Low"
+   },
+   "C4": {
+    "criterion_id": "C4",
+    "evidence": "AWS Certified Solutions Architect",
+    "rationale": "Candidate holds one relevant certification instead of the multiple specific data science certifications listed.",
+    "term": "Low"
+   },
+   "C5": {
+    "criterion_id": "C5",
+    "evidence": "demonstrating strong communication and teamwork",
+    "rationale": "Explicit mention of communication and teamwork aligns with soft skill requirements.",
+    "term": "Medium"
+   },
+   "C6": {
+    "criterion_id": "C6",
+    "evidence": "English, Spanish",
+    "rationale": "French proficiency is required but not evidenced; candidate lists English and Spanish instead.",
+    "term": "Low"
+   }
+  },
+  {
+   "C1": {
+    "criterion_id": "C1",
+    "evidence": "",
+    "rationale": "No Python, SQL, Machine Learning, Pandas, or Scikit-learn skills listed in CV; Java and Spring Boot are not matches for Data Scientist requirements",
+    "term": "Very Low"
+   },
+   "C2": {
+    "criterion_id": "C2",
+    "evidence": "",
+    "rationale": "Only 1 year of professional experience shown, but job requires at least 3 years; roles are Backend/Java Developer not Data Scientist",
+    "term": "Very Low"
+   },
+   "C3": {
+    "criterion_id": "C3",
+    "evidence": "Bachelor's degree in Computer Science",
+    "rationale": "Degree matches required field (Computer Science) but lacks the Master's or PhD preference and is only a Bachelor's level",
+    "term": "Medium"
+   },
+   "C4": {
+    "criterion_id": "C4",
+    "evidence": "AWS Certified Solutions Architect, Oracle Certified Professional: Java SE Developer",
+    "rationale": "Candidate has AWS certification but it is for Solutions Architecture not Machine Learning Specialty, which is preferred",
+    "term": "Low"
+   },
+   "C5": {
+    "criterion_id": "C5",
+    "evidence": "demonstrating strong communication and teamwork while deploying solutions via Kubernetes and Git",
+    "rationale": "CV explicitly mentions communication and teamwork in context of collaborating with cross-functional teams on technical projects",
+    "term": "Medium"
+   },
+   "C6": {
+    "criterion_id": "C6",
+    "evidence": "",
+    "rationale": "Candidate lists English but missing French which is required; proficiency level is not specified beyond language listing",
+    "term": "Very Low"
+   }
+  }
+ ],
+ "S11": [
+  {
+   "C1": {
+    "criterion_id": "C1",
+    "evidence": "",
+    "rationale": "No Python, SQL, Machine Learning, Pandas, or Scikit-learn skills listed in the CV despite Java and AWS presence.",
+    "term": "Low"
+   },
+   "C2": {
+    "criterion_id": "C2",
+    "evidence": "",
+    "rationale": "Candidate has 4 years of experience but roles are Backend/Java Developer rather than Data Scientist.",
+    "term": "Very Low"
+   },
+   "C3": {
+    "criterion_id": "C3",
+    "evidence": "Bachelor's degree in Computer Engineering",
+    "rationale": "Degree is relevant but lacks the Master's or PhD preferred for this role.",
+    "term": "Low"
+   },
+   "C4": {
+    "criterion_id": "C4",
+    "evidence": "",
+    "rationale": "Oracle Java certification does not match any of the requested Data Science certifications.",
+    "term": "Very Low"
+   },
+   "C5": {
+    "criterion_id": "C5",
+    "evidence": "demonstrating autonomy in resolving complex data layer issues",
+    "rationale": "Autonomy is mentioned but lacks explicit evidence for communication, teamwork, or problem solving in a data context.",
+    "term": "Medium"
+   },
+   "C6": {
+    "criterion_id": "C6",
+    "evidence": "English, French, Spanish",
+    "rationale": "Candidate lists both required languages (English and French) with no proficiency qualifier implying coverage.",
+    "term": "Very High"
+   }
+  },
+  {
+   "C1": {
+    "criterion_id": "C1",
+    "evidence": "",
+    "rationale": "The candidate lists Java and Kafka but lacks Python, SQL, Machine Learning, or Pandas required for the Data Scientist role.",
+    "term": "Very Low"
+   },
+   "C2": {
+    "criterion_id": "C2",
+    "evidence": "Java Developer (2024 - 2026); Backend Developer (2020 - 2024)",
+    "rationale": "Four years of experience exists but is in backend Java development rather than data science roles.",
+    "term": "Low"
+   },
+   "C3": {
+    "criterion_id": "C3",
+    "evidence": "Bachelor's degree in Computer Engineering",
+    "rationale": "A relevant degree in a related field is present, though a Master's or PhD is preferred for this role.",
+    "term": "Medium"
+   },
+   "C4": {
+    "criterion_id": "C4",
+    "evidence": "",
+    "rationale": "The candidate holds a Java certification which is irrelevant to the required Machine Learning and Data Engineering certifications.",
+    "term": "Very Low"
+   },
+   "C5": {
+    "criterion_id": "C5",
+    "evidence": "showcasing autonomy in resolving complex data layer issues; evidencing teamwork through successful project completions",
+    "rationale": "Autonomy and teamwork are explicitly mentioned, but leadership is not demonstrated and problem solving is generic.",
+    "term": "Medium"
+   },
+   "C6": {
+    "criterion_id": "C6",
+    "evidence": "English, French, Spanish",
+    "rationale": "The candidate meets the requirement for professional proficiency in both required languages, English and French.",
+    "term": "Very High"
+   }
+  },
+  {
+   "C1": {
+    "criterion_id": "C1",
+    "evidence": "",
+    "rationale": "Candidate lists Java, Kafka, Docker but lacks required Python, SQL, Machine Learning, Pandas, Scikit-learn skills.",
+    "term": "Low"
+   },
+   "C2": {
+    "criterion_id": "C2",
+    "evidence": "Java Developer (2024 - 2026) and Backend Developer (2020 - 2024)",
+    "rationale": "Candidate has no Data Scientist or Data Science experience in the CV.",
+    "term": "Very Low"
+   },
+   "C3": {
+    "criterion_id": "C3",
+    "evidence": "Bachelor's degree in Computer Engineering",
+    "rationale": "Degree is relevant but lacks Master's or PhD preferred for this role.",
+    "term": "Medium"
+   },
+   "C4": {
+    "criterion_id": "C4",
+    "evidence": "Oracle Certified Professional: Java SE Developer",
+    "rationale": "Certification is for Java, not the required AWS ML Specialty, Google Data Engineer, TensorFlow, or Azure certs.",
+    "term": "Very Low"
+   },
+   "C5": {
+    "criterion_id": "C5",
+    "evidence": "showcasing autonomy in resolving complex data layer issues",
+    "rationale": "Explicit mention of autonomy addresses one soft skill but lacks evidence for communication and teamwork with achievements.",
+    "term": "Medium"
+   },
+   "C6": {
+    "criterion_id": "C6",
+    "evidence": "English, French, Spanish",
+    "rationale": "Candidate lists all required languages (English, French) without specified proficiency level, assumed met.",
+    "term": "Very High"
+   }
+  }
+ ],
+ "S12": [
+  {
+   "C1": {
+    "criterion_id": "C1",
+    "evidence": "",
+    "rationale": "No Python, SQL, Machine Learning, Pandas, or Scikit-learn skills listed in the CV.",
+    "term": "Very Low"
+   },
+   "C2": {
+    "criterion_id": "C2",
+    "evidence": "Software Engineer (2021 - 2026)",
+    "rationale": "Five years of experience but roles focus on Java backend development rather than Data Science.",
+    "term": "Low"
+   },
+   "C3": {
+    "criterion_id": "C3",
+    "evidence": "Master's degree in Computer Science",
+    "rationale": "The candidate holds a Master's degree in a relevant field matching the education requirement.",
+    "term": "High"
+   },
+   "C4": {
+    "criterion_id": "C4",
+    "evidence": "",
+    "rationale": "No certifications matching AWS, Google, TensorFlow, or Microsoft Data Scientist requirements are listed.",
+    "term": "Very Low"
+   },
+   "C5": {
+    "criterion_id": "C5",
+    "evidence": "demonstrating strong problem solving by diagnosing latency bottlenecks",
+    "rationale": "Problem solving is mentioned but lacks concrete data science achievements to fully demonstrate the skill.",
+    "term": "Medium"
+   },
+   "C6": {
+    "criterion_id": "C6",
+    "evidence": "English, Arabic",
+    "rationale": "French proficiency is not listed; only English and Arabic are provided.",
+    "term": "Low"
+   }
+  },
+  {
+   "C1": {
+    "criterion_id": "C1",
+    "evidence": "",
+    "rationale": "No evidence of Python, SQL, Machine Learning, Pandas, or Scikit-learn is present in the CV, only Java tools are listed.",
+    "term": "Low"
+   },
+   "C2": {
+    "criterion_id": "C2",
+    "evidence": "Software Engineer (2021 - 2026)",
+    "rationale": "While 5 years of experience exists, it is in software engineering roles without evidence of Data Science work.",
+    "term": "Very Low"
+   },
+   "C3": {
+    "criterion_id": "C3",
+    "evidence": "Master's degree in Computer Science",
+    "rationale": "The candidate holds a Master's degree in a field directly relevant to the job requirements.",
+    "term": "High"
+   },
+   "C4": {
+    "criterion_id": "C4",
+    "evidence": "",
+    "rationale": "No certifications matching AWS, Google, TensorFlow, or Microsoft Data Science criteria are listed.",
+    "term": "Very Low"
+   },
+   "C5": {
+    "criterion_id": "C5",
+    "evidence": "demonstrating strong problem solving by diagnosing latency bottlenecks",
+    "rationale": "The CV explicitly mentions problem-solving and communication skills with concrete examples from previous roles.",
+    "term": "Medium"
+   },
+   "C6": {
+    "criterion_id": "C6",
+    "evidence": "English, Arabic",
+    "rationale": "French is not listed among the candidate's languages; only English and Arabic are provided.",
+    "term": "Low"
+   }
+  },
+  {
+   "C1": {
+    "criterion_id": "C1",
+    "evidence": "",
+    "rationale": "No Python, SQL, Machine Learning, Pandas, or Scikit-learn skills listed in CV,",
+    "term": "Very Low"
+   },
+   "C2": {
+    "criterion_id": "C2",
+    "evidence": "Software Engineer (2021 - 2026)",
+    "rationale": "Four years of experience but roles focus on Java and backend development rather than Data Science",
+    "term": "Low"
+   },
+   "C3": {
+    "criterion_id": "C3",
+    "evidence": "Master's degree in Computer Science",
+    "rationale": "Matches required education level and relevant field of study",
+    "term": "High"
+   },
+   "C4": {
+    "criterion_id": "C4",
+    "evidence": "",
+    "rationale": "No certifications matching the preferred list (AWS, Google, TensorFlow, Azure) found,",
+    "term": "Very Low"
+   },
+   "C5": {
+    "criterion_id": "C5",
+    "evidence": "demonstrating strong problem solving by diagnosing latency bottlenecks",
+    "rationale": "Problem solving is explicitly mentioned but lacks evidence for communication and teamwork in a data context",
+    "term": "Medium"
+   },
+   "C6": {
+    "criterion_id": "C6",
+    "evidence": "English, Arabic",
+    "rationale": "French proficiency is missing while only English is listed as required",
+    "term": "Low"
+   }
+  }
+ ],
+ "S13": [
+  {
+   "C1": {
+    "criterion_id": "C1",
+    "evidence": "",
+    "rationale": "No Python, SQL, Machine Learning, Pandas, or Scikit-learn skills are listed in the CV despite Java and AWS being present.",
+    "term": "Very Low"
+   },
+   "C2": {
+    "criterion_id": "C2",
+    "evidence": "Software Engineer (2021 - 2026)",
+    "rationale": "Five years of experience exceeds the three-year requirement but lacks specific data science role context.",
+    "term": "Low"
+   },
+   "C3": {
+    "criterion_id": "C3",
+    "evidence": "Master's degree in Computer Science",
+    "rationale": "The candidate holds a Master's degree in a relevant field matching the job offer requirements.",
+    "term": "High"
+   },
+   "C4": {
+    "criterion_id": "C4",
+    "evidence": "AWS Certified Solutions Architect",
+    "rationale": "One certification is present but does not match the specific Machine Learning or Data Engineer certifications listed.",
+    "term": "Medium"
+   },
+   "C5": {
+    "criterion_id": "C5",
+    "evidence": "demonstrating teamwork by coordinating with cross-functional squads",
+    "rationale": "The CV explicitly mentions teamwork, autonomy, and problem-solving through concrete achievements like mentoring and optimizing performance.",
+    "term": "High"
+   },
+   "C6": {
+    "criterion_id": "C6",
+    "evidence": "English, French, Spanish",
+    "rationale": "The candidate lists both English and French at a professional level, fully meeting the language requirement.",
+    "term": "Very High"
+   }
+  },
+  {
+   "C1": {
+    "criterion_id": "C1",
+    "evidence": "",
+    "rationale": "No mention of Python, SQL, Machine Learning, Pandas, or Scikit-learn despite listing Java and AWS skills.",
+    "term": "Low"
+   },
+   "C2": {
+    "criterion_id": "C2",
+    "evidence": "",
+    "rationale": "Candidate's experience is general software development rather than professional data science role.",
+    "term": "Very Low"
+   },
+   "C3": {
+    "criterion_id": "C3",
+    "evidence": "Master's degree in Computer Science",
+    "rationale": "Degree matches the required field of study and satisfies the minimum education requirement.",
+    "term": "High"
+   },
+   "C4": {
+    "criterion_id": "C4",
+    "evidence": "AWS Certified Solutions Architect",
+    "rationale": "Candidate has one AWS certification but lacks any machine learning specific certifications requested.",
+    "term": "Medium"
+   },
+   "C5": {
+    "criterion_id": "C5",
+    "evidence": "demonstrating teamwork by coordinating with cross-functional squads... showcasing autonomy in resolving complex architectural challenges",
+    "rationale": "CV explicitly mentions teamwork, autonomy, and problem solving through concrete professional achievements.",
+    "term": "High"
+   },
+   "C6": {
+    "criterion_id": "C6",
+    "evidence": "English, French, Spanish",
+    "rationale": "Candidate lists all required languages (English and French) with no indication of lower proficiency.",
+    "term": "Very High"
+   }
+  },
+  {
+   "C1": {
+    "criterion_id": "C1",
+    "evidence": "",
+    "rationale": "No Python, SQL, Machine Learning, Pandas, or Scikit-learn skills are listed despite Java being present.",
+    "term": "Very Low"
+   },
+   "C2": {
+    "criterion_id": "C2",
+    "evidence": "",
+    "rationale": "No data science roles or years of experience in that domain are mentioned, only general software engineering.",
+    "term": "Very Low"
+   },
+   "C3": {
+    "criterion_id": "C3",
+    "evidence": "Master's degree in Computer Science",
+    "rationale": "The candidate holds a relevant Master's degree in the required field.",
+    "term": "High"
+   },
+   "C4": {
+    "criterion_id": "C4",
+    "evidence": "AWS Certified Solutions Architect",
+    "rationale": "One AWS certification is present, though it does not match the specific Machine Learning specialty requested.",
+    "term": "Medium"
+   },
+   "C5": {
+    "criterion_id": "C5",
+    "evidence": "demonstrating teamwork by coordinating with cross-functional squads... showcasing autonomy... mentoring junior developers",
+    "rationale": "Multiple instances of teamwork, autonomy, and problem-solving are explicitly demonstrated across roles.",
+    "term": "Very High"
+   },
+   "C6": {
+    "criterion_id": "C6",
+    "evidence": "English, French, Spanish",
+    "rationale": "Required languages English and French are both present in the candidate's language list.",
+    "term": "High"
+   }
+  }
+ ],
+ "S14": [
+  {
+   "C1": {
+    "criterion_id": "C1",
+    "evidence": "",
+    "rationale": "No overlap between candidate's frontend skills and required data science tools like Python, SQL, or Machine Learning.",
+    "term": "Very Low"
+   },
+   "C2": {
+    "criterion_id": "C2",
+    "evidence": "",
+    "rationale": "Candidate has no professional experience in a Data Scientist role or relevant data domains.",
+    "term": "Very Low"
+   },
+   "C3": {
+    "criterion_id": "C3",
+    "evidence": "Master's degree in Computer Science",
+    "rationale": "The candidate holds a Master's degree in a field directly relevant to the job requirements.",
+    "term": "High"
+   },
+   "C4": {
+    "criterion_id": "C4",
+    "evidence": "",
+    "rationale": "Candidate's Meta Front-End Developer Certificate is irrelevant to data science and machine learning certifications.",
+    "term": "Very Low"
+   },
+   "C5": {
+    "criterion_id": "C5",
+    "evidence": "demonstrating strong leadership and creativity while streamlining the development workflow",
+    "rationale": "Evidence of leadership and problem-solving exists but lacks concrete achievements in a data context.",
+    "term": "Medium"
+   },
+   "C6": {
+    "criterion_id": "C6",
+    "evidence": "English, German",
+    "rationale": "Candidate speaks English but does not meet the requirement for professional proficiency in French.",
+    "term": "Low"
+   }
+  },
+  {
+   "C1": {
+    "criterion_id": "C1",
+    "evidence": "",
+    "rationale": "The candidate lists only frontend web development skills, missing all required data science and Python tools.",
+    "term": "Very Low"
+   },
+   "C2": {
+    "criterion_id": "C2",
+    "evidence": "",
+    "rationale": "There is no evidence of any professional experience relevant to a Data Scientist role or the required field.",
+    "term": "Very Low"
+   },
+   "C3": {
+    "criterion_id": "C3",
+    "evidence": "Master's degree in Computer Science",
+    "rationale": "The candidate holds a Master's degree in a relevant field matching the education requirement.",
+    "term": "High"
+   },
+   "C4": {
+    "criterion_id": "C4",
+    "evidence": "",
+    "rationale": "The Meta Front-End Developer Certificate is unrelated to data science, machine learning, or cloud data engineering.",
+    "term": "Very Low"
+   },
+   "C5": {
+    "criterion_id": "C5",
+    "evidence": "demonstrating strong leadership and creativity while streamlining the development workflow",
+    "rationale": "The candidate shows evidence of leadership and problem-solving in a frontend context, though not in data science.",
+    "term": "Medium"
+   },
+   "C6": {
+    "criterion_id": "C6",
+    "evidence": "English, German",
+    "rationale": "Only English is present among the required languages; French proficiency is missing.",
+    "term": "Low"
+   }
+  },
+  {
+   "C1": {
+    "criterion_id": "C1",
+    "evidence": "",
+    "rationale": "No overlap between candidate's frontend skills (TypeScript, HTML, CSS) and required data science stack (Python, SQL, Machine Learning).",
+    "term": "Very Low"
+   },
+   "C2": {
+    "criterion_id": "C2",
+    "evidence": "",
+    "rationale": "No evidence of professional experience in a Data Scientist role or relevant domain; only 1 year of Frontend Developer experience listed.",
+    "term": "Very Low"
+   },
+   "C3": {
+    "criterion_id": "C3",
+    "evidence": "Master's degree in Computer Science",
+    "rationale": "The Master's degree matches the requirement, but the field (Computer Science) is less specific than preferred fields like Statistics or Data Science.",
+    "term": "Medium"
+   },
+   "C4": {
+    "criterion_id": "C4",
+    "evidence": "",
+    "rationale": "Candidate holds a Meta Front-End Developer Certificate instead of required data science certifications.",
+    "term": "Very Low"
+   },
+   "C5": {
+    "criterion_id": "C5",
+    "evidence": "demonstrating strong leadership and creativity while streamlining the development workflow through effective time management.",
+    "rationale": "Explicit mentions of leadership, teamwork, and problem solving align well with soft skill requirements.",
+    "term": "High"
+   },
+   "C6": {
+    "criterion_id": "C6",
+    "evidence": "English, German",
+    "rationale": "Candidate speaks English but lacks French proficiency which is a required language for this role.",
+    "term": "Low"
+   }
+  }
+ ],
+ "S15": [
+  {
+   "C1": {
+    "criterion_id": "C1",
+    "evidence": "",
+    "rationale": "No overlap between candidate's listed skills (HTML, CSS, JavaScript) and required Data Science tools (Python, SQL, ML).",
+    "term": "Very Low"
+   },
+   "C2": {
+    "criterion_id": "C2",
+    "evidence": "",
+    "rationale": "Candidate has 3 years in Data Analyst role but lacks specific data science experience or domain relevance to the job offer.",
+    "term": "Very Low"
+   },
+   "C3": {
+    "criterion_id": "C3",
+    "evidence": "Bachelor's degree in Web Design",
+    "rationale": "Degree is relevant to web development but not to Computer Science, Statistics, or Data Science as required.",
+    "term": "Low"
+   },
+   "C4": {
+    "criterion_id": "C4",
+    "evidence": "",
+    "rationale": "No professional certifications listed on the CV that match the job offer's preferred certifications.",
+    "term": "Very Low"
+   },
+   "C5": {
+    "criterion_id": "C5",
+    "evidence": "showcasing creativity in visual problem solving",
+    "rationale": "Candidate demonstrates problem-solving through design work, though evidence is limited to front-end context.",
+    "term": "Medium"
+   },
+   "C6": {
+    "criterion_id": "C6",
+    "evidence": "English, French, German",
+    "rationale": "Candidate lists English and French as languages, meeting the professional proficiency requirement.",
+    "term": "Very High"
+   }
+  },
+  {
+   "C1": {
+    "criterion_id": "C1",
+    "evidence": "",
+    "rationale": "The CV lists only web development tools and no data science or machine learning technologies required by the job offer.",
+    "term": "Very Low"
+   },
+   "C2": {
+    "criterion_id": "C2",
+    "evidence": "Web Developer (2022 - 2026) ... Data Analyst (2017 - 2019)",
+    "rationale": "Total professional experience is 8 years, exceeding the minimum requirement, but the roles are not directly relevant to Data Science.",
+    "term": "Low"
+   },
+   "C3": {
+    "criterion_id": "C3",
+    "evidence": "Bachelor's degree in Web Design",
+    "rationale": "The candidate holds a Bachelor's degree, which meets the basic education requirement, though the field of study is irrelevant to data science.",
+    "term": "Low"
+   },
+   "C4": {
+    "criterion_id": "C4",
+    "evidence": "",
+    "rationale": "No certifications relevant to the job offer are mentioned in the CV.",
+    "term": "Very Low"
+   },
+   "C5": {
+    "criterion_id": "C5",
+    "evidence": "showcasing creativity in visual problem solving ... highlighting time management",
+    "rationale": "The candidate mentions problem-solving and time management but lacks evidence of communication, teamwork, or leadership specific to data science.",
+    "term": "Low"
+   },
+   "C6": {
+    "criterion_id": "C6",
+    "evidence": "English, French, German",
+    "rationale": "The CV confirms proficiency in both English and French, meeting the language requirements for the job offer.",
+    "term": "High"
+   }
+  },
+  {
+   "C1": {
+    "criterion_id": "C1",
+    "evidence": "",
+    "rationale": "No Python, SQL, Machine Learning, or Pandas skills found in the CV despite the requirement for a Data Scientist role.",
+    "term": "Very Low"
+   },
+   "C2": {
+    "criterion_id": "C2",
+    "evidence": "",
+    "rationale": "The candidate has no professional experience as a Data Scientist and lacks relevant data science roles in their history.",
+    "term": "Very Low"
+   },
+   "C3": {
+    "criterion_id": "C3",
+    "evidence": "Bachelor's degree in Web Design",
+    "rationale": "The field of study does not match the required CS, Statistics, or Data Science background.",
+    "term": "Low"
+   },
+   "C4": {
+    "criterion_id": "C4",
+    "evidence": "",
+    "rationale": "No professional certifications listed in the CV that align with the preferred job offer items.",
+    "term": "Very Low"
+   },
+   "C5": {
+    "criterion_id": "C5",
+    "evidence": "showcasing creativity in visual problem solving",
+    "rationale": "The soft skill 'problem solving' is mentioned, though not in the context of data science tasks.",
+    "term": "Medium"
+   },
+   "C6": {
+    "criterion_id": "C6",
+    "evidence": "English, French, German",
+    "rationale": "Both required languages, English and French, are explicitly listed as known by the candidate.",
+    "term": "High"
+   }
+  }
+ ],
+ "S16": [
+  {
+   "C1": {
+    "criterion_id": "C1",
+    "evidence": "",
+    "rationale": "Candidate lists Python but lacks required SQL, Machine Learning, Pandas, or Scikit-learn skills.",
+    "term": "Low"
+   },
+   "C2": {
+    "criterion_id": "C2",
+    "evidence": "",
+    "rationale": "DevOps Engineer role does not match Data Scientist requirements and experience duration is unclear.",
+    "term": "Very Low"
+   },
+   "C3": {
+    "criterion_id": "C3",
+    "evidence": "PhD in Computer Science",
+    "rationale": "PhD in Computer Science exceeds the degree requirement for a Data Scientist role.",
+    "term": "High"
+   },
+   "C4": {
+    "criterion_id": "C4",
+    "evidence": "",
+    "rationale": "AWS Certified Solutions Architect is not among the preferred certifications listed in the job offer.",
+    "term": "Low"
+   },
+   "C5": {
+    "criterion_id": "C5",
+    "evidence": "demonstrating strong problem-solving capabilities",
+    "rationale": "Explicit mention of problem solving partially addresses the soft skill requirement.",
+    "term": "Medium"
+   },
+   "C6": {
+    "criterion_id": "C6",
+    "evidence": "",
+    "rationale": "Candidate lists English and Spanish, but French is required by the job offer.",
+    "term": "Low"
+   }
+  },
+  {
+   "C1": {
+    "criterion_id": "C1",
+    "evidence": "Python, Terraform, Kubernetes",
+    "rationale": "Candidate has Python but lacks required SQL, Pandas, and Scikit-learn tools for data analysis tasks.",
+    "term": "Medium"
+   },
+   "C2": {
+    "criterion_id": "C2",
+    "evidence": "DevOps Engineer (2024 - 2026)",
+    "rationale": "Candidate has 2 years of experience, which is below the required 3 years, in a different role.",
+    "term": "Low"
+   },
+   "C3": {
+    "criterion_id": "C3",
+    "evidence": "PhD in Computer Science",
+    "rationale": "Candidate holds a PhD in a highly relevant field and exceeds the minimum degree requirement.",
+    "term": "Very High"
+   },
+   "C4": {
+    "criterion_id": "C4",
+    "evidence": "AWS Certified Solutions Architect",
+    "rationale": "Candidate lacks specific ML certifications like TensorFlow or Azure Data Scientist Associate required by the offer.",
+    "term": "Low"
+   },
+   "C5": {
+    "criterion_id": "C5",
+    "evidence": "demonstrating strong problem-solving capabilities",
+    "rationale": "Candidate explicitly demonstrates problem solving but lacks evidence of communication or teamwork in achievements.",
+    "term": "Medium"
+   },
+   "C6": {
+    "criterion_id": "C6",
+    "evidence": "English, Spanish",
+    "rationale": "Candidate speaks English but does not meet the requirement for professional French proficiency.",
+    "term": "Low"
+   }
+  },
+  {
+   "C1": {
+    "criterion_id": "C1",
+    "evidence": "",
+    "rationale": "No overlap between candidate skills (Python, Terraform, Kubernetes) and required Data Science tools (SQL, ML, Pandas, Scikit-learn).",
+    "term": "Low"
+   },
+   "C2": {
+    "criterion_id": "C2",
+    "evidence": "DevOps Engineer (2024 - 2026)",
+    "rationale": "Role is DevOps, not Data Scientist, with only 1 year of experience against the 3-year minimum requirement.",
+    "term": "Very Low"
+   },
+   "C3": {
+    "criterion_id": "C3",
+    "evidence": "PhD in Computer Science",
+    "rationale": "Candidate holds a PhD in Computer Science, which exceeds the degree requirement and matches the field perfectly.",
+    "term": "High"
+   },
+   "C4": {
+    "criterion_id": "C4",
+    "evidence": "AWS Certified Solutions Architect",
+    "rationale": "Certification is for Solutions Architecture, not Machine Learning or Data Engineering as required.",
+    "term": "Low"
+   },
+   "C5": {
+    "criterion_id": "C5",
+    "evidence": "demonstrating strong problem-solving capabilities to resolve complex configuration bottlenecks",
+    "rationale": "Explicit mention of problem-solving demonstrates one soft skill requirement but lacks evidence for others like teamwork.",
+    "term": "Medium"
+   },
+   "C6": {
+    "criterion_id": "C6",
+    "evidence": "English, Spanish",
+    "rationale": "Candidate speaks English and Spanish, missing the required French proficiency.",
+    "term": "Low"
+   }
+  }
+ ],
+ "S17": [
+  {
+   "C1": {
+    "criterion_id": "C1",
+    "evidence": "Git, Python, AWS, Docker, Terraform",
+    "rationale": "Candidate lists Python and Docker but lacks explicit mention of SQL, Machine Learning, Pandas, or Scikit-learn required for the role.,",
+    "term": "Low"
+   },
+   "C2": {
+    "criterion_id": "C2",
+    "evidence": "",
+    "rationale": "No evidence of professional experience in a Data Scientist or similar data-focused role is present in the CV.",
+    "term": "Very Low"
+   },
+   "C3": {
+    "criterion_id": "C3",
+    "evidence": "Bachelor's degree in Computer Engineering",
+    "rationale": "A Bachelor's degree is acceptable but lacks the Master's or PhD preferred for this specific role.,",
+    "term": "Low"
+   },
+   "C4": {
+    "criterion_id": "C4",
+    "evidence": "AWS Certified Solutions Architect",
+    "rationale": "The certification is relevant to cloud infrastructure but does not match the Machine Learning specialties listed in the offer.",
+    "term": "Low"
+   },
+   "C5": {
+    "criterion_id": "C5",
+    "evidence": "demonstrating leadership in coordinating resources... showcasing leadership in defining technical roadmaps",
+    "rationale": "CV explicitly mentions teamwork, leadership, and autonomy across multiple roles.,",
+    "term": "High"
+   },
+   "C6": {
+    "criterion_id": "C6",
+    "evidence": "English, French, Spanish",
+    "rationale": "Candidate lists both English and French with no indication of limited proficiency.",
+    "term": "Very High"
+   }
+  },
+  {
+   "C1": {
+    "criterion_id": "C1",
+    "evidence": "",
+    "rationale": "The CV lists Python and Docker but lacks specific Machine Learning, SQL, Statistics, or Pandas/Scikit-learn skills required for a Data Scientist role.",
+    "term": "Very Low"
+   },
+   "C2": {
+    "criterion_id": "C2",
+    "evidence": "Machine Learning Engineer (2024 - 2025)",
+    "rationale": "One year of professional experience is below the minimum requirement of at least three years in a similar role.",
+    "term": "Very Low"
+   },
+   "C3": {
+    "criterion_id": "C3",
+    "evidence": "Bachelor's degree in Computer Engineering",
+    "rationale": "A Bachelor's degree is acceptable, but the lack of a Master's or PhD disqualifies it from the 'plus' criteria.",
+    "term": "Low"
+   },
+   "C4": {
+    "criterion_id": "C4",
+    "evidence": "",
+    "rationale": "The candidate holds AWS Solutions Architect certification instead of the Machine Learning specialty or other preferred certifications.",
+    "term": "Very Low"
+   },
+   "C5": {
+    "criterion_id": "C5",
+    "evidence": "Led cross-functional projects requiring strong teamwork... demonstrating leadership in coordinating resources",
+    "rationale": "Explicit mentions of teamwork and leadership in professional roles directly satisfy the soft skills requirements.",
+    "term": "High"
+   },
+   "C6": {
+    "criterion_id": "C6",
+    "evidence": "English, French, Spanish",
+    "rationale": "The candidate lists both English and French at the professional proficiency level required by the job offer.",
+    "term": "Very High"
+   }
+  },
+  {
+   "C1": {
+    "criterion_id": "C1",
+    "evidence": "Git, Python, AWS, Docker, Terraform",
+    "rationale": "Missing core Machine Learning and SQL skills required for Data Scientist role while having only basic ML exposure in previous title alone without technical depth evidence.",
+    "term": "Low"
+   },
+   "C2": {
+    "criterion_id": "C2",
+    "evidence": "",
+    "rationale": "Candidate has no explicit professional experience as Data Scientist or relevant data science role despite holding titles related to DevOps and Machine Learning Engineer.",
+    "term": "Very Low"
+   },
+   "C3": {
+    "criterion_id": "C3",
+    "evidence": "Bachelor's degree in Computer Engineering",
+    "rationale": "Bachelor's degree meets minimum requirement but lacks preferred Master's degree or PhD in related field like Statistics or Data Science.",
+    "term": "Low"
+   },
+   "C4": {
+    "criterion_id": "C4",
+    "evidence": "AWS Certified Solutions Architect",
+    "rationale": "Certification is relevant to cloud but does not match specific Machine Learning or Data Engineering certifications listed as appreciated.",
+    "term": "Low"
+   },
+   "C5": {
+    "criterion_id": "C5",
+    "evidence": "demonstrating leadership in coordinating resources",
+    "rationale": "Candidate explicitly mentions teamwork and leadership which partially satisfies soft skill requirements even though concrete achievements are vague.",
+    "term": "Medium"
+   },
+   "C6": {
+    "criterion_id": "C6",
+    "evidence": "English, French, Spanish",
+    "rationale": "Candidate lists both required languages English and French alongside additional language meeting proficiency requirement fully.",
+    "term": "Very High"
+   }
+  }
+ ],
+ "S18": [
+  {
+   "C1": {
+    "criterion_id": "C1",
+    "evidence": "",
+    "rationale": "No overlap between candidate's financial skills and required data science tools like Python or SQL.",
+    "term": "Very Low"
+   },
+   "C2": {
+    "criterion_id": "C2",
+    "evidence": "",
+    "rationale": "Candidate has no professional experience in a Data Scientist role or relevant technical domain.",
+    "term": "Very Low"
+   },
+   "C3": {
+    "criterion_id": "C3",
+    "evidence": "Bachelor's degree in Accounting",
+    "rationale": "Degree field is irrelevant to data science, and it is only a bachelor's level.",
+    "term": "Low"
+   },
+   "C4": {
+    "criterion_id": "C4",
+    "evidence": "",
+    "rationale": "Candidate holds a CPA certification which is unrelated to the required machine learning certifications.",
+    "term": "Very Low"
+   },
+   "C5": {
+    "criterion_id": "C5",
+    "evidence": "demonstrating autonomy in daily operations",
+    "rationale": "Evidence of autonomy and leadership exists but lacks concrete problem-solving achievements in data contexts.",
+    "term": "Medium"
+   },
+   "C6": {
+    "criterion_id": "C6",
+    "evidence": "English, French",
+    "rationale": "Candidate explicitly lists both required languages with no proficiency qualifier implying coverage.",
+    "term": "High"
+   }
+  },
+  {
+   "C1": {
+    "criterion_id": "C1",
+    "evidence": "",
+    "rationale": "The candidate lists only Financial Reporting, Excel, and IFRS with no Python, SQL, or Machine Learning tools mentioned.",
+    "term": "Very Low"
+   },
+   "C2": {
+    "criterion_id": "C2",
+    "evidence": "",
+    "rationale": "Experience as an Accountant and Marketing Specialist does not match the Data Scientist role or 3 years of domain experience requirement.",
+    "term": "Very Low"
+   },
+   "C3": {
+    "criterion_id": "C3",
+    "evidence": "Bachelor's degree in Accounting",
+    "rationale": "The field of study is irrelevant to data science, though the degree level meets the minimum education requirement.",
+    "term": "Low"
+   },
+   "C4": {
+    "criterion_id": "C4",
+    "evidence": "",
+    "rationale": "The CPA certification is not among the preferred certifications for Data Science roles.",
+    "term": "Very Low"
+   },
+   "C5": {
+    "criterion_id": "C5",
+    "evidence": "showcasing leadership and problem-solving during audits",
+    "rationale": "Explicit mentions of leadership and problem-solving demonstrate soft skills, though autonomy is only partially shown.",
+    "term": "Medium"
+   },
+   "C6": {
+    "criterion_id": "C6",
+    "evidence": "English, French",
+    "rationale": "Both required languages are listed without any indication of reduced proficiency.",
+    "term": "Very High"
+   }
+  },
+  {
+   "C1": {
+    "criterion_id": "C1",
+    "evidence": "",
+    "rationale": "No overlap between candidate's Financial Reporting skills and required Data Science stack.",
+    "term": "Very Low"
+   },
+   "C2": {
+    "criterion_id": "C2",
+    "evidence": "",
+    "rationale": "Accounting roles do not demonstrate 3 years of professional experience in Data Science or similar domain.",
+    "term": "Very Low"
+   },
+   "C3": {
+    "criterion_id": "C3",
+    "evidence": "Bachelor's degree in Accounting",
+    "rationale": "Degree field is irrelevant to Data Science requirements.",
+    "term": "Low"
+   },
+   "C4": {
+    "criterion_id": "C4",
+    "evidence": "",
+    "rationale": "CPA certification does not match any required or preferred certifications for the role.",
+    "term": "Very Low"
+   },
+   "C5": {
+    "criterion_id": "C5",
+    "evidence": "showcasing leadership and problem-solving during audits. Directed campaign metrics analysis with Excel, exhibiting autonomy in strategic planning.",
+    "rationale": "Explicit mentions of soft skills exist but are not demonstrated through Data Science context.",
+    "term": "Medium"
+   },
+   "C6": {
+    "criterion_id": "C6",
+    "evidence": "English, French",
+    "rationale": "Candidate meets the requirement for professional proficiency in both English and French.",
+    "term": "High"
+   }
+  }
+ ],
+ "S19": [
+  {
+   "C1": {
+    "criterion_id": "C1",
+    "evidence": "",
+    "rationale": "No Python, SQL, Machine Learning, or Pandas skills listed in the CV despite requirements for a Data Scientist role.",
+    "term": "Very Low"
+   },
+   "C2": {
+    "criterion_id": "C2",
+    "evidence": "",
+    "rationale": "Candidate has 6 years of experience but roles are Financial Analyst and Accountant with no Data Science context.",
+    "term": "Very Low"
+   },
+   "C3": {
+    "criterion_id": "C3",
+    "evidence": "Bachelor's degree in Accounting",
+    "rationale": "Degree is relevant to finance but not to the required fields of Computer Science, Statistics, or Data Science.",
+    "term": "Low"
+   },
+   "C4": {
+    "criterion_id": "C4",
+    "evidence": "",
+    "rationale": "Candidate holds a CPA certification which is irrelevant to the requested AWS, Google, TensorFlow, or Microsoft certifications.",
+    "term": "Very Low"
+   },
+   "C5": {
+    "criterion_id": "C5",
+    "evidence": "demonstrating effective communication during stakeholder training sessions",
+    "rationale": "Evidence of communication exists but lacks problem-solving or teamwork achievements specific to data science projects.",
+    "term": "Low"
+   },
+   "C6": {
+    "criterion_id": "C6",
+    "evidence": "",
+    "rationale": "Candidate speaks English and Spanish, but the job offer requires professional proficiency in both English and French.",
+    "term": "Very Low"
+   }
+  },
+  {
+   "C1": {
+    "criterion_id": "C1",
+    "evidence": "",
+    "rationale": "The candidate lists only Excel, SAP, and IFRS skills with no Python, SQL, or Machine Learning mentioned.",
+    "term": "Very Low"
+   },
+   "C2": {
+    "criterion_id": "C2",
+    "evidence": "",
+    "rationale": "Four years as a Financial Analyst and two as an Accountant do not demonstrate Data Science professional experience.",
+    "term": "Very Low"
+   },
+   "C3": {
+    "criterion_id": "C3",
+    "evidence": "Bachelor's degree in Accounting",
+    "rationale": "The accounting degree is unrelated to the required Computer Science, Statistics, or Data Science fields.",
+    "term": "Low"
+   },
+   "C4": {
+    "criterion_id": "C4",
+    "evidence": "",
+    "rationale": "The CPA certification is an accounting credential, not one of the requested Data Science certifications.",
+    "term": "Very Low"
+   },
+   "C5": {
+    "criterion_id": "C5",
+    "evidence": "Collaborated cross-functionally to ensure accurate financial reporting standards aligned with IFRS requirements.",
+    "rationale": "Cross-functional collaboration and clear communication are demonstrated through stakeholder training sessions.",
+    "term": "Medium"
+   },
+   "C6": {
+    "criterion_id": "C6",
+    "evidence": "English, Spanish",
+    "rationale": "The candidate speaks English but lacks the required French proficiency.",
+    "term": "Low"
+   }
+  },
+  {
+   "C1": {
+    "criterion_id": "C1",
+    "evidence": "",
+    "rationale": "No Python, SQL, ML, Pandas, or Scikit-learn skills listed in the CV despite financial analyst experience using Excel and SAP.",
+    "term": "Very Low"
+   },
+   "C2": {
+    "criterion_id": "C2",
+    "evidence": "Financial Analyst (2021 - 2026)",
+    "rationale": "Four years of financial analysis is insufficient compared to the required three years of Data Scientist professional experience.",
+    "term": "Low"
+   },
+   "C3": {
+    "criterion_id": "C3",
+    "evidence": "",
+    "rationale": "The CV lists Accounting, which is irrelevant to the required Computer Science, Statistics, or Data Science fields.",
+    "term": "Very Low"
+   },
+   "C4": {
+    "criterion_id": "C4",
+    "evidence": "",
+    "rationale": "The CPA certification does not match any of the requested technical certifications like AWS ML or TensorFlow Developer.",
+    "term": "Very Low"
+   },
+   "C5": {
+    "criterion_id": "C5",
+    "evidence": "Collaborated cross-functionally to ensure accurate financial reporting standards aligned with IFRS requirements.",
+    "rationale": "Evidence of teamwork and communication exists but lacks concrete achievements solving complex data problems typical of a Data Scientist.",
+    "term": "Medium"
+   },
+   "C6": {
+    "criterion_id": "C6",
+    "evidence": "English, Spanish",
+    "rationale": "The CV lists English but the job offer requires professional proficiency in both English and French.",
+    "term": "Low"
+   }
+  }
+ ],
+ "S20": [
+  {
+   "C1": {
+    "criterion_id": "C1",
+    "evidence": "",
+    "rationale": "No Python, SQL, Machine Learning, or Pandas skills listed in the CV.",
+    "term": "Very Low"
+   },
+   "C2": {
+    "criterion_id": "C2",
+    "evidence": "",
+    "rationale": "Digital Marketing Manager roles do not match Data Scientist requirements.",
+    "term": "Very Low"
+   },
+   "C3": {
+    "criterion_id": "C3",
+    "evidence": "PhD in Communication",
+    "rationale": "PhD is a plus but Communication is less relevant than Computer Science or Statistics for this role.",
+    "term": "Low"
+   },
+   "C4": {
+    "criterion_id": "C4",
+    "evidence": "",
+    "rationale": "No certifications matching AWS, Google, TensorFlow, or Microsoft criteria are listed.",
+    "term": "Very Low"
+   },
+   "C5": {
+    "criterion_id": "C5",
+    "evidence": "Led cross-functional teams with full autonomy to execute a data-driven content strategy",
+    "rationale": "Demonstrates teamwork and autonomy but lacks specific problem-solving context for data science.",
+    "term": "Medium"
+   },
+   "C6": {
+    "criterion_id": "C6",
+    "evidence": "Spanish",
+    "rationale": "Only Spanish is listed; English and French are required by the job offer.",
+    "term": "Very Low"
+   }
+  },
+  {
+   "C1": {
+    "criterion_id": "C1",
+    "evidence": "",
+    "rationale": "No Python, SQL, Machine Learning, or Pandas skills listed, only Excel and marketing tools are mentioned.",
+    "term": "Very Low"
+   },
+   "C2": {
+    "criterion_id": "C2",
+    "evidence": "Digital Marketing Manager (2021 - 2026)",
+    "rationale": "Three years of experience exist but they are in marketing management rather than a Data Scientist role.",
+    "term": "Low"
+   },
+   "C3": {
+    "criterion_id": "C3",
+    "evidence": "PhD in Communication",
+    "rationale": "A PhD exists but the field is Communication rather than Computer Science, Statistics, or Data Science.",
+    "term": "Medium"
+   },
+   "C4": {
+    "criterion_id": "C4",
+    "evidence": "",
+    "rationale": "No professional certifications related to machine learning or data engineering are listed.",
+    "term": "Very Low"
+   },
+   "C5": {
+    "criterion_id": "C5",
+    "evidence": "Led cross-functional teams with full autonomy... Advanced problem solving techniques",
+    "rationale": "Autonomy and problem solving are mentioned, though teamwork is described as leading rather than collaborating.",
+    "term": "Medium"
+   },
+   "C6": {
+    "criterion_id": "C6",
+    "evidence": "Spanish",
+    "rationale": "The CV lists only Spanish; English and French professional proficiency are required by the job offer.",
+    "term": "Very Low"
+   }
+  },
+  {
+   "C1": {
+    "criterion_id": "C1",
+    "evidence": "",
+    "rationale": "No Python, SQL, ML, Pandas, or Scikit-learn skills listed in the CV despite requirements for a Data Scientist role.",
+    "term": "Very Low"
+   },
+   "C2": {
+    "criterion_id": "C2",
+    "evidence": "Digital Marketing Manager (2021 - 2026)",
+    "rationale": "Five years of experience exist but are in marketing rather than data science or similar roles.",
+    "term": "Low"
+   },
+   "C3": {
+    "criterion_id": "C3",
+    "evidence": "PhD in Communication",
+    "rationale": "The candidate holds a PhD, which exceeds the degree requirement, though the field (Communication) is less relevant than Computer Science or Statistics.",
+    "term": "High"
+   },
+   "C4": {
+    "criterion_id": "C4",
+    "evidence": "",
+    "rationale": "No professional certifications relevant to data science or machine learning are listed on the CV.",
+    "term": "Very Low"
+   },
+   "C5": {
+    "criterion_id": "C5",
+    "evidence": "Led cross-functional teams with full autonomy to execute a data-driven content strategy",
+    "rationale": "The CV explicitly demonstrates leadership, teamwork, and problem-solving skills through concrete management achievements.",
+    "term": "High"
+   },
+   "C6": {
+    "criterion_id": "C6",
+    "evidence": "",
+    "rationale": "Only Spanish is listed; the job offer requires English and French proficiency, which are not supported by the evidence.",
+    "term": "Very Low"
+   }
+  }
+ ]
+}

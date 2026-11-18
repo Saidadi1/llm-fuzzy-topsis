@@ -1,0 +1,23 @@
+Name: Hugo Petit
+Gender: Male
+Age: 27
+Nationality: French
+
+PROFESSIONAL EXPERIENCE
+Financial Analyst (2021 - 2026)
+Implemented rigorous budgeting strategies that optimized quarterly cash flow projections by fifteen percent.
+Collaborated cross-functionally to ensure accurate financial reporting standards aligned with IFRS requirements.
+Accountant (2019 - 2021)
+Managed complex tax reconciliation tasks while maintaining clear communication with external auditors throughout the review process.
+Developed automated Excel models that reduced manual data entry errors by twenty percent across departmental ledgers.
+Frontend Developer (2016 - 2019)
+Designed intuitive user interfaces for internal financial dashboards, demonstrating effective communication during stakeholder training sessions.
+Integrated SAP modules to streamline data visualization tools used by accounting teams for real-time reporting.
+EDUCATION
+Bachelor's degree in Accounting
+SKILLS
+Excel, SAP, IFRS, Budgeting
+CERTIFICATIONS
+Certified Public Accountant (CPA)
+LANGUAGES
+English, Spanish

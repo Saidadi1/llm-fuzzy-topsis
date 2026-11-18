@@ -1,0 +1,18 @@
+Name: Lucas Bernard
+Gender: Male
+Age: 31
+Nationality: French
+
+PROFESSIONAL EXPERIENCE
+Data Analyst (2024 - 2026)
+Utilized Tableau to visualize complex datasets and collaborated through teamwork to deliver actionable insights. Applied advanced Statistics techniques in Excel and SQL to refine financial models, ensuring accuracy while fostering strong teamwork within the department.
+MLOps Engineer (2023 - 2024)
+Deployed automated pipelines using Pandas and Power BI for real-time data monitoring, demonstrating clear teamwork in cross-functional project delivery. Leveraged statistical analysis to optimize model performance, reinforcing a culture of teamwork among engineers.
+EDUCATION
+Master's degree in Economics
+SKILLS
+Tableau, Statistics, Power BI, Excel, SQL, Pandas
+CERTIFICATIONS
+Microsoft Certified: Power BI Data Analyst Associate
+LANGUAGES
+English

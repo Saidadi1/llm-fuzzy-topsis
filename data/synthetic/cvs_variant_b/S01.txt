@@ -1,0 +1,21 @@
+Name: Fatima Zahra El Amrani
+Gender: Female
+Age: 54
+Nationality: Moroccan
+
+PROFESSIONAL EXPERIENCE
+Senior Data Scientist (2025 - 2026): Led a cross-functional team to deploy advanced Machine Learning models, demonstrating strong leadership in project delivery. Successfully trained Deep Learning architectures for predictive analytics while maintaining clear communication with stakeholders across departments.
+Data Scientist (2022 - 2025): Managed end-to-end data pipelines using Python and SQL to support business objectives, showcasing effective communication during weekly review meetings. Collaborated on strategic initiatives that required significant leadership in resource allocation and team coordination.
+Junior Data Scientist (2017 - 2022): Executed automated analysis workflows leveraging R for statistical modeling, utilizing Python for script optimization. Participated in team brainstorming sessions to foster open communication and contributed to project planning with supportive leadership behaviors.
+DevOps Engineer (2016 - 2017): Automated deployment processes using Python scripts, ensuring seamless integration of data tools. Communicated technical updates clearly to non-technical staff and coordinated infrastructure upgrades through collaborative leadership efforts.
+
+EDUCATION
+High School Diploma in Data Science
+
+SKILLS
+Machine Learning, Deep Learning, Python, SQL, R
+
+CERTIFICATIONS
+
+LANGUAGES
+English, Spanish, Arabic

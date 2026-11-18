@@ -1,0 +1,852 @@
+{
+ "S01": {
+  "skills": [
+   "Machine Learning",
+   "Deep Learning",
+   "Python",
+   "SQL",
+   "R"
+  ],
+  "years_experience": 9.0,
+  "job_titles": [
+   "Senior Data Scientist",
+   "Data Scientist",
+   "Junior Data Scientist",
+   "DevOps Engineer"
+  ],
+  "education": [
+   {
+    "degree": "High School Diploma in Data Science",
+    "field": "",
+    "level": "other"
+   }
+  ],
+  "certifications": [],
+  "languages": [
+   "English",
+   "Spanish",
+   "Arabic"
+  ],
+  "projects": [
+   "Led cross-functional team to deploy advanced Machine Learning models",
+   "Managed end-to-end data pipelines using Python and SQL",
+   "Executed automated analysis workflows leveraging R for statistical modeling",
+   "Automated deployment processes using Python scripts"
+  ],
+  "soft_skills": [
+   "Leadership",
+   "Communication",
+   "Team coordination",
+   "Resource allocation",
+   "Collaboration"
+  ]
+ },
+ "S02": {
+  "skills": [
+   "R",
+   "Tableau",
+   "Deep Learning"
+  ],
+  "years_experience": 2.0,
+  "job_titles": [
+   "Junior Data Scientist",
+   "Digital Marketing Manager"
+  ],
+  "education": [
+   {
+    "degree": "Bachelor's degree in Statistics",
+    "field": "Statistics",
+    "level": "bachelor"
+   }
+  ],
+  "certifications": [
+   "TensorFlow Developer Certificate",
+   "AWS Certified Machine Learning - Specialty"
+  ],
+  "languages": [
+   "English",
+   "French",
+   "Spanish"
+  ],
+  "projects": [],
+  "soft_skills": []
+ },
+ "S03": {
+  "skills": [
+   "Spark",
+   "Docker",
+   "R",
+   "TensorFlow",
+   "Tableau",
+   "Statistics",
+   "Deep Learning",
+   "Machine Learning"
+  ],
+  "years_experience": 13.0,
+  "job_titles": [
+   "Senior Data Scientist",
+   "Data Scientist",
+   "Junior Data Scientist",
+   "Machine Learning Engineer"
+  ],
+  "education": [
+   {
+    "degree": "High School Diploma in Applied Mathematics",
+    "field": "",
+    "level": "high_school"
+   }
+  ],
+  "certifications": [
+   "TensorFlow Developer Certificate",
+   "Microsoft Certified: Azure Data Scientist Associate"
+  ],
+  "languages": [
+   "English",
+   "French",
+   "Spanish"
+  ],
+  "projects": [
+   "Redesigned predictive maintenance model using creativity to solve operational bottlenecks",
+   "Built real-time analytics pipelines improving data processing speed by forty percent",
+   "Developed interactive dashboards for executive reporting of financial data",
+   "Automated customer segmentation tasks using deep learning techniques",
+   "Optimized neural network architectures solving legacy algorithm inefficiencies"
+  ],
+  "soft_skills": [
+   "Leadership",
+   "Creativity",
+   "Communication",
+   "Problem-solving",
+   "Mentoring"
+  ]
+ },
+ "S04": {
+  "skills": [
+   "SQL",
+   "Docker",
+   "Scikit-learn",
+   "R",
+   "Spark",
+   "Machine Learning",
+   "Pandas",
+   "Statistics"
+  ],
+  "years_experience": 6.0,
+  "job_titles": [
+   "Senior Data Scientist",
+   "Data Scientist",
+   "Junior Data Scientist"
+  ],
+  "education": [
+   {
+    "degree": "Bachelor's degree in Statistics",
+    "field": "Statistics",
+    "level": "bachelor"
+   }
+  ],
+  "certifications": [],
+  "languages": [
+   "English",
+   "Arabic"
+  ],
+  "projects": [
+   "Optimized predictive models increasing accuracy by 15% with autonomous algorithm selection",
+   "Designed automated reporting dashboards using SQL and Spark for executive stakeholders",
+   "Developed regression models with Scikit-learn and Pandas for retail analytics forecasting"
+  ],
+  "soft_skills": [
+   "Leadership",
+   "Creativity",
+   "Autonomy",
+   "Collaboration",
+   "Mentoring"
+  ]
+ },
+ "S05": {
+  "skills": [
+   "Python",
+   "SQL",
+   "Power BI",
+   "Statistics"
+  ],
+  "years_experience": 5.0,
+  "job_titles": [
+   "Data Analyst",
+   "MLOps Engineer"
+  ],
+  "education": [
+   {
+    "degree": "PhD in Statistics",
+    "field": "",
+    "level": "phd"
+   }
+  ],
+  "certifications": [],
+  "languages": [
+   "English",
+   "German"
+  ],
+  "projects": [
+   "Automated data cleaning workflows using Python scripts",
+   "Extracted high-volume transaction records using SQL",
+   "Deployed machine learning models using Python pipelines",
+   "Validated model performance metrics using advanced Statistics methods"
+  ],
+  "soft_skills": [
+   "autonomy",
+   "independence",
+   "time management",
+   "proactive time management"
+  ]
+ },
+ "S06": {
+  "skills": [
+   "Tableau",
+   "Statistics",
+   "Power BI",
+   "Excel",
+   "SQL",
+   "Pandas"
+  ],
+  "years_experience": 2.0,
+  "job_titles": [
+   "Data Analyst",
+   "MLOps Engineer"
+  ],
+  "education": [
+   {
+    "degree": "Master's degree in Economics",
+    "field": "",
+    "level": "master"
+   }
+  ],
+  "certifications": [
+   "Microsoft Certified: Power BI Data Analyst Associate"
+  ],
+  "languages": [
+   "English"
+  ],
+  "projects": [],
+  "soft_skills": [
+   "teamwork"
+  ]
+ },
+ "S07": {
+  "skills": [
+   "Python",
+   "SQL",
+   "Power BI",
+   "Tableau",
+   "Excel",
+   "Pandas"
+  ],
+  "years_experience": 5.0,
+  "job_titles": [
+   "Business Intelligence Analyst",
+   "Data Analyst"
+  ],
+  "education": [
+   {
+    "degree": "Bachelor's degree in Economics",
+    "field": "Economics",
+    "level": "bachelor"
+   }
+  ],
+  "certifications": [],
+  "languages": [
+   "English",
+   "Spanish"
+  ],
+  "projects": [],
+  "soft_skills": [
+   "autonomy",
+   "teamwork"
+  ]
+ },
+ "S08": {
+  "skills": [],
+  "years_experience": 0.0,
+  "job_titles": [
+   "MLOps Engineer",
+   "Machine Learning Engineer"
+  ],
+  "education": [
+   {
+    "degree": "Master's degree in Computer Engineering",
+    "field": "",
+    "level": "master"
+   }
+  ],
+  "certifications": [],
+  "languages": [
+   "English",
+   "Arabic",
+   "German"
+  ],
+  "projects": [],
+  "soft_skills": [
+   "time management",
+   "collaborative time management",
+   "strong time management",
+   "precise time management",
+   "system reliability",
+   "team delivery",
+   "scalability",
+   "version control",
+   "pipeline deployment",
+   "model optimization",
+   "inference latency reduction",
+   "complex data problem solving",
+   "machine learning pipeline development",
+   "predictive analytics solutions",
+   "data problems solving",
+   "scikit-learn models optimization",
+   "Python scripts optimization",
+   "Git workflows integration",
+   "Kubernetes utilization",
+   "system reliability assurance",
+   "development cycle management",
+   "time management demonstration",
+   "team delivery streamlining",
+   "collaborative time management showcasing",
+   "strong time management demonstrating",
+   "precise time management utilizing",
+   "complex data problems solving with precise time management",
+   "machine learning pipelines using Kubernetes to ensure system reliability and time management throughout the development cycle",
+   "Python scripts for Scikit-learn models, demonstrating strong time management while reducing inference latency by 30%",
+   "Developed predictive analytics solutions utilizing Python and Scikit-learn to solve complex data problems with precise time management",
+   "Integrated Git workflows for version control, showcasing collaborative time management to streamline team delivery",
+   "Deployed scalable machine learning pipelines using Kubernetes to ensure system reliability and time management throughout the development cycle",
+   "Optimized Python scripts for Scikit-learn models, demonstrating strong time management while reducing inference latency by 30%"
+  ]
+ },
+ "S09": {
+  "skills": [
+   "Spark",
+   "Kubernetes",
+   "Docker",
+   "AWS",
+   "Machine Learning",
+   "Python",
+   "Scikit-learn",
+   "Git"
+  ],
+  "years_experience": 5.0,
+  "job_titles": [
+   "Machine Learning Engineer"
+  ],
+  "education": [
+   {
+    "degree": "Master's degree in Computer Engineering",
+    "field": "",
+    "level": "master"
+   }
+  ],
+  "certifications": [],
+  "languages": [
+   "English",
+   "French"
+  ],
+  "projects": [],
+  "soft_skills": [
+   "leadership",
+   "problem solving",
+   "teamwork"
+  ]
+ },
+ "S10": {
+  "skills": [
+   "REST APIs",
+   "Hibernate",
+   "Kubernetes",
+   "Git",
+   "Spring Boot",
+   "Kafka",
+   "AWS"
+  ],
+  "years_experience": 2.0,
+  "job_titles": [
+   "Java Developer",
+   "Backend Developer"
+  ],
+  "education": [
+   {
+    "degree": "Bachelor's degree in Computer Science",
+    "field": "",
+    "level": "bachelor"
+   }
+  ],
+  "certifications": [
+   "AWS Certified Solutions Architect",
+   "Oracle Certified Professional: Java SE Developer"
+  ],
+  "languages": [
+   "English",
+   "Spanish"
+  ],
+  "projects": [
+   "Designed scalable REST APIs using Spring Boot and Hibernate on AWS",
+   "Integrated Kafka streams for real-time data processing via Kubernetes and Git",
+   "Developed secure microservices utilizing Spring Boot and REST APIs on AWS infrastructure"
+  ],
+  "soft_skills": [
+   "problem solving",
+   "communication",
+   "teamwork"
+  ]
+ },
+ "S11": {
+  "skills": [],
+  "years_experience": 0.0,
+  "job_titles": [
+   "Java Developer",
+   "Backend Developer"
+  ],
+  "education": [
+   {
+    "degree": "Bachelor's degree in Computer Engineering",
+    "field": "",
+    "level": "bachelor"
+   }
+  ],
+  "certifications": [],
+  "languages": [
+   "English",
+   "French",
+   "Spanish"
+  ],
+  "projects": [],
+  "soft_skills": [
+   "autonomy",
+   "time management",
+   "teamwork",
+   "effective communication",
+   "collaboration",
+   "resolving complex data layer issues",
+   "delivering critical updates ahead of schedule",
+   "successful project completions",
+   "high availability",
+   "scalable microservices architecture",
+   "distributed event processing",
+   "cross-functional team communication",
+   "CI/CD pipeline management",
+   "containerized application deployment",
+   "microservices architecture",
+   "data layer issue resolution",
+   "complex data layer issues",
+   "critical updates delivery",
+   "project completion success",
+   "team collaboration",
+   "effective communication",
+   "high availability assurance",
+   "scalable microservices design",
+   "distributed event processing management",
+   "cross-functional team interaction",
+   "CI/CD pipeline involvement",
+   "containerized application deployment execution",
+   "Java SE Developer certification",
+   "Oracle Certified Professional: Java SE Developer",
+   "Java",
+   "Kafka",
+   "Git",
+   "Kubernetes",
+   "AWS",
+   "Hibernate",
+   "Docker",
+   "technical skills",
+   "programming languages",
+   "methods",
+   "tools",
+   "Java",
+   "Hibernate",
+   "Kafka",
+   "Git",
+   "Kubernetes",
+   "AWS",
+   "Docker",
+   "Oracle Certified Professional: Java SE Developer",
+   "English",
+   "French",
+   "Spanish",
+   "2024 - 2026",
+   "2020 - 2024",
+   "Bachelor's degree in Computer Engineering",
+   "Java, Kafka, Git, Kubernetes, AWS, Hibernate, Docker",
+   "Oracle Certified Professional: Java SE Developer",
+   "English, French, Spanish"
+  ]
+ },
+ "S12": {
+  "skills": [
+   "Hibernate",
+   "Kafka",
+   "Git",
+   "Spring Boot"
+  ],
+  "years_experience": 7.0,
+  "job_titles": [
+   "Software Engineer",
+   "Java Developer",
+   "Backend Developer",
+   "Accountant"
+  ],
+  "education": [
+   {
+    "degree": "Master's degree in Computer Science",
+    "field": "",
+    "level": "master"
+   }
+  ],
+  "certifications": [
+   "Oracle Certified Professional: Java SE Developer"
+  ],
+  "languages": [
+   "English",
+   "Arabic"
+  ],
+  "projects": [],
+  "soft_skills": [
+   "problem solving",
+   "communication"
+  ]
+ },
+ "S13": {
+  "skills": [],
+  "years_experience": 0.0,
+  "job_titles": [
+   "Software Engineer",
+   "Java Developer",
+   "Backend Developer",
+   "Data Analyst"
+  ],
+  "education": [
+   {
+    "degree": "Master's degree in Computer Science",
+    "field": "",
+    "level": "master"
+   }
+  ],
+  "certifications": [],
+  "languages": [],
+  "projects": [],
+  "soft_skills": [
+   "teamwork",
+   "autonomy",
+   "mentoring",
+   "collaboration",
+   "active teamwork",
+   "refactoring without supervision",
+   "operating autonomously",
+   "aligning insights with business goals",
+   "resolving complex architectural challenges",
+   "coordinating with cross-functional squads",
+   "delivering features ahead of schedule",
+   "improving data accuracy",
+   "automating reporting workflows",
+   "driving strategic decisions",
+   "optimizing system performance",
+   "practicing teamwork",
+   "exercising autonomy",
+   "showcasing autonomy",
+   "operated autonomously",
+   "collaborated effectively within the team",
+   "demonstrating teamwork",
+   "mentoring junior developers on best practices",
+   "aligning data insights with business goals",
+   "operated autonomously to automate reporting workflows",
+   "improving data accuracy",
+   "driving strategic decisions",
+   "operated autonomously",
+   "exercising autonomy in refactoring critical modules without supervision",
+   "practiced teamwork by mentoring junior developers on best practices",
+   "showcasing autonomy in resolving complex architectural challenges",
+   "collaborated effectively within the team to deliver features ahead of schedule through active teamwork",
+   "demonstrating teamwork by coordinating with cross-functional squads",
+   "operated autonomously to optimize system performance",
+   "reducing latency by 20%",
+   "maintained legacy enterprise systems using Java and Git",
+   "exercising autonomy in refactoring critical modules without supervision",
+   "practiced teamwork by mentoring junior developers on best practices",
+   "analyzed large datasets to drive strategic decisions",
+   "utilizing teamwork to align data insights with business goals",
+   "operated autonomously to automate reporting workflows",
+   "improving data accuracy",
+   "Engineered robust backend services leveraging Java and Git for version control",
+   "showcasing autonomy in resolving complex architectural challenges",
+   "Collaborated effectively within the team to deliver features ahead of schedule through active teamwork",
+   "Maintained legacy enterprise systems using Java and Git",
+   "exercising autonomy in refactoring critical modules without supervision",
+   "Practiced teamwork by mentoring junior developers on best practices",
+   "Analyzed large datasets to drive strategic decisions",
+   "utilizing teamwork to align data insights with business goals",
+   "Operated autonomously to automate reporting workflows",
+   "improving data accuracy",
+   "Developed scalable cloud-native applications using AWS and Kafka",
+   "demonstrating teamwork by coordinating with cross-functional squads",
+   "Worked autonomously to optimize system performance",
+   "reducing latency by 20%",
+   "Java Developer (2017 - 2021)",
+   "Engineered robust backend services leveraging Java and Git for version control",
+   "showcasing autonomy in resolving complex architectural challenges",
+   "Collaborated effectively within the team to deliver features ahead of schedule through active teamwork",
+   "Backend Developer (2012 - 2017)",
+   "Maintained legacy enterprise systems using Java and Git",
+   "exercising autonomy in refactoring critical modules without supervision",
+   "Practiced teamwork by mentoring junior developers on best practices",
+   "Data Analyst (2009 - 2012)",
+   "Analyzed large datasets to drive strategic decisions",
+   "utilizing teamwork to align data insights with business goals",
+   "Operated autonomously to automate reporting workflows",
+   "improving data accuracy",
+   "Software Engineer (2021 - 2026)",
+   "Developed scalable cloud-native applications using AWS and Kafka",
+   "demonstrating teamwork by coordinating with cross-functional squads",
+   "Worked autonomously to optimize system performance",
+   "reducing latency by 20%"
+  ]
+ },
+ "S14": {
+  "skills": [
+   "TypeScript",
+   "CSS",
+   "JavaScript",
+   "Figma",
+   "REST APIs",
+   "HTML"
+  ],
+  "years_experience": 1.0,
+  "job_titles": [
+   "Frontend Developer"
+  ],
+  "education": [
+   {
+    "degree": "Master's degree in Computer Science",
+    "field": "",
+    "level": "master"
+   }
+  ],
+  "certifications": [
+   "Meta Front-End Developer Certificate"
+  ],
+  "languages": [
+   "English",
+   "German"
+  ],
+  "projects": [],
+  "soft_skills": [
+   "leadership",
+   "creativity",
+   "time management",
+   "teamwork",
+   "problem-solving"
+  ]
+ },
+ "S15": {
+  "skills": [],
+  "years_experience": 0.0,
+  "job_titles": [
+   "Web Developer",
+   "Frontend Developer",
+   "Data Analyst"
+  ],
+  "education": [
+   {
+    "degree": "Bachelor's degree in Web Design",
+    "field": "",
+    "level": "bachelor"
+   }
+  ],
+  "certifications": [],
+  "languages": [
+   "English",
+   "French",
+   "German"
+  ],
+  "projects": [],
+  "soft_skills": [
+   "creativity",
+   "time management",
+   "visual problem solving",
+   "identifying hidden trends",
+   "design intuitive navigation flows",
+   "pixel-perfect layouts",
+   "rapid sprints and bug fixes",
+   "reporting latency reduction",
+   "wireframes translation",
+   "version control pipelines maintenance",
+   "data processing workflows streamlining",
+   "REST API interactions optimization",
+   "front-end logic deployment",
+   "responsive user interfaces engineering",
+   "complex front-end logic deployment",
+   "raw datasets transformation into actionable reports",
+   "design teams collaboration",
+   "time management during rapid sprints and bug fixes",
+   "reporting latency reduction by 30%"
+  ]
+ },
+ "S16": {
+  "skills": [
+   "Python",
+   "Terraform",
+   "Kubernetes"
+  ],
+  "years_experience": 2.0,
+  "job_titles": [
+   "DevOps Engineer"
+  ],
+  "education": [
+   {
+    "degree": "PhD in Computer Science",
+    "field": "",
+    "level": "phd"
+   }
+  ],
+  "certifications": [
+   "AWS Certified Solutions Architect"
+  ],
+  "languages": [
+   "English",
+   "Spanish"
+  ],
+  "projects": [],
+  "soft_skills": [
+   "problem-solving",
+   "time management"
+  ]
+ },
+ "S17": {
+  "skills": [
+   "Git",
+   "Python",
+   "AWS",
+   "Docker",
+   "Terraform"
+  ],
+  "years_experience": 2.0,
+  "job_titles": [
+   "DevOps Engineer",
+   "Machine Learning Engineer"
+  ],
+  "education": [
+   {
+    "degree": "Bachelor's degree in Computer Engineering",
+    "field": "",
+    "level": "bachelor"
+   }
+  ],
+  "certifications": [
+   "AWS Certified Solutions Architect"
+  ],
+  "languages": [
+   "English",
+   "French",
+   "Spanish"
+  ],
+  "projects": [
+   "Automated infrastructure pipelines with novel CI/CD workflows",
+   "Integrated ML models into production environments",
+   "Debugged legacy systems on Linux"
+  ],
+  "soft_skills": [
+   "Teamwork",
+   "Leadership",
+   "Creativity",
+   "Autonomy"
+  ]
+ },
+ "S18": {
+  "skills": [
+   "Financial Reporting",
+   "Excel",
+   "IFRS"
+  ],
+  "years_experience": 4.0,
+  "job_titles": [
+   "Accountant",
+   "Marketing Specialist"
+  ],
+  "education": [
+   {
+    "degree": "Bachelor's degree in Accounting",
+    "field": "",
+    "level": "bachelor"
+   }
+  ],
+  "certifications": [
+   "Certified Public Accountant (CPA)"
+  ],
+  "languages": [
+   "English",
+   "French"
+  ],
+  "projects": [],
+  "soft_skills": [
+   "leadership",
+   "problem-solving",
+   "autonomy"
+  ]
+ },
+ "S19": {
+  "skills": [
+   "Excel",
+   "SAP",
+   "IFRS",
+   "Budgeting"
+  ],
+  "years_experience": 6.0,
+  "job_titles": [
+   "Financial Analyst",
+   "Accountant",
+   "Frontend Developer"
+  ],
+  "education": [
+   {
+    "degree": "Bachelor's degree in Accounting",
+    "field": "",
+    "level": "bachelor"
+   }
+  ],
+  "certifications": [
+   "Certified Public Accountant (CPA)"
+  ],
+  "languages": [
+   "English",
+   "Spanish"
+  ],
+  "projects": [],
+  "soft_skills": []
+ },
+ "S20": {
+  "skills": [
+   "Excel",
+   "Social Media Marketing",
+   "Content Strategy"
+  ],
+  "years_experience": 8.0,
+  "job_titles": [
+   "Digital Marketing Manager",
+   "Marketing Specialist"
+  ],
+  "education": [
+   {
+    "degree": "PhD in Communication",
+    "field": "",
+    "level": "phd"
+   }
+  ],
+  "certifications": [],
+  "languages": [
+   "Spanish"
+  ],
+  "projects": [
+   "Increased organic social media engagement by 40% through data-driven content strategy",
+   "Forecasted campaign ROI and optimized budget allocation using Excel, reducing cost per acquisition by 25%",
+   "Developed and monitored cross-channel content strategies ensuring timely delivery",
+   "Launched three viral social media campaigns by overcoming platform restrictions"
+  ],
+  "soft_skills": [
+   "Problem solving"
+  ]
+ }
+}

@@ -1,0 +1,3 @@
+anonymised,job,share_identical_text,mean_delta_cc,mean_abs_delta_cc,max_abs_delta_cc,share_identical_cc,kendall_tau_A_vs_B,mean_abs_rank_shift
+False,J1,0.0,-0.01080641975694893,0.016054701070317836,0.10885512974133055,0.5,0.8179447996958503,1.6
+True,J1,1.0,0.0,0.0,0.0,1.0,1.0,0.0

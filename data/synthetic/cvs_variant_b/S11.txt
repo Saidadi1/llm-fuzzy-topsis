@@ -1,0 +1,26 @@
+Name: Aïcha Diallo
+Gender: Female
+Age: 57
+Nationality: Senegalese
+
+PROFESSIONAL EXPERIENCE
+
+Java Developer (2024 - 2026)
+- Leveraged Java and Hibernate to architect scalable microservices while demonstrating autonomy in resolving complex data layer issues.
+- Managed distributed event processing using Kafka within Kubernetes environments, showcasing time management by delivering critical updates ahead of schedule.
+
+Backend Developer (2020 - 2024)
+- Deployed containerized applications via Docker and AWS to ensure high availability, utilizing effective communication with cross-functional teams.
+- Collaborated on CI/CD pipelines involving Git and Kafka integration, evidencing teamwork through successful project completions.
+
+EDUCATION
+Bachelor's degree in Computer Engineering
+
+SKILLS
+Java, Kafka, Git, Kubernetes, AWS, Hibernate, Docker
+
+CERTIFICATIONS
+Oracle Certified Professional: Java SE Developer
+
+LANGUAGES
+English, French, Spanish

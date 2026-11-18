@@ -1,0 +1,22 @@
+Name: Fatima Zahra El Amrani
+Gender: Female
+Age: 54
+Nationality: Moroccan
+
+PROFESSIONAL EXPERIENCE
+Software Engineer (2021 - 2026)
+Developed scalable cloud-native applications using AWS and Kafka, demonstrating teamwork by coordinating with cross-functional squads. Worked autonomously to optimize system performance, reducing latency by 20%.
+Java Developer (2017 - 2021)
+Engineered robust backend services leveraging Java and Git for version control, showcasing autonomy in resolving complex architectural challenges. Collaborated effectively within the team to deliver features ahead of schedule through active teamwork.
+Backend Developer (2012 - 2017)
+Maintained legacy enterprise systems using Java and Git, exercising autonomy in refactoring critical modules without supervision. Practiced teamwork by mentoring junior developers on best practices.
+Data Analyst (2009 - 2012)
+Analyzed large datasets to drive strategic decisions, utilizing teamwork to align data insights with business goals. Operated autonomously to automate reporting workflows, improving data accuracy.
+EDUCATION
+Master's degree in Computer Science
+SKILLS
+Java, Git, Kafka, AWS
+CERTIFICATIONS
+Oracle Certified Professional: Java SE Developer, AWS Certified Solutions Architect
+LANGUAGES
+English, French, Spanish

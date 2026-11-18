@@ -1,0 +1,19 @@
+Name: Thomas Martin
+Gender: Male
+Age: 29
+Nationality: French
+
+PROFESSIONAL EXPERIENCE
+Machine Learning Engineer (2021 - 2026)
+
+EDUCATION
+Master's degree in Computer Engineering
+
+SKILLS
+Spark, Kubernetes, Docker, AWS, Machine Learning, Python, Scikit-learn, Git
+
+LANGUAGES
+English (professional), French (professional)
+
+SOFT SKILLS
+leadership, problem solving, teamwork

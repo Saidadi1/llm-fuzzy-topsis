@@ -1,0 +1,109 @@
+﻿
+===== 2026-10-22T16:54:09 tests =====
+..................................................                       [100%]
+50 passed in 7.23s
+===== 2026-10-22T16:54:18 end tests (exit 0) =====
+
+===== 2026-10-22T16:54:18 crosscheck =====
+         input alternative  paper_d_plus  recomputed_from_table7_d_plus  ours_d_plus  paper_d_minus  ours_d_minus  paper_CC  ours_CC_chen  ours_rank  ours_CC_componentwise  pyDecision_CC  abs_diff_ours_componentwise_vs_pyDecision
+table4_ratings          A1          2.10                           1.94       1.9456           3.45        3.4295      0.62        0.6380          3               0.128295       0.128295                               0.000000e+00
+table4_ratings          A2          1.24                           1.26       1.2589           4.13        4.1057      0.77        0.7653          1               1.000000       1.000000                               0.000000e+00
+table4_ratings          A3          1.59                           1.59       1.6020           3.85        3.7706      0.71        0.7018          2               0.539335       0.539335                               0.000000e+00
+printed_table5          A1          2.10                           1.94       1.9421           3.45        3.4496      0.62        0.6398          3               0.113391       0.113391                               0.000000e+00
+printed_table5          A2          1.24                           1.26       1.2618           4.13        4.1229      0.77        0.7657          1               1.000000       1.000000                               0.000000e+00
+printed_table5          A3          1.59                           1.59       1.5911           3.85        3.8405      0.71        0.7071          2               0.563486       0.563486                               1.110223e-16
+{'provider': 'ollama', 'model': 'qwen3.5:4b', 'runs': 3, 'steps': ['crosscheck'], 'llm_calls': 0, 'cache_hits': 0, 'seconds': 2}
+===== 2026-10-22T16:54:23 end crosscheck (exit 0) =====
+
+===== 2026-10-22T16:54:23 4b synthetic+fairness =====
+2026-10-22 16:58:00,776 src.llm LLM ollama/qwen3.5:4b call took 214.6s
+2026-10-22 16:58:00,803 src.llm invalid JSON on attempt 1: unbalanced JSON in model output
+2026-10-22 16:58:38,168 src.llm LLM ollama/qwen3.5:4b call took 37.4s
+2026-10-22 17:02:03,378 src.llm LLM ollama/qwen3.5:4b call took 205.2s
+2026-10-22 17:02:03,402 src.llm invalid JSON on attempt 1: unbalanced JSON in model output
+2026-10-22 17:02:38,920 src.llm LLM ollama/qwen3.5:4b call took 35.5s
+2026-10-22 17:03:37,778 src.llm LLM ollama/qwen3.5:4b call took 58.8s
+2026-10-22 17:04:02,533 src.llm LLM ollama/qwen3.5:4b call took 24.7s
+2026-10-22 17:07:32,533 src.llm LLM ollama/qwen3.5:4b call took 210.0s
+2026-10-22 17:07:32,545 src.llm invalid JSON on attempt 1: unbalanced JSON in model output
+2026-10-22 17:08:14,181 src.llm LLM ollama/qwen3.5:4b call took 41.6s
+2026-10-22 17:09:13,957 src.llm LLM ollama/qwen3.5:4b call took 59.7s
+2026-10-22 18:59:50,114 src.llm LLM ollama/qwen3.5:4b call took 6636.1s
+2026-10-22 18:59:51,107 src.llm invalid JSON on attempt 1: unbalanced JSON in model output
+2026-10-22 19:00:28,502 src.llm LLM ollama/qwen3.5:4b call took 37.4s
+2026-10-22 19:02:25,728 src.llm LLM ollama/qwen3.5:4b call took 117.2s
+2026-10-22 19:02:52,120 src.llm LLM ollama/qwen3.5:4b call took 26.4s
+2026-10-22 19:03:28,669 src.llm LLM ollama/qwen3.5:4b call took 36.5s
+2026-10-22 19:06:54,264 src.llm LLM ollama/qwen3.5:4b call took 205.6s
+2026-10-22 19:06:54,290 src.llm invalid JSON on attempt 1: unbalanced JSON in model output
+2026-10-22 19:10:27,585 src.llm LLM ollama/qwen3.5:4b call took 213.3s
+2026-10-22 19:10:27,610 src.llm invalid JSON on attempt 2: unbalanced JSON in model output
+2026-10-22 19:10:57,680 src.llm LLM ollama/qwen3.5:4b call took 30.1s
+2026-10-22 19:14:20,344 src.llm LLM ollama/qwen3.5:4b call took 202.6s
+2026-10-22 19:14:20,355 src.llm invalid JSON on attempt 1: unbalanced JSON in model output
+2026-10-22 19:14:59,996 src.llm LLM ollama/qwen3.5:4b call took 39.6s
+2026-10-22 19:15:24,187 src.llm LLM ollama/qwen3.5:4b call took 24.2s
+2026-10-22 19:15:49,877 src.llm LLM ollama/qwen3.5:4b call took 25.7s
+2026-10-22 19:16:19,881 src.llm LLM ollama/qwen3.5:4b call took 30.0s
+2026-10-22 19:16:19,905 experiments extraction done in 8514s
+2026-10-22 19:17:01,112 src.llm LLM ollama/qwen3.5:4b call took 41.1s
+2026-10-22 19:17:01,123 src.llm invalid JSON on attempt 1: missing criteria ['C4', 'C5']
+2026-10-22 19:17:47,735 src.llm LLM ollama/qwen3.5:4b call took 46.6s
+2026-10-22 19:18:40,297 src.llm LLM ollama/qwen3.5:4b call took 52.5s
+2026-10-22 19:19:21,485 src.llm LLM ollama/qwen3.5:4b call took 41.2s
+2026-10-22 19:19:57,880 src.llm LLM ollama/qwen3.5:4b call took 36.4s
+2026-10-22 19:20:52,517 src.llm LLM ollama/qwen3.5:4b call took 54.6s
+2026-10-22 19:21:28,748 src.llm LLM ollama/qwen3.5:4b call took 36.2s
+2026-10-22 19:22:09,380 src.llm LLM ollama/qwen3.5:4b call took 40.6s
+2026-10-22 19:23:09,401 src.llm LLM ollama/qwen3.5:4b call took 60.0s
+2026-10-22 19:23:50,217 src.llm LLM ollama/qwen3.5:4b call took 40.8s
+2026-10-22 19:24:31,521 src.llm LLM ollama/qwen3.5:4b call took 41.3s
+2026-10-22 19:25:25,077 src.llm LLM ollama/qwen3.5:4b call took 53.5s
+2026-10-22 19:26:01,511 src.llm LLM ollama/qwen3.5:4b call took 36.4s
+2026-10-22 19:26:41,019 src.llm LLM ollama/qwen3.5:4b call took 39.5s
+2026-10-22 19:27:36,605 src.llm LLM ollama/qwen3.5:4b call took 55.6s
+2026-10-22 19:28:10,279 src.llm LLM ollama/qwen3.5:4b call took 33.6s
+2026-10-22 19:28:49,572 src.llm LLM ollama/qwen3.5:4b call took 39.3s
+2026-10-22 19:29:37,093 src.llm LLM ollama/qwen3.5:4b call took 47.5s
+2026-10-22 19:30:13,784 src.llm LLM ollama/qwen3.5:4b call took 36.7s
+2026-10-22 19:30:49,209 src.llm LLM ollama/qwen3.5:4b call took 35.4s
+2026-10-22 19:31:42,685 src.llm LLM ollama/qwen3.5:4b call took 53.4s
+2026-10-22 19:32:11,968 src.llm LLM ollama/qwen3.5:4b call took 29.3s
+2026-10-22 19:32:12,004 src.llm invalid JSON on attempt 1: missing criteria ['C2', 'C3', 'C4', 'C5', 'C6']; return exactly one entry per id ['C1', 'C2', 'C3', 'C4', 'C5', 'C6']
+2026-10-22 19:33:11,595 src.llm LLM ollama/qwen3.5:4b call took 59.6s
+2026-10-22 19:34:01,518 src.llm LLM ollama/qwen3.5:4b call took 49.9s
+2026-10-22 19:34:47,596 src.llm LLM ollama/qwen3.5:4b call took 46.0s
+2026-10-22 19:35:22,634 src.llm LLM ollama/qwen3.5:4b call took 35.0s
+2026-10-22 19:35:56,175 src.llm LLM ollama/qwen3.5:4b call took 33.5s
+2026-10-22 19:36:41,150 src.llm LLM ollama/qwen3.5:4b call took 44.9s
+2026-10-22 19:37:16,377 src.llm LLM ollama/qwen3.5:4b call took 35.2s
+2026-10-22 19:37:46,498 src.llm LLM ollama/qwen3.5:4b call took 30.1s
+2026-10-22 19:38:38,363 src.llm LLM ollama/qwen3.5:4b call took 51.8s
+2026-10-22 19:39:11,141 src.llm LLM ollama/qwen3.5:4b call took 32.8s
+2026-10-22 19:39:51,156 src.llm LLM ollama/qwen3.5:4b call took 40.0s
+2026-10-22 19:39:51,167 src.llm invalid JSON on attempt 1: missing criteria ['C6']; return exactly one entry per id ['C1', 'C2', 'C3', 'C4', 'C5', 'C6']
+2026-10-22 19:40:51,243 src.llm LLM ollama/qwen3.5:4b call took 60.1s
+2026-10-22 19:41:36,511 src.llm LLM ollama/qwen3.5:4b call took 45.3s
+2026-10-22 19:42:14,895 src.llm LLM ollama/qwen3.5:4b call took 38.4s
+2026-10-22 19:42:52,718 src.llm LLM ollama/qwen3.5:4b call took 37.8s
+2026-10-22 19:43:39,628 src.llm LLM ollama/qwen3.5:4b call took 46.9s
+2026-10-22 19:44:16,037 src.llm LLM ollama/qwen3.5:4b call took 36.4s
+2026-10-22 19:44:49,156 src.llm LLM ollama/qwen3.5:4b call took 33.1s
+2026-10-22 19:45:39,167 src.llm LLM ollama/qwen3.5:4b call took 50.0s
+2026-10-22 19:46:12,503 src.llm LLM ollama/qwen3.5:4b call took 33.3s
+2026-10-22 19:46:46,673 src.llm LLM ollama/qwen3.5:4b call took 34.1s
+2026-10-22 19:47:29,632 src.llm LLM ollama/qwen3.5:4b call took 42.9s
+2026-10-22 19:48:02,402 src.llm LLM ollama/qwen3.5:4b call took 32.7s
+2026-10-22 19:48:38,383 src.llm LLM ollama/qwen3.5:4b call took 36.0s
+2026-10-22 19:49:24,959 src.llm LLM ollama/qwen3.5:4b call took 46.5s
+2026-10-22 19:50:04,301 src.llm LLM ollama/qwen3.5:4b call took 39.3s
+2026-10-22 19:50:38,334 src.llm LLM ollama/qwen3.5:4b call took 34.0s
+2026-10-22 19:51:18,621 src.llm LLM ollama/qwen3.5:4b call took 40.3s
+2026-10-22 19:51:53,564 src.llm LLM ollama/qwen3.5:4b call took 34.9s
+2026-10-22 19:52:30,622 src.llm LLM ollama/qwen3.5:4b call took 37.0s
+2026-10-22 19:53:21,273 src.llm LLM ollama/qwen3.5:4b call took 50.6s
+2026-10-22 19:53:59,920 src.llm LLM ollama/qwen3.5:4b call took 38.6s
+2026-10-22 19:54:38,085 src.llm LLM ollama/qwen3.5:4b call took 38.1s
+2026-10-22 19:55:19,706 src.llm LLM ollama/qwen3.5:4b call took 41.6s
+2026-10-22 19:56:01,572 src.llm LLM ollama/qwen3.5:4b call took 41.8s
+2026-10-22 19:56:34,414 src.llm LLM ollama/qwen3.5:4b call took 32.8s

@@ -1,0 +1,21 @@
+Name: Ngozi Okafor
+Gender: Female
+Age: 52
+Nationality: Nigerian
+
+PROFESSIONAL EXPERIENCE
+Frontend Developer (2025 - 2026)
+- Led a cross-functional team in delivering complex user interfaces, demonstrating strong leadership and creativity while streamlining the development workflow through effective time management.
+- Collaborated with backend engineers to integrate REST APIs into dynamic web applications, utilizing teamwork and problem-solving skills to resolve critical data visualization issues promptly.
+
+EDUCATION
+Master's degree in Computer Science
+
+SKILLS
+TypeScript, CSS, JavaScript, Figma, REST APIs, HTML
+
+CERTIFICATIONS
+Meta Front-End Developer Certificate
+
+LANGUAGES
+English, German

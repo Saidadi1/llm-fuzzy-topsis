@@ -1,0 +1,22 @@
+Name: Hugo Petit
+Gender: Male
+Age: 27
+Nationality: French
+
+PROFESSIONAL EXPERIENCE
+Senior Data Scientist (2022 - 2026): Led a cross-functional team to redesign the predictive maintenance model, applying creativity to solve complex operational bottlenecks. Demonstrated leadership by mentoring five junior analysts and enhanced communication during weekly stakeholder reviews.
+Data Scientist (2019 - 2022): Built real-time analytics pipelines using Spark and Docker, improving data processing speed by forty percent. Utilized statistics and machine learning to identify key market trends, showcasing strong problem-solving abilities.
+Junior Data Scientist (2016 - 2019): Developed interactive dashboards in Tableau for executive reporting, ensuring clear communication of financial data. Applied deep learning techniques to automate customer segmentation tasks.
+Machine Learning Engineer (2013 - 2016): Optimized neural network architectures using R and TensorFlow, solving legacy algorithm inefficiencies with creative coding approaches.
+
+EDUCATION
+High School Diploma in Applied Mathematics
+
+SKILLS
+Statistics, Spark, Docker, Deep Learning, R, Machine Learning, Tableau
+
+CERTIFICATIONS
+TensorFlow Developer Certificate, Microsoft Certified: Azure Data Scientist Associate
+
+LANGUAGES
+English, French, Spanish

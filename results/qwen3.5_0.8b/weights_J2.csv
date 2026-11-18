@@ -1,0 +1,7 @@
+criterion,expert,llm,llm_reason
+C1,Very High,High,"The candidate possesses the exact technical stack (Java, Spring Boot, SQL, REST APIs, Docker, Git) and preferred tools required by the job offer with a strong depth of use."
+C2,High,High,"The candidate has 4+ years of professional experience in a similar role, which directly exceeds the minimum requirement and demonstrates seniority relevant to the backend software engineering domain."
+C3,Medium,Very High,"The candidate holds a Master's degree or PhD, which is explicitly listed as a plus for this role, indicating high relevance and depth in the field of Computer Science or Software Engineering."
+C4,Low,High,"The candidate holds multiple relevant professional certifications including Oracle Certified Professional: Java SE Developer, AWS Certified Solutions Architect, and Certified Kubernetes Administrator (CKA), all of which are explicitly appreciated by the job offer."
+C5,Medium,High,"The candidate demonstrates soft skills such as teamwork, communication, leadership, and problem-solving, which are explicitly requested in the job description and demonstrated through concrete achievements."
+C6,Medium,Medium,"The candidate has English proficiency required by the job offer. While not explicitly stated as 'proficient' or 'native', it is a basic requirement that falls into the medium category compared to languages like Python or C++."

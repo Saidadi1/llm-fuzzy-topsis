@@ -1,0 +1,7 @@
+input,alternative,paper_d_plus,recomputed_from_table7_d_plus,ours_d_plus,paper_d_minus,ours_d_minus,paper_CC,ours_CC_chen,ours_rank,ours_CC_componentwise,pyDecision_CC,abs_diff_ours_componentwise_vs_pyDecision
+table4_ratings,A1,2.1,1.94,1.9456,3.45,3.4295,0.62,0.638,3,0.128295,0.128295,0.0
+table4_ratings,A2,1.24,1.26,1.2589,4.13,4.1057,0.77,0.7653,1,1.0,1.0,0.0
+table4_ratings,A3,1.59,1.59,1.602,3.85,3.7706,0.71,0.7018,2,0.539335,0.539335,0.0
+printed_table5,A1,2.1,1.94,1.9421,3.45,3.4496,0.62,0.6398,3,0.113391,0.113391,0.0
+printed_table5,A2,1.24,1.26,1.2618,4.13,4.1229,0.77,0.7657,1,1.0,1.0,0.0
+printed_table5,A3,1.59,1.59,1.5911,3.85,3.8405,0.71,0.7071,2,0.563486,0.563486,1.1102230246251565e-16

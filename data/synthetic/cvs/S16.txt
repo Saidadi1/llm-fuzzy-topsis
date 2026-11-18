@@ -1,0 +1,21 @@
+Name: Louis Durand
+Gender: Male
+Age: 33
+Nationality: French
+
+PROFESSIONAL EXPERIENCE
+DevOps Engineer (2024 - 2026)
+- Orchestrated automated infrastructure deployments using Python and Terraform, ensuring seamless integration of microservices on Kubernetes clusters while demonstrating strong problem-solving capabilities to resolve complex configuration bottlenecks.
+- Managed daily operational cycles across distributed environments with rigorous time management, delivering critical performance enhancements within strict deadlines without compromising system reliability.
+
+EDUCATION
+PhD in Computer Science
+
+SKILLS
+Python, Terraform, Kubernetes
+
+CERTIFICATIONS
+AWS Certified Solutions Architect
+
+LANGUAGES
+English, Spanish

@@ -1,0 +1,9 @@
+dataset,job,n,n_relevant,method,precision@5,precision@6
+kaggle_resumes,INFORMATION-TECHNOLOGY,20,6,fuzzy_topsis,0.8,0.6666666666666666
+kaggle_resumes,INFORMATION-TECHNOLOGY,20,6,crisp_topsis,0.8,0.6666666666666666
+kaggle_resumes,INFORMATION-TECHNOLOGY,20,6,weighted_sum,0.8,0.6666666666666666
+kaggle_resumes,INFORMATION-TECHNOLOGY,20,6,tfidf_cosine,1.0,0.8333333333333334
+kaggle_resumes,ACCOUNTANT,20,6,fuzzy_topsis,0.8,0.8333333333333334
+kaggle_resumes,ACCOUNTANT,20,6,crisp_topsis,1.0,0.8333333333333334
+kaggle_resumes,ACCOUNTANT,20,6,weighted_sum,0.8,0.8333333333333334
+kaggle_resumes,ACCOUNTANT,20,6,tfidf_cosine,1.0,0.8333333333333334

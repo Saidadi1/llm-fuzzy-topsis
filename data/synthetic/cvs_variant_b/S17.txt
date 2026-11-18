@@ -1,0 +1,18 @@
+Name: Fatima Zahra El Amrani
+Gender: Female
+Age: 54
+Nationality: Moroccan
+
+PROFESSIONAL EXPERIENCE
+DevOps Engineer (2025 - 2026)
+Led cross-functional projects requiring strong teamwork to automate infrastructure pipelines, demonstrating leadership in coordinating resources. Utilized creativity to design novel CI/CD workflows and maintained autonomy by independently resolving complex deployment issues.
+Machine Learning Engineer (2024 - 2025)
+Collaborated with data science teams using teamwork to integrate ML models into production environments, showcasing leadership in defining technical roadmaps. Exercised creativity to optimize model performance and exercised autonomy in debugging legacy systems on Linux.
+EDUCATION
+Bachelor's degree in Computer Engineering
+SKILLS
+Git, Python, AWS, Docker, Terraform
+CERTIFICATIONS
+AWS Certified Solutions Architect
+LANGUAGES
+English, French, Spanish

@@ -1,0 +1,11 @@
+Job title: Backend Software Engineer (Java)
+
+We are hiring a Backend Software Engineer (Java) to join our team.
+
+Required skills: Java, Spring Boot, SQL, REST APIs, Docker, Git.
+Nice to have: Kubernetes, Kafka, AWS.
+Experience: at least 4 years of professional experience in a similar role.
+Education: degree in Computer Science, Software Engineering or Computer Engineering; a Master's degree or PhD is a plus.
+Certifications appreciated: Oracle Certified Professional: Java SE Developer, AWS Certified Solutions Architect, Certified Kubernetes Administrator (CKA).
+Soft skills: teamwork, communication, leadership, problem solving.
+Languages: English required (professional proficiency).

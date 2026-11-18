@@ -1,0 +1,22 @@
+Name: Lucas Bernard
+Gender: Male
+Age: 31
+Nationality: French
+
+PROFESSIONAL EXPERIENCE
+Junior Data Scientist (2024 - 2026)
+- Leveraged R and Deep Learning to optimize predictive models, demonstrating leadership by guiding the team through iterative refinement of algorithms.
+Digital Marketing Manager (2023 - 2024)
+- Utilized Tableau to visualize campaign performance data, applying leadership skills to align marketing strategies with organizational goals.
+
+EDUCATION
+Bachelor's degree in Statistics
+
+SKILLS
+R, Tableau, Deep Learning
+
+CERTIFICATIONS
+TensorFlow Developer Certificate, AWS Certified Machine Learning - Specialty
+
+LANGUAGES
+English, French, Spanish

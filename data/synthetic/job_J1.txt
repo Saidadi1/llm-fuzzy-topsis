@@ -1,0 +1,11 @@
+Job title: Data Scientist
+
+We are hiring a Data Scientist to join our team.
+
+Required skills: Python, SQL, Machine Learning, Statistics, Pandas, Scikit-learn.
+Nice to have: Deep Learning, Spark, Docker.
+Experience: at least 3 years of professional experience in a similar role.
+Education: degree in Computer Science, Statistics, Applied Mathematics or Data Science; a Master's degree or PhD is a plus.
+Certifications appreciated: AWS Certified Machine Learning - Specialty, Google Professional Data Engineer, TensorFlow Developer Certificate, Microsoft Certified: Azure Data Scientist Associate.
+Soft skills: communication, teamwork, problem solving, autonomy.
+Languages: English and French required (professional proficiency).

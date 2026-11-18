@@ -1,0 +1,26 @@
+Name: Louis Durand
+Gender: Male
+Age: 33
+Nationality: French
+
+PROFESSIONAL EXPERIENCE
+Software Engineer (2021 - 2026)
+Implemented scalable microservices using Spring Boot and Kafka to enhance system throughput, demonstrating strong problem solving by diagnosing latency bottlenecks. Led team meetings to clarify project goals with stakeholders, showcasing effective communication.
+Java Developer (2019 - 2021)
+Developed robust enterprise applications with Hibernate for seamless data persistence, utilizing Git for efficient version control collaboration. Resolved complex architectural conflicts through active communication and applied problem solving to optimize database queries.
+Backend Developer (2018 - 2019)
+Designed secure REST APIs leveraging Spring Boot and Hibernate frameworks, maintaining clear communication during sprint planning sessions. Analyzed system logs to identify performance issues, applying rigorous problem solving techniques.
+Accountant (2015 - 2018)
+Managed financial reporting processes with high accuracy, ensuring all data was communicated clearly to senior management. Detected discrepancies in ledgers through detailed problem solving and corrected errors within deadlines.
+
+EDUCATION
+Master's degree in Computer Science
+
+SKILLS
+Hibernate, Kafka, Git, Spring Boot
+
+CERTIFICATIONS
+Oracle Certified Professional: Java SE Developer
+
+LANGUAGES
+English, Arabic

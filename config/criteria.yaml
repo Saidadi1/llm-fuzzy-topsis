@@ -1,0 +1,36 @@
+# Evaluation criteria. All are benefit criteria (higher = better); set
+# type: cost for a criterion where lower is better (e.g. salary expectation).
+criteria:
+  - id: C1
+    name: Technical skills match
+    type: benefit
+    description: >-
+      Overlap between the candidate's technical/hard skills and tools and the skills
+      required (and preferred) by the job offer. Depth of use matters more than listing.
+  - id: C2
+    name: Relevant experience
+    type: benefit
+    description: >-
+      Years and seniority of professional experience that is relevant to the job's
+      domain and role, compared with what the offer requires.
+  - id: C3
+    name: Education
+    type: benefit
+    description: >-
+      Level of the highest degree and relevance of the field of study to the job.
+  - id: C4
+    name: Certifications
+    type: benefit
+    description: >-
+      Professional certifications relevant to the job (number and relevance).
+  - id: C5
+    name: Soft skills
+    type: benefit
+    description: >-
+      Soft skills requested by the offer (communication, teamwork, leadership, problem
+      solving...) that are explicitly mentioned or demonstrated by concrete achievements.
+  - id: C6
+    name: Languages
+    type: benefit
+    description: >-
+      Coverage of the spoken languages required by the job offer and their proficiency.

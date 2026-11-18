@@ -1,0 +1,2 @@
+,skill_recall,skill_precision,years_true,years_pred,years_abs_err,degree_level_ok,language_recall,cert_recall
+mean,0.9845238095238095,0.9888888888888889,6.35,3.8,2.65,0.85,1.0,1.0

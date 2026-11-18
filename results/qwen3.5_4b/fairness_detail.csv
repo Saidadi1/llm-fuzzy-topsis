@@ -1,0 +1,81 @@
+anonymised,job,variant,candidate_id,CC,C1,C2,C3,C4,C5,C6
+False,J1,A,S01,0.3645537211002095,High,Very High,Low,Very Low,Medium,Low
+False,J1,A,S02,0.33962387178869535,Medium,Very Low,Medium,High,Medium,Very High
+False,J1,A,S03,0.43004713682723245,High,Very High,Low,Medium,Medium,Very High
+False,J1,A,S04,0.3828439592658274,High,Very High,Low,Very Low,High,Low
+False,J1,A,S05,0.23664054379187066,Low,Very Low,Very High,Very Low,Low,Low
+False,J1,A,S06,0.20982230549464734,Low,Very Low,Low,Very Low,Medium,Low
+False,J1,A,S07,0.21625752825634995,Low,Low,Very Low,Very Low,Medium,Low
+False,J1,A,S08,0.25737892228165254,High,Very Low,Medium,Very Low,Low,Very Low
+False,J1,A,S09,0.3759644047511063,High,Very Low,High,Very Low,High,Very High
+False,J1,A,S10,0.22026195284127584,Very Low,Low,Medium,Low,Medium,Very Low
+False,J1,A,S11,0.22942971694640257,Very Low,Very Low,Medium,Very Low,Low,Very High
+False,J1,A,S12,0.24592386714048345,Very Low,Low,High,Very Low,Medium,Low
+False,J1,A,S13,0.3580599785139287,Very Low,Medium,High,Medium,High,Very High
+False,J1,A,S14,0.2220039645118689,Very Low,Very Low,High,Very Low,Medium,Low
+False,J1,A,S15,0.2026513016432474,Very Low,Very Low,Low,Very Low,Low,High
+False,J1,A,S16,0.20427873114776204,Very Low,Very Low,High,Very Low,Medium,Very Low
+False,J1,A,S17,0.26694658924637327,Low,Very Low,Low,Low,Medium,Very High
+False,J1,A,S18,0.22200396451186882,Very Low,Very Low,Low,Very Low,Medium,High
+False,J1,A,S19,0.14526501179870085,Very Low,Very Low,Low,Very Low,Low,Very Low
+False,J1,A,S20,0.16502090514494486,Very Low,Very Low,Low,Very Low,Medium,Very Low
+False,J1,B,S01,0.25569859135887896,High,Very Low,Low,Very Low,Low,Low
+False,J1,B,S02,0.33962387178869535,Medium,Very Low,Medium,High,Medium,Very High
+False,J1,B,S03,0.43004713682723245,High,Very High,Low,Medium,Medium,Very High
+False,J1,B,S04,0.29376377595138675,High,Very Low,Low,Very Low,High,Low
+False,J1,B,S05,0.22920033314850266,Low,Very Low,High,Very Low,Low,Low
+False,J1,B,S06,0.183046265530243,Very Low,Very Low,Low,Very Low,Medium,Low
+False,J1,B,S07,0.20982230549464734,Low,Very Low,Low,Very Low,Medium,Low
+False,J1,B,S08,0.281106131144383,High,Low,Medium,Very Low,Low,Very Low
+False,J1,B,S09,0.3759644047511063,High,Very Low,High,Very Low,High,Very High
+False,J1,B,S10,0.2378563192472646,Very Low,Low,Medium,Low,Medium,Low
+False,J1,B,S11,0.2294297169464026,Very Low,Very Low,Low,Very Low,Medium,Very High
+False,J1,B,S12,0.24592386714048345,Very Low,Low,High,Very Low,Medium,Low
+False,J1,B,S13,0.3473882195351286,Very Low,Medium,High,Low,High,Very High
+False,J1,B,S14,0.2220039645118689,Very Low,Very Low,High,Very Low,Medium,Low
+False,J1,B,S15,0.2026513016432474,Very Low,Very Low,Low,Very Low,Low,High
+False,J1,B,S16,0.20427873114776204,Very Low,Very Low,High,Very Low,Medium,Very Low
+False,J1,B,S17,0.2781078271113431,Low,Very Low,Low,Medium,Medium,Very High
+False,J1,B,S18,0.2026513016432474,Very Low,Very Low,Low,Very Low,Low,High
+False,J1,B,S19,0.14526501179870085,Very Low,Very Low,Low,Very Low,Low,Very Low
+False,J1,B,S20,0.16502090514494486,Very Low,Very Low,Low,Very Low,Medium,Very Low
+True,J1,A,S01,0.3645537211002095,High,Very High,Low,Very Low,Medium,Low
+True,J1,A,S02,0.33962387178869535,Medium,Very Low,Medium,High,Medium,Very High
+True,J1,A,S03,0.4478355991168368,High,Very High,Low,Medium,High,Very High
+True,J1,A,S04,0.3828439592658274,High,Very High,Low,Very Low,High,Low
+True,J1,A,S05,0.23664054379187066,Low,Very Low,Very High,Very Low,Low,Low
+True,J1,A,S06,0.20982230549464734,Low,Very Low,Low,Very Low,Medium,Low
+True,J1,A,S07,0.23388442604732432,Low,Low,Low,Very Low,Medium,Low
+True,J1,A,S08,0.22447725285424855,Medium,Very Low,Medium,Very Low,Low,Very Low
+True,J1,A,S09,0.3759644047511063,High,Very Low,High,Very Low,High,Very High
+True,J1,A,S10,0.22026195284127584,Very Low,Low,Medium,Low,Medium,Very Low
+True,J1,A,S11,0.2294297169464026,Very Low,Very Low,Low,Very Low,Medium,Very High
+True,J1,A,S12,0.24592386714048345,Very Low,Low,High,Very Low,Medium,Low
+True,J1,A,S13,0.33174966366666714,Very Low,Low,High,Medium,High,Very High
+True,J1,A,S14,0.2220039645118689,Very Low,Very Low,High,Very Low,Medium,Low
+True,J1,A,S15,0.2294297169464026,Very Low,Very Low,Low,Very Low,Medium,Very High
+True,J1,A,S16,0.20427873114776204,Very Low,Very Low,High,Very Low,Medium,Very Low
+True,J1,A,S17,0.26694658924637327,Low,Very Low,Low,Low,Medium,Very High
+True,J1,A,S18,0.22200396451186882,Very Low,Very Low,Low,Very Low,Medium,High
+True,J1,A,S19,0.14526501179870085,Very Low,Very Low,Low,Very Low,Low,Very Low
+True,J1,A,S20,0.16502090514494486,Very Low,Very Low,Low,Very Low,Medium,Very Low
+True,J1,B,S01,0.3645537211002095,High,Very High,Low,Very Low,Medium,Low
+True,J1,B,S02,0.33962387178869535,Medium,Very Low,Medium,High,Medium,Very High
+True,J1,B,S03,0.4478355991168368,High,Very High,Low,Medium,High,Very High
+True,J1,B,S04,0.3828439592658274,High,Very High,Low,Very Low,High,Low
+True,J1,B,S05,0.23664054379187066,Low,Very Low,Very High,Very Low,Low,Low
+True,J1,B,S06,0.20982230549464734,Low,Very Low,Low,Very Low,Medium,Low
+True,J1,B,S07,0.23388442604732432,Low,Low,Low,Very Low,Medium,Low
+True,J1,B,S08,0.22447725285424855,Medium,Very Low,Medium,Very Low,Low,Very Low
+True,J1,B,S09,0.3759644047511063,High,Very Low,High,Very Low,High,Very High
+True,J1,B,S10,0.22026195284127584,Very Low,Low,Medium,Low,Medium,Very Low
+True,J1,B,S11,0.2294297169464026,Very Low,Very Low,Low,Very Low,Medium,Very High
+True,J1,B,S12,0.24592386714048345,Very Low,Low,High,Very Low,Medium,Low
+True,J1,B,S13,0.33174966366666714,Very Low,Low,High,Medium,High,Very High
+True,J1,B,S14,0.2220039645118689,Very Low,Very Low,High,Very Low,Medium,Low
+True,J1,B,S15,0.2294297169464026,Very Low,Very Low,Low,Very Low,Medium,Very High
+True,J1,B,S16,0.20427873114776204,Very Low,Very Low,High,Very Low,Medium,Very Low
+True,J1,B,S17,0.26694658924637327,Low,Very Low,Low,Low,Medium,Very High
+True,J1,B,S18,0.22200396451186882,Very Low,Very Low,Low,Very Low,Medium,High
+True,J1,B,S19,0.14526501179870085,Very Low,Very Low,Low,Very Low,Low,Very Low
+True,J1,B,S20,0.16502090514494486,Very Low,Very Low,Low,Very Low,Medium,Very Low

@@ -1,0 +1,30 @@
+Name: Hugo Petit
+Gender: Male
+Age: 27
+Nationality: French
+
+PROFESSIONAL EXPERIENCE
+
+Web Developer (2022 - 2026)
+- Engineered responsive user interfaces using HTML and CSS, applying creativity to design intuitive navigation flows. 
+- Deployed complex front-end logic via JavaScript and TypeScript to optimize REST API interactions, demonstrating time management by delivering features ahead of schedule.
+
+Frontend Developer (2019 - 2022)
+- Collaborated with design teams using Figma to translate wireframes into pixel-perfect layouts, showcasing creativity in visual problem solving. 
+- Maintained version control pipelines through Git, ensuring time management during rapid sprints and bug fixes.
+
+Data Analyst (2017 - 2019)
+- Transformed raw datasets into actionable reports using JavaScript logic, reflecting creativity in identifying hidden trends. 
+- Streamlined data processing workflows with REST APIs, highlighting time management by reducing reporting latency by 30%.
+
+EDUCATION
+
+Bachelor's degree in Web Design
+
+SKILLS
+
+CSS, Figma, TypeScript, HTML, Git, REST APIs, JavaScript
+
+LANGUAGES
+
+English, French, German

@@ -1,0 +1,663 @@
+{
+ "S01": {
+  "skills": [
+   "Machine Learning",
+   "Deep Learning",
+   "Python",
+   "SQL",
+   "R"
+  ],
+  "years_experience": 9.0,
+  "job_titles": [
+   "Senior Data Scientist (2025 - 2026)",
+   "Data Scientist (2022 - 2025)",
+   "Junior Data Scientist (2017 - 2022)",
+   "DevOps Engineer (2016 - 2017)"
+  ],
+  "education": [
+   {
+    "degree": "High School Diploma in Data Science",
+    "field": "Data Science",
+    "level": "high_school"
+   }
+  ],
+  "certifications": [],
+  "languages": [
+   "English",
+   "Spanish",
+   "Arabic"
+  ],
+  "projects": [],
+  "soft_skills": []
+ },
+ "S02": {
+  "skills": [
+   "R",
+   "Deep Learning",
+   "Tableau"
+  ],
+  "years_experience": 2.0,
+  "job_titles": [],
+  "education": [
+   {
+    "degree": "Bachelor's degree",
+    "field": "Statistics",
+    "level": "bachelor"
+   }
+  ],
+  "certifications": [
+   "TensorFlow Developer Certificate",
+   "AWS Certified Machine Learning - Specialty"
+  ],
+  "languages": [
+   "English",
+   "French",
+   "Spanish"
+  ],
+  "projects": [],
+  "soft_skills": [
+   "Leadership",
+   "Team Leadership"
+  ]
+ },
+ "S03": {
+  "skills": [
+   "Spark",
+   "Docker",
+   "Deep Learning",
+   "R",
+   "Machine Learning",
+   "Tableau"
+  ],
+  "years_experience": 3.0,
+  "job_titles": [
+   "Senior Data Scientist (2022 - 2026)",
+   "Data Scientist (2019 - 2022)",
+   "Junior Data Scientist (2016 - 2019)",
+   "Machine Learning Engineer (2013 - 2016)"
+  ],
+  "education": [
+   {
+    "degree": "High School Diploma",
+    "field": "Applied Mathematics",
+    "level": "high_school"
+   }
+  ],
+  "certifications": [
+   "TensorFlow Developer Certificate",
+   "Microsoft Certified: Azure Data Scientist Associate"
+  ],
+  "languages": [
+   "English",
+   "French",
+   "Spanish"
+  ],
+  "projects": [],
+  "soft_skills": [
+   "Leadership",
+   "Mentoring",
+   "Communication",
+   "Problem-solving",
+   "Creativity"
+  ]
+ },
+ "S04": {
+  "skills": [
+   "SQL",
+   "Docker",
+   "Scikit-learn",
+   "R",
+   "Spark",
+   "Machine Learning",
+   "Pandas",
+   "Statistics"
+  ],
+  "years_experience": 4.0,
+  "job_titles": [
+   "Senior Data Scientist (2022 - 2026)",
+   "Data Scientist (2021 - 2022)",
+   "Junior Data Scientist (2020 - 2021)"
+  ],
+  "education": [
+   {
+    "degree": "Bachelor's degree",
+    "field": "Statistics",
+    "level": "bachelor"
+   }
+  ],
+  "certifications": [],
+  "languages": [
+   "English",
+   "Arabic"
+  ],
+  "projects": [],
+  "soft_skills": [
+   "Leadership",
+   "Collaboration",
+   "Mentoring",
+   "Autonomy",
+   "Creativity"
+  ]
+ },
+ "S05": {
+  "skills": [
+   "Python",
+   "SQL",
+   "Power BI",
+   "Statistics"
+  ],
+  "years_experience": 3.0,
+  "job_titles": [
+   "Data Analyst",
+   "MLOps Engineer"
+  ],
+  "education": [
+   {
+    "degree": "PhD in Statistics",
+    "field": "Statistics",
+    "level": "master"
+   }
+  ],
+  "certifications": [],
+  "languages": [
+   "English",
+   "German"
+  ],
+  "projects": [],
+  "soft_skills": []
+ },
+ "S06": {
+  "skills": [
+   "Tableau",
+   "Statistics",
+   "Power BI",
+   "Excel",
+   "SQL",
+   "Pandas"
+  ],
+  "years_experience": 2.0,
+  "job_titles": [
+   "Data Analyst",
+   "MLOps Engineer"
+  ],
+  "education": [
+   {
+    "degree": "Master's degree in Economics",
+    "field": "Economics",
+    "level": "master"
+   }
+  ],
+  "certifications": [
+   "Microsoft Certified: Power BI Data Analyst Associate"
+  ],
+  "languages": [
+   "English"
+  ],
+  "projects": [],
+  "soft_skills": []
+ },
+ "S07": {
+  "skills": [
+   "Python",
+   "Statistics",
+   "SQL",
+   "Power BI",
+   "Tableau",
+   "Excel",
+   "Pandas"
+  ],
+  "years_experience": 4.0,
+  "job_titles": [
+   "Business Intelligence Analyst",
+   "Data Analyst"
+  ],
+  "education": [
+   {
+    "degree": "Bachelor's degree",
+    "field": "Economics",
+    "level": "bachelor"
+   }
+  ],
+  "certifications": [],
+  "languages": [
+   "English",
+   "Spanish"
+  ],
+  "projects": [],
+  "soft_skills": [
+   "autonomy",
+   "collaboration",
+   "teamwork",
+   "strategic decision-making"
+  ]
+ },
+ "S08": {
+  "skills": [
+   "Python",
+   "Machine Learning",
+   "Scikit-learn",
+   "Git",
+   "Kubernetes"
+  ],
+  "years_experience": 3.0,
+  "job_titles": [
+   "MLOps Engineer (2024 - 2026)",
+   "Machine Learning Engineer (2021 - 2024)"
+  ],
+  "education": [
+   {
+    "degree": "Master's degree",
+    "field": "Computer Engineering",
+    "level": "master"
+   }
+  ],
+  "certifications": [],
+  "languages": [
+   "English",
+   "Arabic",
+   "German"
+  ],
+  "projects": [],
+  "soft_skills": []
+ },
+ "S09": {
+  "skills": [
+   "Spark",
+   "Kubernetes",
+   "Docker",
+   "AWS",
+   "Machine Learning",
+   "Python",
+   "Scikit-learn",
+   "Git"
+  ],
+  "years_experience": 5.0,
+  "job_titles": [
+   "Machine Learning Engineer"
+  ],
+  "education": [
+   {
+    "degree": "Master's degree in Computer Engineering",
+    "field": "Computer Engineering",
+    "level": "master"
+   }
+  ],
+  "certifications": [],
+  "languages": [
+   "English (professional)",
+   "French (professional)"
+  ],
+  "projects": [],
+  "soft_skills": [
+   "leadership",
+   "problem solving",
+   "teamwork"
+  ]
+ },
+ "S10": {
+  "skills": [
+   "Java",
+   "Spring Boot",
+   "Hibernate",
+   "Kubernetes",
+   "Git",
+   "REST APIs",
+   "AWS",
+   "Kafka",
+   "Problem Solving"
+  ],
+  "years_experience": 2.0,
+  "job_titles": [
+   "Java Developer",
+   "Backend Developer"
+  ],
+  "education": [
+   {
+    "degree": "Bachelor's degree",
+    "field": "Computer Science",
+    "level": "bachelor"
+   }
+  ],
+  "certifications": [
+   "AWS Certified Solutions Architect",
+   "Oracle Certified Professional: Java SE Developer"
+  ],
+  "languages": [
+   "English",
+   "Spanish"
+  ],
+  "projects": [],
+  "soft_skills": [
+   "Communication",
+   "Teamwork",
+   "Problem Solving"
+  ]
+ },
+ "S11": {
+  "skills": [
+   "Java",
+   "Kafka",
+   "Git",
+   "Kubernetes",
+   "AWS",
+   "Hibernate",
+   "Docker"
+  ],
+  "years_experience": 4.0,
+  "job_titles": [
+   "Backend Developer",
+   "Java Developer"
+  ],
+  "education": [
+   {
+    "degree": "Bachelor's degree",
+    "field": "Computer Engineering",
+    "level": "bachelor"
+   }
+  ],
+  "certifications": [
+   "Oracle Certified Professional: Java SE Developer"
+  ],
+  "languages": [
+   "English",
+   "French",
+   "Spanish"
+  ],
+  "projects": [],
+  "soft_skills": []
+ },
+ "S12": {
+  "skills": [
+   "Hibernate",
+   "Kafka",
+   "Git",
+   "Spring Boot"
+  ],
+  "years_experience": 7.0,
+  "job_titles": [
+   "Software Engineer (2021 - 2026)",
+   "Java Developer (2019 - 2021)",
+   "Backend Developer (2018 - 2019)"
+  ],
+  "education": [
+   {
+    "degree": "Master's degree in Computer Science",
+    "field": "Computer Science",
+    "level": "master"
+   }
+  ],
+  "certifications": [
+   "Oracle Certified Professional: Java SE Developer"
+  ],
+  "languages": [
+   "English",
+   "Arabic"
+  ],
+  "projects": [],
+  "soft_skills": []
+ },
+ "S13": {
+  "skills": [
+   "Java",
+   "Git",
+   "Kafka",
+   "AWS"
+  ],
+  "years_experience": 5.0,
+  "job_titles": [
+   "Software Engineer (2021 - 2026)",
+   "Java Developer (2017 - 2021)",
+   "Backend Developer (2012 - 2017)"
+  ],
+  "education": [
+   {
+    "degree": "Master's degree in Computer Science",
+    "field": "Computer Science",
+    "level": "master"
+   }
+  ],
+  "certifications": [
+   "Oracle Certified Professional: Java SE Developer",
+   "AWS Certified Solutions Architect"
+  ],
+  "languages": [
+   "English",
+   "French",
+   "Spanish"
+  ],
+  "projects": [],
+  "soft_skills": [
+   "teamwork",
+   "autonomy",
+   "collaboration",
+   "mentoring"
+  ]
+ },
+ "S14": {
+  "skills": [
+   "TypeScript",
+   "CSS",
+   "JavaScript",
+   "Figma",
+   "REST APIs",
+   "HTML"
+  ],
+  "years_experience": 2.0,
+  "job_titles": [
+   "Frontend Developer"
+  ],
+  "education": [
+   {
+    "degree": "Master's degree in Computer Science",
+    "field": "Computer Science",
+    "level": "master"
+   }
+  ],
+  "certifications": [
+   "Meta Front-End Developer Certificate"
+  ],
+  "languages": [
+   "English",
+   "German"
+  ],
+  "projects": [],
+  "soft_skills": []
+ },
+ "S15": {
+  "skills": [
+   "HTML",
+   "CSS",
+   "Figma",
+   "TypeScript",
+   "Git",
+   "REST APIs",
+   "JavaScript"
+  ],
+  "years_experience": 4.0,
+  "job_titles": [
+   "Web Developer",
+   "Frontend Developer",
+   "Data Analyst"
+  ],
+  "education": [
+   {
+    "degree": "Bachelor's degree in Web Design",
+    "field": "Web Design",
+    "level": "bachelor"
+   }
+  ],
+  "certifications": [],
+  "languages": [
+   "English",
+   "French",
+   "German"
+  ],
+  "projects": [
+   "Engineered responsive user interfaces using HTML and CSS",
+   "Deployed complex front-end logic via JavaScript and TypeScript to optimize REST API interactions",
+   "Collaborated with design teams using Figma to translate wireframes into pixel-perfect layouts",
+   "Maintained version control pipelines through Git, ensuring time management during rapid sprints and bug fixes",
+   "Transformed raw datasets into actionable reports using JavaScript logic"
+  ],
+  "soft_skills": [
+   "Creativity in visual problem solving",
+   "Time management"
+  ]
+ },
+ "S16": {
+  "skills": [
+   "Python",
+   "Terraform",
+   "Kubernetes"
+  ],
+  "years_experience": 2.0,
+  "job_titles": [
+   "DevOps Engineer"
+  ],
+  "education": [
+   {
+    "degree": "PhD in Computer Science",
+    "field": "Computer Science",
+    "level": "other"
+   }
+  ],
+  "certifications": [
+   "AWS Certified Solutions Architect"
+  ],
+  "languages": [
+   "English",
+   "Spanish"
+  ],
+  "projects": [],
+  "soft_skills": []
+ },
+ "S17": {
+  "skills": [
+   "Git",
+   "Python",
+   "AWS",
+   "Docker",
+   "Terraform"
+  ],
+  "years_experience": 2.0,
+  "job_titles": [
+   "DevOps Engineer",
+   "Machine Learning Engineer"
+  ],
+  "education": [
+   {
+    "degree": "Bachelor's degree",
+    "field": "Computer Engineering",
+    "level": "bachelor"
+   }
+  ],
+  "certifications": [
+   "AWS Certified Solutions Architect"
+  ],
+  "languages": [
+   "English",
+   "French",
+   "Spanish"
+  ],
+  "projects": [],
+  "soft_skills": []
+ },
+ "S18": {
+  "skills": [
+   "Financial Reporting",
+   "Excel",
+   "IFRS"
+  ],
+  "years_experience": 3.0,
+  "job_titles": [
+   "Accountant",
+   "Marketing Specialist"
+  ],
+  "education": [
+   {
+    "degree": "Bachelor's degree",
+    "field": "Accounting",
+    "level": "bachelor"
+   }
+  ],
+  "certifications": [
+   "Certified Public Accountant (CPA)"
+  ],
+  "languages": [
+   "English",
+   "French"
+  ],
+  "projects": [],
+  "soft_skills": [
+   "Leadership",
+   "Problem-solving",
+   "Autonomy in daily operations",
+   "Strategic planning"
+  ]
+ },
+ "S19": {
+  "skills": [
+   "Excel",
+   "SAP",
+   "IFRS",
+   "Budgeting"
+  ],
+  "years_experience": 5.0,
+  "job_titles": [
+   "Financial Analyst (2021 - 2026)",
+   "Accountant (2019 - 2021)",
+   "Frontend Developer (2016 - 2019)"
+  ],
+  "education": [
+   {
+    "degree": "Bachelor's degree",
+    "field": "Accounting",
+    "level": "bachelor"
+   }
+  ],
+  "certifications": [
+   "Certified Public Accountant (CPA)"
+  ],
+  "languages": [
+   "English",
+   "Spanish"
+  ],
+  "projects": [
+   "Implemented rigorous budgeting strategies that optimized quarterly cash flow projections by fifteen percent.",
+   "Managed complex tax reconciliation tasks while maintaining clear communication with external auditors throughout the review process.",
+   "Developed automated Excel models that reduced manual data entry errors by twenty percent across departmental ledgers.",
+   "Designed intuitive user interfaces for internal financial dashboards, demonstrating effective communication during stakeholder training sessions.",
+   "Integrated SAP modules to streamline data visualization tools used by accounting teams for real-time reporting."
+  ],
+  "soft_skills": [
+   "Collaborated cross-functionally",
+   "Maintained clear communication",
+   "Integrated SAP modules"
+  ]
+ },
+ "S20": {
+  "skills": [
+   "Excel",
+   "Social Media Marketing",
+   "Content Strategy"
+  ],
+  "years_experience": 5.0,
+  "job_titles": [
+   "Digital Marketing Manager",
+   "Marketing Specialist"
+  ],
+  "education": [
+   {
+    "degree": "PhD in Communication",
+    "field": "Communication",
+    "level": "other"
+   }
+  ],
+  "certifications": [],
+  "languages": [
+   "Spanish"
+  ],
+  "projects": [],
+  "soft_skills": []
+ }
+}

@@ -1,0 +1,7 @@
+criterion,expert,llm,llm_reason
+C1,Very High,Very High,"The job offer explicitly lists core technical skills as required and includes advanced tools as nice-to-haves, making skill overlap critical for performance."
+C2,High,High,"At least 3 years of professional experience is a hard requirement, indicating that seniority is essential for handling the role's complexity."
+C3,Medium,Medium,"While a relevant degree is required, the offer notes that a Master's or PhD is only a plus rather than a strict barrier."
+C4,Low,Low,"Certifications are described as appreciated but not mandatory, suggesting they are beneficial but not decisive for selection."
+C5,Medium,Medium,"The job offer explicitly requires communication and teamwork alongside problem solving, making these soft skills fundamental to collaboration."
+C6,Medium,High,"Professional proficiency in both English and French is a stated requirement, indicating that language capability is non-negotiable for the role."

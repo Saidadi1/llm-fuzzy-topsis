@@ -1,0 +1,7 @@
+criterion,expert,llm,llm_reason
+C1,Very High,High,"The candidate's technical stack (Python, SQL, ML) and preferred tools align perfectly with the job offer requirements."
+C2,High,Very High,"The candidate has 3+ years of professional experience in a similar role, which is well above the minimum requirement."
+C3,Medium,High,"The candidate holds a degree in Computer Science or Statistics with a Master's/PhD, meeting all educational prerequisites."
+C4,Low,Very High,"The candidate possesses multiple relevant certifications including AWS ML Specialty and Google Data Engineer, indicating strong industry readiness."
+C5,Medium,High,"The candidate demonstrates soft skills of communication, teamwork, problem-solving, and autonomy, which are explicitly requested in the job description."
+C6,Medium,Medium,"While English is required, French proficiency is noted as a 'nice to have' rather than a hard requirement for the technical role."

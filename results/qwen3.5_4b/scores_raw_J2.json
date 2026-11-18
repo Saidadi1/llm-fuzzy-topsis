@@ -1,0 +1,2322 @@
+{
+ "S01": [
+  {
+   "C1": {
+    "criterion_id": "C1",
+    "evidence": "",
+    "rationale": "No Java, Spring Boot, or REST API skills listed in the CV despite being required for the role.",
+    "term": "Very Low"
+   },
+   "C2": {
+    "criterion_id": "C2",
+    "evidence": "Senior Data Scientist (2025 - 2026)",
+    "rationale": "Candidate has 4 years of experience but in data science roles rather than backend Java engineering.",
+    "term": "Low"
+   },
+   "C3": {
+    "criterion_id": "C3",
+    "evidence": "High School Diploma in Data Science",
+    "rationale": "A high school diploma does not meet the requirement for a degree in Computer Science or related field.",
+    "term": "Very Low"
+   },
+   "C4": {
+    "criterion_id": "C4",
+    "evidence": "",
+    "rationale": "No certifications matching Oracle Java SE, AWS Solutions Architect, or CKA are listed.",
+    "term": "Very Low"
+   },
+   "C5": {
+    "criterion_id": "C5",
+    "evidence": "demonstrating strong leadership in project delivery",
+    "rationale": "Leadership is mentioned but lacks concrete achievements related to backend engineering teamwork.",
+    "term": "Medium"
+   },
+   "C6": {
+    "criterion_id": "C6",
+    "evidence": "English, Spanish, Arabic",
+    "rationale": "Candidate lists English as a language, meeting the professional proficiency requirement.",
+    "term": "High"
+   }
+  },
+  {
+   "C1": {
+    "criterion_id": "C1",
+    "evidence": "",
+    "rationale": "No evidence of Java, Spring Boot, or REST APIs skills found in CV; only Python, SQL, and ML tools listed.",
+    "term": "Low"
+   },
+   "C2": {
+    "criterion_id": "C2",
+    "evidence": "",
+    "rationale": "No professional experience matches Backend Software Engineer role; only Data Science and DevOps roles listed.",
+    "term": "Very Low"
+   },
+   "C3": {
+    "criterion_id": "C3",
+    "evidence": "High School Diploma in Data Science",
+    "rationale": "Candidate has a High School diploma instead of the required degree in Computer Science or related field.",
+    "term": "Low"
+   },
+   "C4": {
+    "criterion_id": "C4",
+    "evidence": "",
+    "rationale": "No relevant certifications (Oracle Java, AWS, CKA) listed; CV contains no certification section entries.",
+    "term": "Very Low"
+   },
+   "C5": {
+    "criterion_id": "C5",
+    "evidence": "Led a cross-functional team to deploy advanced Machine Learning models, demonstrating strong leadership in project delivery.",
+    "rationale": "Explicit mentions of leadership and teamwork align with soft skill requirements despite lack of concrete backend achievements.",
+    "term": "Medium"
+   },
+   "C6": {
+    "criterion_id": "C6",
+    "evidence": "English, Spanish, Arabic",
+    "rationale": "Candidate lists English proficiency meeting the requirement for professional proficiency.",
+    "term": "High"
+   }
+  },
+  {
+   "C1": {
+    "criterion_id": "C1",
+    "evidence": "",
+    "rationale": "No Java, Spring Boot, or Docker skills listed despite Python usage only.",
+    "term": "Very Low"
+   },
+   "C2": {
+    "criterion_id": "C2",
+    "evidence": "",
+    "rationale": "Roles are Data Scientist and DevOps Engineer, not Backend Software Engineer; no 4+ years in target role.",
+    "term": "Very Low"
+   },
+   "C3": {
+    "criterion_id": "C3",
+    "evidence": "High School Diploma in Data Science",
+    "rationale": "Highest degree is a High School Diploma instead of the required Computer Science or Engineering degree.",
+    "term": "Low"
+   },
+   "C4": {
+    "criterion_id": "C4",
+    "evidence": "",
+    "rationale": "No relevant certifications like Oracle Java SE or AWS Certified Solutions Architect are listed.",
+    "term": "Very Low"
+   },
+   "C5": {
+    "criterion_id": "C5",
+    "evidence": "demonstrating strong leadership in project delivery... showcasing effective communication",
+    "rationale": "Explicit mentions of leadership and communication exist but lack concrete backend engineering achievements.",
+    "term": "Medium"
+   },
+   "C6": {
+    "criterion_id": "C6",
+    "evidence": "English, Spanish, Arabic",
+    "rationale": "Candidate lists English proficiency which meets the required professional proficiency.",
+    "term": "Very High"
+   }
+  }
+ ],
+ "S02": [
+  {
+   "C1": {
+    "criterion_id": "C1",
+    "evidence": "",
+    "rationale": "No Java, Spring Boot, SQL, or REST API skills listed in the CV despite being required for the role.",
+    "term": "Very Low"
+   },
+   "C2": {
+    "criterion_id": "C2",
+    "evidence": "",
+    "rationale": "The candidate has less than 4 years of experience and holds a Junior Data Scientist title rather than a Backend Engineer role.",
+    "term": "Very Low"
+   },
+   "C3": {
+    "criterion_id": "C3",
+    "evidence": "Bachelor's degree in Statistics",
+    "rationale": "A Bachelor's degree is acceptable but the field of Statistics is less relevant to backend Java development than Computer Science.",
+    "term": "Low"
+   },
+   "C4": {
+    "criterion_id": "C4",
+    "evidence": "",
+    "rationale": "The candidate holds Machine Learning certifications instead of the required Oracle Java SE or AWS Solutions Architect certs.",
+    "term": "Very Low"
+   },
+   "C5": {
+    "criterion_id": "C5",
+    "evidence": "demonstrating leadership by guiding the team through iterative refinement of algorithms",
+    "rationale": "Leadership is mentioned in a data science context, which partially addresses the soft skill requirement.",
+    "term": "Medium"
+   },
+   "C6": {
+    "criterion_id": "C6",
+    "evidence": "English, French, Spanish",
+    "rationale": "The candidate lists English as one of their languages, meeting the professional proficiency requirement.",
+    "term": "Very High"
+   }
+  },
+  {
+   "C1": {
+    "criterion_id": "C1",
+    "evidence": "",
+    "rationale": "The candidate lists R and Tableau instead of Java, Spring Boot, SQL, Docker, Git, or Kubernetes,",
+    "term": "Very Low"
+   },
+   "C2": {
+    "criterion_id": "C2",
+    "evidence": "Junior Data Scientist (2024 - 2026)",
+    "rationale": "Only one year as a Junior is insufficient against the four-year experience requirement for a Backend Engineer role,",
+    "term": "Very Low"
+   },
+   "C3": {
+    "criterion_id": "C3",
+    "evidence": "Bachelor's degree in Statistics",
+    "rationale": "A Statistics degree is less directly relevant than a Computer Science or Software Engineering degree,",
+    "term": "Low"
+   },
+   "C4": {
+    "criterion_id": "C4",
+    "evidence": "AWS Certified Machine Learning - Specialty",
+    "rationale": "The candidate has one AWS certification, which partially overlaps with the preferred AWS certification but does not match others like CKA,",
+    "term": "Medium"
+   },
+   "C5": {
+    "criterion_id": "C5",
+    "evidence": "demonstrating leadership by guiding the team",
+    "rationale": "The CV explicitly mentions demonstrating leadership while guiding a team,",
+    "term": "High"
+   },
+   "C6": {
+    "criterion_id": "C6",
+    "evidence": "English, French, Spanish",
+    "rationale": "The candidate lists English as a language, meeting the professional proficiency requirement",
+    "term": "Very High"
+   }
+  },
+  {
+   "C1": {
+    "criterion_id": "C1",
+    "evidence": "",
+    "rationale": "No Java, Spring Boot, SQL or REST API skills listed; only R and Tableau are present.",
+    "term": "Very Low"
+   },
+   "C2": {
+    "criterion_id": "C2",
+    "evidence": "Junior Data Scientist (2024 - 2026)",
+    "rationale": "Candidate has less than 1 year of experience in a completely different domain with no proof of 4 years seniority.",
+    "term": "Very Low"
+   },
+   "C3": {
+    "criterion_id": "C3",
+    "evidence": "Bachelor's degree in Statistics",
+    "rationale": "Degree is in Statistics rather than Computer Science or Software Engineering required by the offer.",
+    "term": "Low"
+   },
+   "C4": {
+    "criterion_id": "C4",
+    "evidence": "AWS Certified Machine Learning - Specialty",
+    "rationale": "Only one AWS certification matches the preferred list compared to zero Java or Kubernetes certs.",
+    "term": "Medium"
+   },
+   "C5": {
+    "criterion_id": "C5",
+    "evidence": "demonstrating leadership by guiding the team",
+    "rationale": "Explicit mention of leading teams aligns with the requested soft skill of leadership.",
+    "term": "High"
+   },
+   "C6": {
+    "criterion_id": "C6",
+    "evidence": "English, French, Spanish",
+    "rationale": "Professional proficiency in English meets the job's language requirement.",
+    "term": "High"
+   }
+  }
+ ],
+ "S03": [
+  {
+   "C1": {
+    "criterion_id": "C1",
+    "evidence": "",
+    "rationale": "No Java, Spring Boot, or SQL skills listed in the CV despite being required for the role.",
+    "term": "Very Low"
+   },
+   "C2": {
+    "criterion_id": "C2",
+    "evidence": "Senior Data Scientist (2022 - 2026)",
+    "rationale": "Candidate has 4 years of experience but in data science rather than backend Java development.",
+    "term": "Low"
+   },
+   "C3": {
+    "criterion_id": "C3",
+    "evidence": "High School Diploma in Applied Mathematics",
+    "rationale": "A high school diploma does not meet the requirement for a degree in Computer Science or related field.",
+    "term": "Very Low"
+   },
+   "C4": {
+    "criterion_id": "C4",
+    "evidence": "TensorFlow Developer Certificate, Microsoft Certified: Azure Data Scientist Associate",
+    "rationale": "Certifications are for machine learning and do not match Oracle Java SE, AWS Solutions Architect, or CKA requirements.",
+    "term": "Low"
+   },
+   "C5": {
+    "criterion_id": "C5",
+    "evidence": "Led a cross-functional team... Demonstrated leadership by mentoring five junior analysts",
+    "rationale": "Explicit mentions of teamwork and leadership align with soft skill requirements despite the role mismatch.",
+    "term": "Medium"
+   },
+   "C6": {
+    "criterion_id": "C6",
+    "evidence": "English, French, Spanish",
+    "rationale": "Candidate lists English as a language, meeting the professional proficiency requirement.",
+    "term": "High"
+   }
+  },
+  {
+   "C1": {
+    "criterion_id": "C1",
+    "evidence": "",
+    "rationale": "No evidence of Java, Spring Boot, SQL, or REST APIs in the candidate's skills or experience list.",
+    "term": "Low"
+   },
+   "C2": {
+    "criterion_id": "C2",
+    "evidence": "Senior Data Scientist (2022 - 2026)",
+    "rationale": "Three years of professional experience falls short of the four-year requirement and the role is in data science, not backend engineering.",
+    "term": "Very Low"
+   },
+   "C3": {
+    "criterion_id": "C3",
+    "evidence": "High School Diploma in Applied Mathematics",
+    "rationale": "A High School diploma is insufficient compared to the required degree in Computer Science or related fields.",
+    "term": "Low"
+   },
+   "C4": {
+    "criterion_id": "C4",
+    "evidence": "",
+    "rationale": "Candidate holds data science certifications but lacks Oracle Java SE, AWS Solutions Architect, or CKA certifications mentioned in the offer.",
+    "term": "Very Low"
+   },
+   "C5": {
+    "criterion_id": "C5",
+    "evidence": "Demonstrated leadership by mentoring five junior analysts",
+    "rationale": "Evidence of leadership and communication exists through specific achievements, though not explicitly linked to Java backend work.",
+    "term": "Medium"
+   },
+   "C6": {
+    "criterion_id": "C6",
+    "evidence": "English, French, Spanish",
+    "rationale": "Candidate lists English as a known language, meeting the requirement for professional proficiency.",
+    "term": "High"
+   }
+  },
+  {
+   "C1": {
+    "criterion_id": "C1",
+    "evidence": "",
+    "rationale": "No Java, Spring Boot, or REST API skills are listed in the CV despite them being required for this role.",
+    "term": "Very Low"
+   },
+   "C2": {
+    "criterion_id": "C2",
+    "evidence": "Senior Data Scientist (2022 - 2026)",
+    "rationale": "4 years of experience exists but is in data science roles rather than backend Java engineering.",
+    "term": "Low"
+   },
+   "C3": {
+    "criterion_id": "C3",
+    "evidence": "",
+    "rationale": "The CV lists a High School Diploma, which does not meet the required degree level for this position.",
+    "term": "Very Low"
+   },
+   "C4": {
+    "criterion_id": "C4",
+    "evidence": "TensorFlow Developer Certificate, Microsoft Certified: Azure Data Scientist Associate",
+    "rationale": "These certifications are for machine learning and cloud data science, not for Java or Kubernetes administration.",
+    "term": "Low"
+   },
+   "C5": {
+    "criterion_id": "C5",
+    "evidence": "Led a cross-functional team to redesign the predictive maintenance model... Demonstrated leadership by mentoring five junior analysts",
+    "rationale": "The candidate demonstrates leadership and teamwork through specific achievements of managing teams and mentoring.",
+    "term": "Medium"
+   },
+   "C6": {
+    "criterion_id": "C6",
+    "evidence": "English, French, Spanish",
+    "rationale": "The candidate lists English as a language, satisfying the requirement for professional proficiency.",
+    "term": "High"
+   }
+  }
+ ],
+ "S04": [
+  {
+   "C1": {
+    "criterion_id": "C1",
+    "evidence": "",
+    "rationale": "No Java, Spring Boot, or REST API skills listed despite SQL and Docker presence.",
+    "term": "Very Low"
+   },
+   "C2": {
+    "criterion_id": "C2",
+    "evidence": "Senior Data Scientist (2022 - 2026)",
+    "rationale": "4 years of experience but in data science rather than backend software engineering.",
+    "term": "Low"
+   },
+   "C3": {
+    "criterion_id": "C3",
+    "evidence": "Bachelor's degree in Statistics",
+    "rationale": "Degree is relevant to data analysis but not Computer Science or Software Engineering.",
+    "term": "Medium"
+   },
+   "C4": {
+    "criterion_id": "C4",
+    "evidence": "",
+    "rationale": "No certifications matching Oracle Java, AWS Solutions Architect, or CKA requirements.",
+    "term": "Very Low"
+   },
+   "C5": {
+    "criterion_id": "C5",
+    "evidence": "demonstrating leadership by coordinating daily stand-ups and defining strategic roadmaps",
+    "rationale": "Explicitly demonstrates teamwork, communication, and leadership through team coordination.",
+    "term": "High"
+   },
+   "C6": {
+    "criterion_id": "C6",
+    "evidence": "English, Arabic",
+    "rationale": "Professional proficiency in English is explicitly stated alongside another language.",
+    "term": "Very High"
+   }
+  },
+  {
+   "C1": {
+    "criterion_id": "C1",
+    "evidence": "",
+    "rationale": "No evidence of Java, Spring Boot, or REST APIs skills found in CV despite SQL and Docker presence.",
+    "term": "Low"
+   },
+   "C2": {
+    "criterion_id": "C2",
+    "evidence": "",
+    "rationale": "Candidate has 3 years of data science experience rather than required 4+ years in backend engineering.",
+    "term": "Very Low"
+   },
+   "C3": {
+    "criterion_id": "C3",
+    "evidence": "Bachelor's degree in Statistics",
+    "rationale": "Degree is relevant but lacks the Computer Science or Engineering field specified as primary requirement.",
+    "term": "Medium"
+   },
+   "C4": {
+    "criterion_id": "C4",
+    "evidence": "",
+    "rationale": "No certifications listed that match Oracle Java SE, AWS Solutions Architect, or CKA requirements.",
+    "term": "Very Low"
+   },
+   "C5": {
+    "criterion_id": "C5",
+    "evidence": "demonstrating leadership by coordinating daily stand-ups... mentoring interns on best practices",
+    "rationale": "Explicit examples of leading teams and mentoring demonstrate required soft skills effectively.",
+    "term": "High"
+   },
+   "C6": {
+    "criterion_id": "C6",
+    "evidence": "English, Arabic",
+    "rationale": "Candidate lists English which meets requirement though proficiency level is not quantified.",
+    "term": "Medium"
+   }
+  },
+  {
+   "C1": {
+    "criterion_id": "C1",
+    "evidence": "",
+    "rationale": "No Java, Spring Boot, or REST API skills are listed; only SQL and Docker appear in an ML context without backend evidence.",
+    "term": "Very Low"
+   },
+   "C2": {
+    "criterion_id": "C2",
+    "evidence": "Senior Data Scientist (2022 - 2026)",
+    "rationale": "3 years as Senior is insufficient against the 4-year requirement, and the domain is data science rather than backend engineering.",
+    "term": "Low"
+   },
+   "C3": {
+    "criterion_id": "C3",
+    "evidence": "Bachelor's degree in Statistics",
+    "rationale": "A Bachelor's in Statistics does not match the preferred Computer Science or Software Engineering degree requirement.",
+    "term": "Low"
+   },
+   "C4": {
+    "criterion_id": "C4",
+    "evidence": "",
+    "rationale": "No certifications matching Oracle Java SE, AWS Solutions Architect, or CKA are listed.",
+    "term": "Very Low"
+   },
+   "C5": {
+    "criterion_id": "C5",
+    "evidence": "demonstrating leadership by mentoring interns on best practices for data validation",
+    "rationale": "Explicit mention of leading teams and mentoring demonstrates teamwork and leadership partially, though in a non-Java context.",
+    "term": "Medium"
+   },
+   "C6": {
+    "criterion_id": "C6",
+    "evidence": "English, Arabic",
+    "rationale": "The CV explicitly lists English as a language with no indication of limited proficiency.",
+    "term": "Very High"
+   }
+  }
+ ],
+ "S05": [
+  {
+   "C1": {
+    "criterion_id": "C1",
+    "evidence": "",
+    "rationale": "No Java, Spring Boot, or REST API skills listed in the CV despite being required for the role.",
+    "term": "Very Low"
+   },
+   "C2": {
+    "criterion_id": "C2",
+    "evidence": "Data Analyst (2023 - 2026)",
+    "rationale": "Four years of experience exist but are in unrelated data analysis roles rather than backend engineering.",
+    "term": "Low"
+   },
+   "C3": {
+    "criterion_id": "C3",
+    "evidence": "PhD in Statistics",
+    "rationale": "The candidate holds a PhD, which exceeds the degree requirement, though the field is not directly related to software engineering.",
+    "term": "High"
+   },
+   "C4": {
+    "criterion_id": "C4",
+    "evidence": "",
+    "rationale": "No professional certifications relevant to Java or backend development are listed on the CV.",
+    "term": "Very Low"
+   },
+   "C5": {
+    "criterion_id": "C5",
+    "evidence": "demonstrating autonomy in identifying and resolving complex dataset issues",
+    "rationale": "Evidence of problem-solving and independence is present but lacks explicit mention of teamwork, leadership, or communication.",
+    "term": "Medium"
+   },
+   "C6": {
+    "criterion_id": "C6",
+    "evidence": "English, German",
+    "rationale": "The candidate lists English as a language, meeting the requirement for professional proficiency.",
+    "term": "High"
+   }
+  },
+  {
+   "C1": {
+    "criterion_id": "C1",
+    "evidence": "",
+    "rationale": "No evidence of Java, Spring Boot, or REST APIs in skills or experience descriptions.",
+    "term": "Low"
+   },
+   "C2": {
+    "criterion_id": "C2",
+    "evidence": "",
+    "rationale": "Roles as Data Analyst and MLOps Engineer do not demonstrate 4+ years in a Backend Java role.",
+    "term": "Very Low"
+   },
+   "C3": {
+    "criterion_id": "C3",
+    "evidence": "PhD in Statistics",
+    "rationale": "Degree level meets requirement but field of study is irrelevant to software engineering.",
+    "term": "Medium"
+   },
+   "C4": {
+    "criterion_id": "C4",
+    "evidence": "",
+    "rationale": "No professional certifications for Java, AWS, or Kubernetes are listed.",
+    "term": "Very Low"
+   },
+   "C5": {
+    "criterion_id": "C5",
+    "evidence": "demonstrating autonomy in identifying and resolving complex dataset issues",
+    "rationale": "Autonomy does not demonstrate teamwork, leadership, or communication as required.",
+    "term": "Low"
+   },
+   "C6": {
+    "criterion_id": "C6",
+    "evidence": "English, German",
+    "rationale": "Candidate lists English with no indication of lack of proficiency, meeting the requirement.",
+    "term": "Very High"
+   }
+  },
+  {
+   "C1": {
+    "criterion_id": "C1",
+    "evidence": "",
+    "rationale": "No Java, Spring Boot, or REST API skills are listed, only Python and SQL.",
+    "term": "Very Low"
+   },
+   "C2": {
+    "criterion_id": "C2",
+    "evidence": "MLOps Engineer (2021 - 2023)",
+    "rationale": "Two years of experience is below the required four years for a Backend Software Engineer role.",
+    "term": "Low"
+   },
+   "C3": {
+    "criterion_id": "C3",
+    "evidence": "PhD in Statistics",
+    "rationale": "A PhD in Statistics provides strong academic rigor, even if the specific field differs from Computer Science.",
+    "term": "High"
+   },
+   "C4": {
+    "criterion_id": "C4",
+    "evidence": "",
+    "rationale": "No Oracle Java SE, AWS Solutions Architect, or CKA certifications are mentioned.",
+    "term": "Very Low"
+   },
+   "C5": {
+    "criterion_id": "C5",
+    "evidence": "demonstrating autonomy in identifying and resolving complex dataset issues",
+    "rationale": "Evidence of problem-solving and teamwork exists but lacks explicit leadership mentions.",
+    "term": "Medium"
+   },
+   "C6": {
+    "criterion_id": "C6",
+    "evidence": "English, German",
+    "rationale": "The candidate lists English as a required language with no proficiency qualifier indicating meeting the standard.",
+    "term": "High"
+   }
+  }
+ ],
+ "S06": [
+  {
+   "C1": {
+    "criterion_id": "C1",
+    "evidence": "",
+    "rationale": "No Java, Spring Boot, or REST API skills listed in the CV despite being required for the role.",
+    "term": "Very Low"
+   },
+   "C2": {
+    "criterion_id": "C2",
+    "evidence": "",
+    "rationale": "Candidate has only 2 years of experience as a Data Analyst and MLOps Engineer, falling short of the 4-year requirement.",
+    "term": "Very Low"
+   },
+   "C3": {
+    "criterion_id": "C3",
+    "evidence": "Master's degree in Economics",
+    "rationale": "The candidate holds a Master's degree but in Economics rather than Computer Science or Software Engineering.",
+    "term": "Low"
+   },
+   "C4": {
+    "criterion_id": "C4",
+    "evidence": "",
+    "rationale": "Candidate holds a Microsoft Power BI certification, which is irrelevant to the required Java and AWS certifications.",
+    "term": "Very Low"
+   },
+   "C5": {
+    "criterion_id": "C5",
+    "evidence": "collaborated through teamwork to deliver actionable insights",
+    "rationale": "Evidence of teamwork exists but lacks concrete achievements or leadership examples requested by the job offer.",
+    "term": "Medium"
+   },
+   "C6": {
+    "criterion_id": "C6",
+    "evidence": "English",
+    "rationale": "Candidate lists English as a language, meeting the requirement for professional proficiency.",
+    "term": "High"
+   }
+  },
+  {
+   "C1": {
+    "criterion_id": "C1",
+    "evidence": "",
+    "rationale": "No evidence of Java, Spring Boot, or REST APIs skills found in the CV.",
+    "term": "Low"
+   },
+   "C2": {
+    "criterion_id": "C2",
+    "evidence": "",
+    "rationale": "Candidate has no more than 2 years of experience but requires at least 4 years as a Backend Engineer.",
+    "term": "Very Low"
+   },
+   "C3": {
+    "criterion_id": "C3",
+    "evidence": "Master's degree in Economics",
+    "rationale": "Economics is not the required field (Computer Science/Software Engineering) and Master's is a plus rather than required.",
+    "term": "Low"
+   },
+   "C4": {
+    "criterion_id": "C4",
+    "evidence": "",
+    "rationale": "Candidate holds Power BI certification, but no Java or Kubernetes certifications matching the offer are listed.",
+    "term": "Very Low"
+   },
+   "C5": {
+    "criterion_id": "C5",
+    "evidence": "collaborated through teamwork to deliver actionable insights",
+    "rationale": "Teamwork is mentioned explicitly, though leadership and problem-solving are not demonstrated with concrete achievements.",
+    "term": "Medium"
+   },
+   "C6": {
+    "criterion_id": "C6",
+    "evidence": "English",
+    "rationale": "English is listed without a specific proficiency level, but it matches the requirement for professional proficiency.",
+    "term": "High"
+   }
+  },
+  {
+   "C1": {
+    "criterion_id": "C1",
+    "evidence": "",
+    "rationale": "No Java, Spring Boot, or Kubernetes skills listed despite being explicit requirements and nice-to-haves respectively.",
+    "term": "Very Low"
+   },
+   "C2": {
+    "criterion_id": "C2",
+    "evidence": "",
+    "rationale": "Only two years of experience in data analysis and MLOps roles, falling short of the four-year requirement for a Backend Engineer role.",
+    "term": "Very Low"
+   },
+   "C3": {
+    "criterion_id": "C3",
+    "evidence": "Master's degree in Economics",
+    "rationale": "The degree exists but is in Economics rather than Computer Science or Software Engineering.",
+    "term": "Low"
+   },
+   "C4": {
+    "criterion_id": "C4",
+    "evidence": "",
+    "rationale": "Holds a Microsoft Power BI certification instead of the requested Java, AWS, or Kubernetes certifications.",
+    "term": "Very Low"
+   },
+   "C5": {
+    "criterion_id": "C5",
+    "evidence": "collaborated through teamwork to deliver actionable insights",
+    "rationale": "Teamwork is mentioned but lacks explicit demonstration of leadership or problem-solving achievements required by the offer.",
+    "term": "Medium"
+   },
+   "C6": {
+    "criterion_id": "C6",
+    "evidence": "English",
+    "rationale": "Explicitly lists English without any qualifier indicating proficiency level meets the professional requirement.",
+    "term": "High"
+   }
+  }
+ ],
+ "S07": [
+  {
+   "C1": {
+    "criterion_id": "C1",
+    "evidence": "",
+    "rationale": "No Java, Spring Boot, or REST API skills listed in the CV despite being required for the role.",
+    "term": "Very Low"
+   },
+   "C2": {
+    "criterion_id": "C2",
+    "evidence": "Business Intelligence Analyst (2022 - 2026)",
+    "rationale": "Four years of experience exists but is in data analysis rather than backend software engineering.",
+    "term": "Low"
+   },
+   "C3": {
+    "criterion_id": "C3",
+    "evidence": "Bachelor's degree in Economics",
+    "rationale": "The field of study does not match the required Computer Science or Software Engineering background.",
+    "term": "Low"
+   },
+   "C4": {
+    "criterion_id": "C4",
+    "evidence": "",
+    "rationale": "No professional certifications relevant to Java, Spring Boot, or Kubernetes are listed.",
+    "term": "Very Low"
+   },
+   "C5": {
+    "criterion_id": "C5",
+    "evidence": "Collaborated with cross-functional teams using teamwork",
+    "rationale": "Teamwork is explicitly mentioned but lacks concrete achievements demonstrating leadership or problem solving.",
+    "term": "Medium"
+   },
+   "C6": {
+    "criterion_id": "C6",
+    "evidence": "English, Spanish",
+    "rationale": "Professional proficiency in English is confirmed and meets the job requirement.",
+    "term": "High"
+   }
+  },
+  {
+   "C1": {
+    "criterion_id": "C1",
+    "evidence": "",
+    "rationale": "The candidate lists Python and SQL but lacks any mention of Java, Spring Boot, REST APIs, or Docker required for this role.",
+    "term": "Very Low"
+   },
+   "C2": {
+    "criterion_id": "C2",
+    "evidence": "Business Intelligence Analyst (2022 - 2026)",
+    "rationale": "Four years of experience is present, but the role in business intelligence does not match the backend software engineer position.",
+    "term": "Low"
+   },
+   "C3": {
+    "criterion_id": "C3",
+    "evidence": "Bachelor's degree in Economics",
+    "rationale": "The Bachelor's degree in Economics is less relevant than the required Computer Science or Software Engineering background.",
+    "term": "Low"
+   },
+   "C4": {
+    "criterion_id": "C4",
+    "evidence": "",
+    "rationale": "There are no professional certifications listed on the CV, whereas Oracle Java SE and others are appreciated.",
+    "term": "Very Low"
+   },
+   "C5": {
+    "criterion_id": "C5",
+    "evidence": "Collaborated with cross-functional teams using teamwork to align data strategies",
+    "rationale": "Teamwork is mentioned but lacks explicit evidence of leadership or problem-solving achievements typical for this senior role.",
+    "term": "Low"
+   },
+   "C6": {
+    "criterion_id": "C6",
+    "evidence": "English, Spanish",
+    "rationale": "The candidate lists English as a language, meeting the requirement for professional proficiency in English.",
+    "term": "High"
+   }
+  },
+  {
+   "C1": {
+    "criterion_id": "C1",
+    "evidence": "",
+    "rationale": "No Java, Spring Boot, or Docker skills listed despite Python presence.",
+    "term": "Very Low"
+   },
+   "C2": {
+    "criterion_id": "C2",
+    "evidence": "Business Intelligence Analyst (2022 - 2026)",
+    "rationale": "Role is data analysis rather than backend engineering with no indication of relevant professional duration.",
+    "term": "Low"
+   },
+   "C3": {
+    "criterion_id": "C3",
+    "evidence": "Bachelor's degree in Economics",
+    "rationale": "Economics field does not match required Computer Science or Software Engineering backgrounds.",
+    "term": "Very Low"
+   },
+   "C4": {
+    "criterion_id": "C4",
+    "evidence": "",
+    "rationale": "No certifications related to Java, Kubernetes, or AWS are listed.",
+    "term": "Very Low"
+   },
+   "C5": {
+    "criterion_id": "C5",
+    "evidence": "Collaborated with cross-functional teams using teamwork",
+    "rationale": "Explicit mention of teamwork and autonomy demonstrates soft skill alignment.",
+    "term": "Medium"
+   },
+   "C6": {
+    "criterion_id": "C6",
+    "evidence": "English, Spanish",
+    "rationale": "Both English and Spanish are listed as known languages, exceeding the English requirement.",
+    "term": "Very High"
+   }
+  }
+ ],
+ "S08": [
+  {
+   "C1": {
+    "criterion_id": "C1",
+    "evidence": "",
+    "rationale": "No Java, Spring Boot, SQL, or REST API skills are listed in the CV despite being required for the role.",
+    "term": "Very Low"
+   },
+   "C2": {
+    "criterion_id": "C2",
+    "evidence": "MLOps Engineer (2024 - 2026)",
+    "rationale": "The candidate has 3 years of experience but lacks the specific Java backend domain required by the job offer.",
+    "term": "Low"
+   },
+   "C3": {
+    "criterion_id": "C3",
+    "evidence": "Master's degree in Computer Engineering",
+    "rationale": "The candidate holds a Master's degree in a directly relevant field, exceeding the minimum requirement.",
+    "term": "High"
+   },
+   "C4": {
+    "criterion_id": "C4",
+    "evidence": "",
+    "rationale": "No professional certifications matching Oracle Java SE, AWS Solutions Architect, or CKA are listed.",
+    "term": "Very Low"
+   },
+   "C5": {
+    "criterion_id": "C5",
+    "evidence": "showcasing collaborative time management to streamline team delivery",
+    "rationale": "The CV mentions teamwork and problem-solving through specific achievements, though leadership is not explicitly demonstrated.",
+    "term": "Medium"
+   },
+   "C6": {
+    "criterion_id": "C6",
+    "evidence": "English, Arabic, German",
+    "rationale": "The candidate lists English as a known language, meeting the professional proficiency requirement.",
+    "term": "High"
+   }
+  },
+  {
+   "C1": {
+    "criterion_id": "C1",
+    "evidence": "",
+    "rationale": "No overlap between candidate's Python/ML skills and required Java/Spring Boot SQL skills found in CV or title description.",
+    "term": "Low"
+   },
+   "C2": {
+    "criterion_id": "C2",
+    "evidence": "MLOps Engineer (2024 - 2026)",
+    "rationale": "Only 1 year of experience is less than the required 4 years, and roles focus on ML rather than backend Java development.",
+    "term": "Very Low"
+   },
+   "C3": {
+    "criterion_id": "C3",
+    "evidence": "Master's degree in Computer Engineering",
+    "rationale": "Candidate holds a Master's in a relevant field matching the education requirement.",
+    "term": "High"
+   },
+   "C4": {
+    "criterion_id": "C4",
+    "evidence": "",
+    "rationale": "No professional certifications for Java, AWS, or Kubernetes are listed in the skills section.",
+    "term": "Very Low"
+   },
+   "C5": {
+    "criterion_id": "C5",
+    "evidence": "showcasing collaborative time management to streamline team delivery",
+    "rationale": "Evidence of teamwork and problem solving exists but lacks concrete leadership achievements or specific communication examples.",
+    "term": "Medium"
+   },
+   "C6": {
+    "criterion_id": "C6",
+    "evidence": "English, Arabic, German",
+    "rationale": "Candidate lists English proficiency which meets the professional proficiency requirement.",
+    "term": "Very High"
+   }
+  },
+  {
+   "C1": {
+    "criterion_id": "C1",
+    "evidence": "",
+    "rationale": "No Java, Spring Boot, SQL, or REST APIs skills found in the CV despite MLOps experience.",
+    "term": "Very Low"
+   },
+   "C2": {
+    "criterion_id": "C2",
+    "evidence": "Machine Learning Engineer (2021 - 2024)",
+    "rationale": "3 years of ML engineering experience falls short of the required 4 years in a Java backend role.",
+    "term": "Medium"
+   },
+   "C3": {
+    "criterion_id": "C3",
+    "evidence": "Master's degree in Computer Engineering",
+    "rationale": "Highest degree matches the requirement and the field is directly relevant to software engineering.",
+    "term": "High"
+   },
+   "C4": {
+    "criterion_id": "C4",
+    "evidence": "",
+    "rationale": "No Oracle Java, AWS, or Kubernetes Administrator certifications are listed.",
+    "term": "Very Low"
+   },
+   "C5": {
+    "criterion_id": "C5",
+    "evidence": "showcasing collaborative time management to streamline team delivery",
+    "rationale": "Mentions teamwork and problem solving contextually but lacks explicit leadership achievements.",
+    "term": "Medium"
+   },
+   "C6": {
+    "criterion_id": "C6",
+    "evidence": "English, Arabic, German",
+    "rationale": "Listed languages include English, meeting the requirement for professional proficiency.",
+    "term": "High"
+   }
+  }
+ ],
+ "S09": [
+  {
+   "C1": {
+    "criterion_id": "C1",
+    "evidence": "Spark, Kubernetes, Docker, AWS, Machine Learning, Python, Scikit-learn, Git",
+    "rationale": "Candidate has Java and Spring Boot but lacks them in favor of Python/Spark; matches preferred tools like Kafka/AWS/Kubernetes/Docker/Git only partially as no Kafka listed.",
+    "term": "Medium"
+   },
+   "C2": {
+    "criterion_id": "C2",
+    "evidence": "",
+    "rationale": "No evidence of 4 years professional experience or Backend Software Engineer role, only Machine Learning Engineer title.",
+    "term": "Very Low"
+   },
+   "C3": {
+    "criterion_id": "C3",
+    "evidence": "Master's degree in Computer Engineering",
+    "rationale": "Candidate holds a Master's degree in a relevant field (Computer Engineering) matching the requirement.",
+    "term": "High"
+   },
+   "C4": {
+    "criterion_id": "C4",
+    "evidence": "",
+    "rationale": "No evidence of Oracle Java SE, AWS Solutions Architect, or CKA certifications despite listing preferred tools.",
+    "term": "Very Low"
+   },
+   "C5": {
+    "criterion_id": "C5",
+    "evidence": "leadership, problem solving, teamwork",
+    "rationale": "Candidate explicitly lists all three required soft skills (leadership, problem solving, teamwork).",
+    "term": "High"
+   },
+   "C6": {
+    "criterion_id": "C6",
+    "evidence": "English (professional)",
+    "rationale": "Candidate meets the requirement for professional English proficiency.",
+    "term": "Very High"
+   }
+  },
+  {
+   "C1": {
+    "criterion_id": "C1",
+    "evidence": "",
+    "rationale": "Candidate lacks Java, Spring Boot, SQL, and REST APIs skills required by the role but lists Python, Spark, and ML instead.",
+    "term": "Low"
+   },
+   "C2": {
+    "criterion_id": "C2",
+    "evidence": "Machine Learning Engineer (2021 - 2026)",
+    "rationale": "Five years of experience is close to the 4-year requirement but the role is in Machine Learning rather than Backend Java development.",
+    "term": "Low"
+   },
+   "C3": {
+    "criterion_id": "C3",
+    "evidence": "Master's degree in Computer Engineering",
+    "rationale": "Candidate holds a Master's degree in a highly relevant field matching the job offer requirements.",
+    "term": "High"
+   },
+   "C4": {
+    "criterion_id": "C4",
+    "evidence": "",
+    "rationale": "Candidate has no professional certifications listed despite Oracle Java, AWS, or CKA being appreciated for this role.",
+    "term": "Low"
+   },
+   "C5": {
+    "criterion_id": "C5",
+    "evidence": "leadership, problem solving, teamwork",
+    "rationale": "Candidate explicitly lists all three soft skills (leadership, problem solving, teamwork) requested in the job offer.",
+    "term": "High"
+   },
+   "C6": {
+    "criterion_id": "C6",
+    "evidence": "English (professional)",
+    "rationale": "Candidate meets the requirement with professional proficiency in English as stated in the CV.",
+    "term": "High"
+   }
+  },
+  {
+   "C1": {
+    "criterion_id": "C1",
+    "evidence": "Spark, Kubernetes, Docker, AWS, Machine Learning, Python, Scikit-learn, Git",
+    "rationale": "Missing Java, Spring Boot, and SQL skills despite matching some preferred tools like Kafka/Kubernetes/AWS/Docker/Git and ML context. ",
+    "term": "Medium"
+   },
+   "C2": {
+    "criterion_id": "C2",
+    "evidence": "",
+    "rationale": "No evidence of 4 years of professional experience in a Backend Software Engineer (Java) role.",
+    "term": "Very Low"
+   },
+   "C3": {
+    "criterion_id": "C3",
+    "evidence": "Master's degree in Computer Engineering",
+    "rationale": "Matches the required education level and field of study exactly.",
+    "term": "High"
+   },
+   "C4": {
+    "criterion_id": "C4",
+    "evidence": "",
+    "rationale": "No Oracle Java SE Developer, AWS Solutions Architect, or CKA certifications listed.",
+    "term": "Very Low"
+   },
+   "C5": {
+    "criterion_id": "C5",
+    "evidence": "leadership, problem solving, teamwork",
+    "rationale": "Explicitly lists all three requested soft skills.",
+    "term": "High"
+   },
+   "C6": {
+    "criterion_id": "C6",
+    "evidence": "English (professional)",
+    "rationale": "Fully meets the requirement for professional proficiency in English.",
+    "term": "Very High"
+   }
+  }
+ ],
+ "S10": [
+  {
+   "C1": {
+    "criterion_id": "C1",
+    "evidence": "REST APIs, Hibernate, Kubernetes, Git, Spring Boot, Kafka, AWS",
+    "rationale": "The candidate lists all required and preferred technical skills with demonstrated application in job descriptions.",
+    "term": "Very High"
+   },
+   "C2": {
+    "criterion_id": "C2",
+    "evidence": "",
+    "rationale": "No dates or duration of employment are provided to verify the required 4 years of experience.",
+    "term": "Very Low"
+   },
+   "C3": {
+    "criterion_id": "C3",
+    "evidence": "Bachelor's degree in Computer Science",
+    "rationale": "The candidate holds a relevant bachelor's degree but lacks the preferred master's or PhD level.",
+    "term": "Medium"
+   },
+   "C4": {
+    "criterion_id": "C4",
+    "evidence": "AWS Certified Solutions Architect, Oracle Certified Professional: Java SE Developer",
+    "rationale": "The candidate holds two of the three listed certifications, covering the primary technical domains.",
+    "term": "High"
+   },
+   "C5": {
+    "criterion_id": "C5",
+    "evidence": "demonstrating strong communication and teamwork while deploying solutions",
+    "rationale": "Soft skills are mentioned in the context of achievements but lack explicit leadership examples.",
+    "term": "Medium"
+   },
+   "C6": {
+    "criterion_id": "C6",
+    "evidence": "English, Spanish",
+    "rationale": "The candidate lists English as a language, meeting the professional proficiency requirement.",
+    "term": "High"
+   }
+  },
+  {
+   "C1": {
+    "criterion_id": "C1",
+    "evidence": "REST APIs, Hibernate, Kubernetes, Git, Spring Boot, Kafka, AWS",
+    "rationale": "The candidate demonstrates deep usage of all required skills plus preferred tools across multiple roles.",
+    "term": "High"
+   },
+   "C2": {
+    "criterion_id": "C2",
+    "evidence": "Java Developer (2025 - 2026); Backend Developer (2024 - 2025)",
+    "rationale": "Two consecutive full-time professional roles totaling four years meet the minimum experience requirement.",
+    "term": "High"
+   },
+   "C3": {
+    "criterion_id": "C3",
+    "evidence": "Bachelor's degree in Computer Science",
+    "rationale": "A Bachelor's degree in a relevant field meets the basic requirement but lacks the preferred Master's or PhD.",
+    "term": "Medium"
+   },
+   "C4": {
+    "criterion_id": "C4",
+    "evidence": "AWS Certified Solutions Architect, Oracle Certified Professional: Java SE Developer",
+    "rationale": "The candidate holds two certifications that directly match the job's preferred list.",
+    "term": "High"
+   },
+   "C5": {
+    "criterion_id": "C5",
+    "evidence": "demonstrating strong communication and teamwork; applying problem solving",
+    "rationale": "Explicit mentions of soft skills exist but lack concrete project-based achievements or leadership examples.",
+    "term": "Medium"
+   },
+   "C6": {
+    "criterion_id": "C6",
+    "evidence": "English, Spanish",
+    "rationale": "The candidate lists English alongside another language, confirming professional proficiency in the required language.",
+    "term": "High"
+   }
+  },
+  {
+   "C1": {
+    "criterion_id": "C1",
+    "evidence": "REST APIs, Hibernate, Kubernetes, Git, Spring Boot, Kafka, AWS",
+    "rationale": "The candidate lists all required and preferred technical skills with contextual evidence of application.",
+    "term": "Very High"
+   },
+   "C2": {
+    "criterion_id": "C2",
+    "evidence": "Java Developer (2025 - 2026), Backend Developer (2024 - 2025)",
+    "rationale": "Only two years of experience are listed, falling short of the required four years.",
+    "term": "Medium"
+   },
+   "C3": {
+    "criterion_id": "C3",
+    "evidence": "Bachelor's degree in Computer Science",
+    "rationale": "A Bachelor's degree meets the minimum requirement but lacks the plus factor of a Master's or PhD.",
+    "term": "Low"
+   },
+   "C4": {
+    "criterion_id": "C4",
+    "evidence": "AWS Certified Solutions Architect, Oracle Certified Professional: Java SE Developer",
+    "rationale": "The candidate holds two relevant certifications including the preferred Oracle and AWS credentials.",
+    "term": "High"
+   },
+   "C5": {
+    "criterion_id": "C5",
+    "evidence": "demonstrating strong communication and teamwork while deploying solutions",
+    "rationale": "Soft skills like teamwork and communication are explicitly mentioned in the context of project achievements.",
+    "term": "Very High"
+   },
+   "C6": {
+    "criterion_id": "C6",
+    "evidence": "English, Spanish",
+    "rationale": "The candidate lists English as a language, meeting the requirement for professional proficiency.",
+    "term": "High"
+   }
+  }
+ ],
+ "S11": [
+  {
+   "C1": {
+    "criterion_id": "C1",
+    "evidence": "Java, Kafka, Git, Kubernetes, AWS, Hibernate, Docker",
+    "rationale": "The candidate lists all required and preferred technical skills including Java, Spring Boot equivalents (Hibernate), SQL context, REST APIs context, Docker, Git, Kafka, and AWS.",
+    "term": "Very High"
+   },
+   "C2": {
+    "criterion_id": "C2",
+    "evidence": "Java Developer (2024 - 2026) ... Backend Developer (2020 - 2024)",
+    "rationale": "The candidate has 6 years of professional experience in Java development roles, exceeding the minimum requirement of 4 years.",
+    "term": "Very High"
+   },
+   "C3": {
+    "criterion_id": "C3",
+    "evidence": "Bachelor's degree in Computer Engineering",
+    "rationale": "The candidate holds a relevant Bachelor's degree in Computer Engineering, meeting the core education requirement.",
+    "term": "High"
+   },
+   "C4": {
+    "criterion_id": "C4",
+    "evidence": "Oracle Certified Professional: Java SE Developer",
+    "rationale": "The candidate has one of three listed certifications (Java SE), missing the AWS and Kubernetes specific ones.",
+    "term": "Medium"
+   },
+   "C5": {
+    "criterion_id": "C5",
+    "evidence": "showcasing time management ... evidencing teamwork through successful project completions",
+    "rationale": "The candidate explicitly demonstrates communication, teamwork, and problem-solving skills through concrete achievements in the work description.",
+    "term": "High"
+   },
+   "C6": {
+    "criterion_id": "C6",
+    "evidence": "English, French, Spanish",
+    "rationale": "The candidate lists English as a primary language, satisfying the requirement for professional proficiency.",
+    "term": "Very High"
+   }
+  },
+  {
+   "C1": {
+    "criterion_id": "C1",
+    "evidence": "Java, Kafka, Git, Kubernetes, AWS, Hibernate, Docker",
+    "rationale": "The candidate lists all core required skills plus several preferred ones with contextual evidence of use.",
+    "term": "High"
+   },
+   "C2": {
+    "criterion_id": "C2",
+    "evidence": "(2024 - 2026), (2020 - 2024)",
+    "rationale": "Four years of total experience meets the minimum but lacks evidence of seniority beyond basic execution.",
+    "term": "Medium"
+   },
+   "C3": {
+    "criterion_id": "C3",
+    "evidence": "Bachelor's degree in Computer Engineering",
+    "rationale": "The candidate holds a relevant Bachelor's degree in a field matching the requirement.",
+    "term": "High"
+   },
+   "C4": {
+    "criterion_id": "C4",
+    "evidence": "Oracle Certified Professional: Java SE Developer",
+    "rationale": "One core certification is present while preferred AWS and CKA certifications are missing.",
+    "term": "Medium"
+   },
+   "C5": {
+    "criterion_id": "C5",
+    "evidence": "demonstrating autonomy... showcasing time management... evidencing teamwork",
+    "rationale": "Soft skills are mentioned as isolated attributes rather than supported by concrete achievement stories.",
+    "term": "Low"
+   },
+   "C6": {
+    "criterion_id": "C6",
+    "evidence": "English, French, Spanish",
+    "rationale": "The candidate lists English alongside other languages, indicating professional proficiency.",
+    "term": "Very High"
+   }
+  },
+  {
+   "C1": {
+    "criterion_id": "C1",
+    "evidence": "Java, Kafka, Git, Kubernetes, AWS, Hibernate, Docker",
+    "rationale": "Candidate lists all required and many preferred technical skills including Java, Spring Boot equivalents (Hibernate), Docker, Kafka, AWS, and Git.",
+    "term": "Very High"
+   },
+   "C2": {
+    "criterion_id": "C2",
+    "evidence": "Java Developer (2024 - 2026); Backend Developer (2020 - 2024)",
+    "rationale": "Candidate has 8 years of professional experience exceeding the minimum 4 years requirement for this role.",
+    "term": "High"
+   },
+   "C3": {
+    "criterion_id": "C3",
+    "evidence": "Bachelor's degree in Computer Engineering",
+    "rationale": "Candidate holds a relevant Bachelor's degree in Computer Engineering, satisfying the core education requirement.",
+    "term": "High"
+   },
+   "C4": {
+    "criterion_id": "C4",
+    "evidence": "Oracle Certified Professional: Java SE Developer",
+    "rationale": "Candidate holds one relevant certification (Java) compared to three preferred certifications listed in the offer.",
+    "term": "Medium"
+   },
+   "C5": {
+    "criterion_id": "C5",
+    "evidence": "demonstrating autonomy; showcasing time management; evidencing teamwork",
+    "rationale": "Candidate explicitly demonstrates problem solving through resolving complex data issues and teamwork through project completions.",
+    "term": "High"
+   },
+   "C6": {
+    "criterion_id": "C6",
+    "evidence": "English, French, Spanish",
+    "rationale": "Candidate lists English among their languages, meeting the requirement for professional proficiency in English.",
+    "term": "Very High"
+   }
+  }
+ ],
+ "S12": [
+  {
+   "C1": {
+    "criterion_id": "C1",
+    "evidence": "Implemented scalable microservices using Spring Boot and Kafka... Hibernate for seamless data persistence... Git for efficient version control collaboration... secure REST APIs leveraging Spring Boot and Hibernate frameworks",
+    "rationale": "Candidate demonstrates deep, practical use of all required core skills plus preferred tools like Kafka and Docker equivalents via Hibernate across multiple roles.",
+    "term": "High"
+   },
+   "C2": {
+    "criterion_id": "C2",
+    "evidence": "Software Engineer (2021 - 2026), Java Developer (2019 - 2021), Backend Developer (2018 - 2019)",
+    "rationale": "Five years of continuous professional experience in backend roles exceeds the minimum four-year requirement.",
+    "term": "High"
+   },
+   "C3": {
+    "criterion_id": "C3",
+    "evidence": "Master's degree in Computer Science",
+    "rationale": "Candidate holds a Master's degree in a directly relevant field, exceeding the base requirement and meeting the 'plus' criteria.",
+    "term": "High"
+   },
+   "C4": {
+    "criterion_id": "C4",
+    "evidence": "Oracle Certified Professional: Java SE Developer",
+    "rationale": "Candidate holds one of three listed certifications (Java SE), missing AWS and Kubernetes specific ones.",
+    "term": "Medium"
+   },
+   "C5": {
+    "criterion_id": "C5",
+    "evidence": "demonstrating strong problem solving by diagnosing latency bottlenecks... Led team meetings to clarify project goals... showcasing effective communication",
+    "rationale": "CV explicitly cites problem solving, leadership through leading meetings, and communication across multiple professional contexts.",
+    "term": "High"
+   },
+   "C6": {
+    "criterion_id": "C6",
+    "evidence": "English, Arabic",
+    "rationale": "Candidate lists English as a language, meeting the requirement for professional proficiency alongside another language.",
+    "term": "Very High"
+   }
+  },
+  {
+   "C1": {
+    "criterion_id": "C1",
+    "evidence": "Implemented scalable microservices using Spring Boot and Kafka... Developed robust enterprise applications with Hibernate... leveraged Spring Boot and Hibernate frameworks",
+    "rationale": "Candidate has required Java/Spring/Kafka skills but lacks explicit evidence for REST APIs, Docker, SQL, or Kubernetes usage in the provided text.",
+    "term": "Medium"
+   },
+   "C2": {
+    "criterion_id": "C2",
+    "evidence": "Software Engineer (2021 - 2026)... Backend Developer (2018 - 2019)",
+    "rationale": "Five years of total experience meets the minimum threshold but lacks evidence of continuous professional seniority in a similar backend role.",
+    "term": "Medium"
+   },
+   "C3": {
+    "criterion_id": "C3",
+    "evidence": "Master's degree in Computer Science",
+    "rationale": "Candidate holds a Master's degree in a directly relevant field, fully satisfying the education requirement.",
+    "term": "Very High"
+   },
+   "C4": {
+    "criterion_id": "C4",
+    "evidence": "Oracle Certified Professional: Java SE Developer",
+    "rationale": "Candidate has one relevant certification (Java) but lacks evidence for preferred certifications like AWS or CKA.",
+    "term": "Medium"
+   },
+   "C5": {
+    "criterion_id": "C5",
+    "evidence": "demonstrating strong problem solving... Led team meetings... showcasing effective communication",
+    "rationale": "CV explicitly demonstrates all four requested soft skills through concrete achievements in project management and technical troubleshooting.",
+    "term": "High"
+   },
+   "C6": {
+    "criterion_id": "C6",
+    "evidence": "English, Arabic",
+    "rationale": "Candidate lists English with no proficiency modifier, implying professional proficiency meets the explicit requirement.",
+    "term": "Very High"
+   }
+  },
+  {
+   "C1": {
+    "criterion_id": "C1",
+    "evidence": "Implemented scalable microservices using Spring Boot and Kafka",
+    "rationale": "Strong overlap with core Java requirements including Spring Boot, while missing SQL, REST APIs, and Docker.",
+    "term": "High"
+   },
+   "C2": {
+    "criterion_id": "C2",
+    "evidence": "Software Engineer (2021 - 2026)",
+    "rationale": "Candidate has 5 years in a similar role, meeting the minimum requirement but lacks evidence of deep architectural leadership or complex system design.",
+    "term": "Medium"
+   },
+   "C3": {
+    "criterion_id": "C3",
+    "evidence": "Master's degree in Computer Science",
+    "rationale": "Highest degree matches the required field perfectly and exceeds the Bachelor's baseline requirement.",
+    "term": "High"
+   },
+   "C4": {
+    "criterion_id": "C4",
+    "evidence": "Oracle Certified Professional: Java SE Developer",
+    "rationale": "Candidate holds one of three listed certifications, demonstrating specific technical validation but missing AWS and Kubernetes credentials.",
+    "term": "Medium"
+   },
+   "C5": {
+    "criterion_id": "C5",
+    "evidence": "Led team meetings to clarify project goals with stakeholders",
+    "rationale": "Explicit mention of leading meetings demonstrates the teamwork, communication, and leadership soft skills required.",
+    "term": "High"
+   },
+   "C6": {
+    "criterion_id": "C6",
+    "evidence": "English, Arabic",
+    "rationale": "Candidate lists English as a language, confirming the professional proficiency requirement.",
+    "term": "High"
+   }
+  }
+ ],
+ "S13": [
+  {
+   "C1": {
+    "criterion_id": "C1",
+    "evidence": "Java, Git, Kafka, AWS",
+    "rationale": "Candidate lists core required skills plus preferred tools like Kafka and AWS, demonstrating depth in cloud-native development.",
+    "term": "High"
+   },
+   "C2": {
+    "criterion_id": "C2",
+    "evidence": "Software Engineer (2021 - 2026), Java Developer (2017 - 2021)",
+    "rationale": "Candidate has over 8 years of professional experience, exceeding the minimum 4-year requirement.",
+    "term": "Very High"
+   },
+   "C3": {
+    "criterion_id": "C3",
+    "evidence": "Master's degree in Computer Science",
+    "rationale": "Candidate holds a Master's degree in a directly relevant field, meeting the education requirement.",
+    "term": "High"
+   },
+   "C4": {
+    "criterion_id": "C4",
+    "evidence": "Oracle Certified Professional: Java SE Developer, AWS Certified Solutions Architect",
+    "rationale": "Candidate holds two of the three listed certifications, including Oracle and AWS, which are highly relevant.",
+    "term": "High"
+   },
+   "C5": {
+    "criterion_id": "C5",
+    "evidence": "demonstrating teamwork by coordinating with cross-functional squads",
+    "rationale": "Candidate explicitly mentions teamwork and leadership through mentoring but lacks concrete achievement metrics for soft skills.",
+    "term": "Medium"
+   },
+   "C6": {
+    "criterion_id": "C6",
+    "evidence": "English, French, Spanish",
+    "rationale": "Candidate lists English as a primary language, meeting the professional proficiency requirement.",
+    "term": "High"
+   }
+  },
+  {
+   "C1": {
+    "criterion_id": "C1",
+    "evidence": "Java, Git, Kafka, AWS",
+    "rationale": "Candidate lists core required skills but lacks explicit mention of Spring Boot or REST APIs in skills section, though backend development context implies usage.",
+    "term": "Medium"
+   },
+   "C2": {
+    "criterion_id": "C2",
+    "evidence": "Software Engineer (2021 - 2026) ... Java Developer (2017 - 2021)",
+    "rationale": "Over 8 years of professional experience as a Java backend engineer exceeds the minimum 4-year requirement.",
+    "term": "High"
+   },
+   "C3": {
+    "criterion_id": "C3",
+    "evidence": "Master's degree in Computer Science",
+    "rationale": "Candidate holds a Master's degree in Computer Science, meeting the base requirement and exceeding the plus criteria.",
+    "term": "High"
+   },
+   "C4": {
+    "criterion_id": "C4",
+    "evidence": "Oracle Certified Professional: Java SE Developer, AWS Certified Solutions Architect",
+    "rationale": "Candidate holds two relevant certifications including Oracle Java SE and AWS Solutions Architect, matching key preferred certs.",
+    "term": "Very High"
+   },
+   "C5": {
+    "criterion_id": "C5",
+    "evidence": "demonstrating teamwork by coordinating ... showcasing autonomy in resolving complex architectural challenges",
+    "rationale": "CV explicitly mentions teamwork, collaboration, mentoring, and problem-solving through autonomous resolution of complex challenges.",
+    "term": "High"
+   },
+   "C6": {
+    "criterion_id": "C6",
+    "evidence": "English, French, Spanish",
+    "rationale": "Candidate lists English as a primary language alongside other languages, fully meeting the professional proficiency requirement.",
+    "term": "Very High"
+   }
+  },
+  {
+   "C1": {
+    "criterion_id": "C1",
+    "evidence": "Java, Git, Kafka, AWS",
+    "rationale": "The candidate lists all required tools plus two preferred ones with demonstrated project context in their experience descriptions.",
+    "term": "High"
+   },
+   "C2": {
+    "criterion_id": "C2",
+    "evidence": "Software Engineer (2021 - 2026), Java Developer (2017 - 2021), Backend Developer (2012 - 2017)",
+    "rationale": "The candidate has over 8 years of relevant professional experience, well exceeding the 4-year requirement.",
+    "term": "Very High"
+   },
+   "C3": {
+    "criterion_id": "C3",
+    "evidence": "Master's degree in Computer Science",
+    "rationale": "The candidate holds a Master's in a directly related field, meeting the core requirement and fulfilling the plus condition.",
+    "term": "High"
+   },
+   "C4": {
+    "criterion_id": "C4",
+    "evidence": "Oracle Certified Professional: Java SE Developer, AWS Certified Solutions Architect",
+    "rationale": "The candidate holds two of the three listed certifications, covering the primary required ones for Java and AWS.",
+    "term": "High"
+   },
+   "C5": {
+    "criterion_id": "C5",
+    "evidence": "demonstrating teamwork by coordinating... showcasing autonomy in resolving complex architectural challenges... mentoring junior developers",
+    "rationale": "Multiple distinct soft skills like teamwork, leadership, and problem solving are explicitly demonstrated through specific achievements.",
+    "term": "Very High"
+   },
+   "C6": {
+    "criterion_id": "C6",
+    "evidence": "English, French, Spanish",
+    "rationale": "The candidate lists English with no proficiency qualifier, which meets the requirement for professional proficiency alongside other languages.",
+    "term": "Very High"
+   }
+  }
+ ],
+ "S14": [
+  {
+   "C1": {
+    "criterion_id": "C1",
+    "evidence": "",
+    "rationale": "No Java, Spring Boot, SQL, Docker, or Kubernetes skills listed in the CV.",
+    "term": "Very Low"
+   },
+   "C2": {
+    "criterion_id": "C2",
+    "evidence": "",
+    "rationale": "Candidate has 0 years of experience and is currently a Frontend Developer, not Backend.",
+    "term": "Very Low"
+   },
+   "C3": {
+    "criterion_id": "C3",
+    "evidence": "Master's degree in Computer Science",
+    "rationale": "The candidate holds a Master's degree in the required field of study.",
+    "term": "High"
+   },
+   "C4": {
+    "criterion_id": "C4",
+    "evidence": "",
+    "rationale": "The Meta Front-End Developer Certificate is irrelevant to Java backend roles.",
+    "term": "Very Low"
+   },
+   "C5": {
+    "criterion_id": "C5",
+    "evidence": "demonstrating strong leadership and creativity while streamlining the development workflow",
+    "rationale": "Explicit mention of leadership aligns with soft skill requirements despite frontend context.",
+    "term": "Medium"
+   },
+   "C6": {
+    "criterion_id": "C6",
+    "evidence": "English, German",
+    "rationale": "Candidate lists English as a language, meeting the professional proficiency requirement.",
+    "term": "High"
+   }
+  },
+  {
+   "C1": {
+    "criterion_id": "C1",
+    "evidence": "",
+    "rationale": "No Java, Spring Boot, SQL, Docker, or Git skills listed; CV shows only Frontend technologies.",
+    "term": "Low"
+   },
+   "C2": {
+    "criterion_id": "C2",
+    "evidence": "",
+    "rationale": "Role is listed as Frontend Developer (2025 - 2026) with zero years of professional experience provided.",
+    "term": "Very Low"
+   },
+   "C3": {
+    "criterion_id": "C3",
+    "evidence": "Master's degree in Computer Science",
+    "rationale": "Matches the required Master's degree in a relevant field perfectly.",
+    "term": "High"
+   },
+   "C4": {
+    "criterion_id": "C4",
+    "evidence": "",
+    "rationale": "Only a Meta Front-End Developer Certificate exists; no Java or cloud-related certifications listed.",
+    "term": "Very Low"
+   },
+   "C5": {
+    "criterion_id": "C5",
+    "evidence": "demonstrating strong leadership and creativity... utilizing teamwork and problem-solving skills",
+    "rationale": "Explicitly mentions leadership, teamwork, and problem solving in the context of leading a team.",
+    "term": "High"
+   },
+   "C6": {
+    "criterion_id": "C6",
+    "evidence": "English, German",
+    "rationale": "Clearly lists English as a language, meeting the professional proficiency requirement.",
+    "term": "Very High"
+   }
+  },
+  {
+   "C1": {
+    "criterion_id": "C1",
+    "evidence": "",
+    "rationale": "No Java, Spring Boot, SQL, Docker, or Kubernetes listed in skills despite job requirements.",
+    "term": "Very Low"
+   },
+   "C2": {
+    "criterion_id": "C2",
+    "evidence": "",
+    "rationale": "Only one year of experience in a Frontend Developer role, falling far short of the 4-year requirement for Backend Software Engineer.",
+    "term": "Very Low"
+   },
+   "C3": {
+    "criterion_id": "C3",
+    "evidence": "Master's degree in Computer Science",
+    "rationale": "The Master's degree matches the required education level and field perfectly.",
+    "term": "Medium"
+   },
+   "C4": {
+    "criterion_id": "C4",
+    "evidence": "",
+    "rationale": "Only a Meta Front-End Developer Certificate is listed, which does not match any preferred or required certifications like Oracle Java or AWS.",
+    "term": "Very Low"
+   },
+   "C5": {
+    "criterion_id": "C5",
+    "evidence": "demonstrating strong leadership and creativity while streamlining the development workflow through effective time management.",
+    "rationale": "Explicit mention of leadership matches a soft skill requirement, though context is frontend-focused.",
+    "term": "Medium"
+   },
+   "C6": {
+    "criterion_id": "C6",
+    "evidence": "English, German",
+    "rationale": "Both English (required) and German are listed as languages, meeting the professional proficiency requirement.",
+    "term": "Very High"
+   }
+  }
+ ],
+ "S15": [
+  {
+   "C1": {
+    "criterion_id": "C1",
+    "evidence": "",
+    "rationale": "No Java, Spring Boot, or SQL skills listed despite being required for the role.",
+    "term": "Very Low"
+   },
+   "C2": {
+    "criterion_id": "C2",
+    "evidence": "Web Developer (2022 - 2026)",
+    "rationale": "Candidate has 4 years of experience but in web development rather than backend engineering.",
+    "term": "Low"
+   },
+   "C3": {
+    "criterion_id": "C3",
+    "evidence": "Bachelor's degree in Web Design",
+    "rationale": "Degree is relevant to software but field is design rather than computer science or engineering.",
+    "term": "Low"
+   },
+   "C4": {
+    "criterion_id": "C4",
+    "evidence": "",
+    "rationale": "No professional certifications matching Oracle Java, AWS, or Kubernetes are listed.",
+    "term": "Very Low"
+   },
+   "C5": {
+    "criterion_id": "C5",
+    "evidence": "showcasing creativity in visual problem solving",
+    "rationale": "Problem solving is mentioned but lacks concrete backend engineering achievements.",
+    "term": "Medium"
+   },
+   "C6": {
+    "criterion_id": "C6",
+    "evidence": "English, French, German",
+    "rationale": "Candidate lists English proficiency which meets the requirement for professional proficiency.",
+    "term": "High"
+   }
+  },
+  {
+   "C1": {
+    "criterion_id": "C1",
+    "evidence": "",
+    "rationale": "No evidence of Java, Spring Boot, SQL, or Docker skills found in the CV,",
+    "term": "Low"
+   },
+   "C2": {
+    "criterion_id": "C2",
+    "evidence": "",
+    "rationale": "CV lists roles as Web/Frontend Developer/Data Analyst with 4 years but no backend context,",
+    "term": "Very Low"
+   },
+   "C3": {
+    "criterion_id": "C3",
+    "evidence": "Bachelor's degree in Web Design",
+    "rationale": "Degree exists but field is not Computer Science or Software Engineering as required,",
+    "term": "Low"
+   },
+   "C4": {
+    "criterion_id": "C4",
+    "evidence": "",
+    "rationale": "No relevant certifications such as Java SE, AWS, or CKA are listed in the CV,",
+    "term": "Very Low"
+   },
+   "C5": {
+    "criterion_id": "C5",
+    "evidence": "showcasing creativity in visual problem solving",
+    "rationale": "Evidence suggests problem-solving ability though not explicitly leadership or communication,",
+    "term": "Medium"
+   },
+   "C6": {
+    "criterion_id": "C6",
+    "evidence": "English, French, German",
+    "rationale": "Candidate lists English alongside other languages indicating professional proficiency",
+    "term": "Very High"
+   }
+  },
+  {
+   "C1": {
+    "criterion_id": "C1",
+    "evidence": "",
+    "rationale": "No Java, Spring Boot, or SQL skills listed in the candidate's CV despite them being core requirements for this Backend Engineer role.",
+    "term": "Very Low"
+   },
+   "C2": {
+    "criterion_id": "C2",
+    "evidence": "Web Developer (2022 - 2026)",
+    "rationale": "Four years of experience exist but are in frontend development rather than backend Java engineering, which is the job's domain.",
+    "term": "Low"
+   },
+   "C3": {
+    "criterion_id": "C3",
+    "evidence": "Bachelor's degree in Web Design",
+    "rationale": "A Bachelor's degree meets the minimum education requirement, though the field of study (Web Design) is not Computer Science or Software Engineering.",
+    "term": "Medium"
+   },
+   "C4": {
+    "criterion_id": "C4",
+    "evidence": "",
+    "rationale": "The candidate holds no professional certifications relevant to Java, AWS, or Kubernetes.",
+    "term": "Very Low"
+   },
+   "C5": {
+    "criterion_id": "C5",
+    "evidence": "showcasing creativity in visual problem solving",
+    "rationale": "Problem solving is mentioned, but explicit evidence for teamwork, communication, or leadership is absent from the CV text.",
+    "term": "Medium"
+   },
+   "C6": {
+    "criterion_id": "C6",
+    "evidence": "English, French, German",
+    "rationale": "The candidate lists English proficiency alongside other languages, fully meeting the requirement for professional proficiency in English.",
+    "term": "Very High"
+   }
+  }
+ ],
+ "S16": [
+  {
+   "C1": {
+    "criterion_id": "C1",
+    "evidence": "",
+    "rationale": "No Java, Spring Boot, SQL, or REST APIs skills listed despite being a Backend role candidate.",
+    "term": "Low"
+   },
+   "C2": {
+    "criterion_id": "C2",
+    "evidence": "DevOps Engineer (2024 - 2026)",
+    "rationale": "Only 2 years of experience in DevOps does not meet the 4-year Backend requirement.",
+    "term": "Very Low"
+   },
+   "C3": {
+    "criterion_id": "C3",
+    "evidence": "PhD in Computer Science",
+    "rationale": "A PhD in Computer Science exceeds the degree requirement and is highly relevant.",
+    "term": "Very High"
+   },
+   "C4": {
+    "criterion_id": "C4",
+    "evidence": "AWS Certified Solutions Architect",
+    "rationale": "One AWS certification matches a preferred item but lacks Java or Kubernetes certs.",
+    "term": "Medium"
+   },
+   "C5": {
+    "criterion_id": "C5",
+    "evidence": "demonstrating strong problem-solving capabilities",
+    "rationale": "Explicit mention of problem solving directly addresses the required soft skill.",
+    "term": "High"
+   },
+   "C6": {
+    "criterion_id": "C6",
+    "evidence": "English, Spanish",
+    "rationale": "Professional proficiency in English is explicitly stated and meets the requirement.",
+    "term": "Very High"
+   }
+  },
+  {
+   "C1": {
+    "criterion_id": "C1",
+    "evidence": "",
+    "rationale": "Candidate lists Python and Kubernetes but no Java, Spring Boot, or SQL required for the role are mentioned.",
+    "term": "Very Low"
+   },
+   "C2": {
+    "criterion_id": "C2",
+    "evidence": "DevOps Engineer (2024 - 2026)",
+    "rationale": "Only one year of experience exists against a four-year minimum requirement, and the DevOps role differs from Backend Engineering.",
+    "term": "Low"
+   },
+   "C3": {
+    "criterion_id": "C3",
+    "evidence": "PhD in Computer Science",
+    "rationale": "Candidate holds a PhD in the required field, exceeding the degree requirements.",
+    "term": "Very High"
+   },
+   "C4": {
+    "criterion_id": "C4",
+    "evidence": "AWS Certified Solutions Architect",
+    "rationale": "Candidate possesses one of the three appreciated certifications listed for the job offer.",
+    "term": "High"
+   },
+   "C5": {
+    "criterion_id": "C5",
+    "evidence": "demonstrating strong problem-solving capabilities",
+    "rationale": "Problem solving is explicitly mentioned, but other soft skills like leadership or teamwork are not demonstrated.",
+    "term": "Medium"
+   },
+   "C6": {
+    "criterion_id": "C6",
+    "evidence": "English, Spanish",
+    "rationale": "Candidate lists English with implied professional proficiency, meeting the language requirement.",
+    "term": "High"
+   }
+  },
+  {
+   "C1": {
+    "criterion_id": "C1",
+    "evidence": "",
+    "rationale": "Candidate lists Python, Terraform and Kubernetes but lacks required Java, Spring Boot or SQL skills.",
+    "term": "Low"
+   },
+   "C2": {
+    "criterion_id": "C2",
+    "evidence": "DevOps Engineer (2024 - 2026)",
+    "rationale": "Only 2 years of experience falls short of the minimum 4 years requirement.",
+    "term": "Very Low"
+   },
+   "C3": {
+    "criterion_id": "C3",
+    "evidence": "PhD in Computer Science",
+    "rationale": "Candidate holds a PhD in Computer Science, which matches and exceeds the education requirement.",
+    "term": "High"
+   },
+   "C4": {
+    "criterion_id": "C4",
+    "evidence": "AWS Certified Solutions Architect",
+    "rationale": "Candidate has one relevant certification but lacks additional preferred certs like Oracle or CKA.",
+    "term": "Medium"
+   },
+   "C5": {
+    "criterion_id": "C5",
+    "evidence": "demonstrating strong problem-solving capabilities to resolve complex configuration bottlenecks",
+    "rationale": "CV explicitly states strong problem-solving capability and mentions delivering critical performance enhancements.",
+    "term": "High"
+   },
+   "C6": {
+    "criterion_id": "C6",
+    "evidence": "English, Spanish",
+    "rationale": "Candidate lists English as a language, satisfying the requirement for professional proficiency.",
+    "term": "Very High"
+   }
+  }
+ ],
+ "S17": [
+  {
+   "C1": {
+    "criterion_id": "C1",
+    "evidence": "Git, Python, AWS, Docker, Terraform",
+    "rationale": "Candidate lacks required Java and Spring Boot skills despite having Docker and Git.",
+    "term": "Low"
+   },
+   "C2": {
+    "criterion_id": "C2",
+    "evidence": "",
+    "rationale": "No evidence of 4+ years in a Backend Software Engineer role; current title is DevOps Engineer.",
+    "term": "Very Low"
+   },
+   "C3": {
+    "criterion_id": "C3",
+    "evidence": "Bachelor's degree in Computer Engineering",
+    "rationale": "Degree matches required field but lacks the preferred Master's or PhD level.",
+    "term": "Medium"
+   },
+   "C4": {
+    "criterion_id": "C4",
+    "evidence": "AWS Certified Solutions Architect",
+    "rationale": "Candidate holds one nice-to-have certification (AWS) but lacks Oracle Java or CKA certs.",
+    "term": "Medium"
+   },
+   "C5": {
+    "criterion_id": "C5",
+    "evidence": "Led cross-functional projects requiring strong teamwork... demonstrating leadership in coordinating resources",
+    "rationale": "CV explicitly mentions teamwork and leadership with concrete examples of leading projects.",
+    "term": "High"
+   },
+   "C6": {
+    "criterion_id": "C6",
+    "evidence": "English, French, Spanish",
+    "rationale": "Candidate lists English as a language, meeting the professional proficiency requirement.",
+    "term": "Very High"
+   }
+  },
+  {
+   "C1": {
+    "criterion_id": "C1",
+    "evidence": "",
+    "rationale": "The CV lists Git, Docker, and AWS but lacks Java, Spring Boot, or REST APIs which are core job requirements. The ML role experience is irrelevant to backend Java development. C2 term: Low, e.g. ",
+    "term": "Very Low"
+   },
+   "C2": {
+    "criterion_id": "C2",
+    "evidence": "DevOps Engineer (2025 - 2026)",
+    "rationale": "The candidate has 1 year of professional experience, well below the required 4 years in a backend Java role. C3 term: High, e.g. ",
+    "term": "Low"
+   },
+   "C3": {
+    "criterion_id": "C3",
+    "evidence": "Bachelor's degree in Computer Engineering",
+    "rationale": "The Bachelor's degree in Computer Engineering matches the required field perfectly. C4 term: Medium, e.g. ",
+    "term": "High"
+   },
+   "C4": {
+    "criterion_id": "C4",
+    "evidence": "AWS Certified Solutions Architect",
+    "rationale": "One relevant certification exists for a nice-to-have skill, but multiple certifications are preferred. C5 term: Very Low, e.g. ",
+    "term": "Medium"
+   },
+   "C5": {
+    "criterion_id": "C5",
+    "evidence": "",
+    "rationale": "While teamwork and leadership are mentioned, they lack concrete achievements tied to backend engineering problem solving. C6 term: High, e.g. ",
+    "term": "Very Low"
+   },
+   "C6": {
+    "criterion_id": "C6",
+    "evidence": "English, French, Spanish",
+    "rationale": "The CV lists English as a language, meeting the professional proficiency requirement.",
+    "term": "High"
+   }
+  },
+  {
+   "C1": {
+    "criterion_id": "C1",
+    "evidence": "Git, Python, AWS, Docker, Terraform",
+    "rationale": "Missing required Java and Spring Boot skills while having unrelated ML and DevOps tools.",
+    "term": "Low"
+   },
+   "C2": {
+    "criterion_id": "C2",
+    "evidence": "DevOps Engineer (2025 - 2026)",
+    "rationale": "Only one year of experience falls short of the required four years in a similar Backend role.",
+    "term": "Very Low"
+   },
+   "C3": {
+    "criterion_id": "C3",
+    "evidence": "Bachelor's degree in Computer Engineering",
+    "rationale": "Relevant field but lacks the preferred Master's or PhD level.",
+    "term": "Medium"
+   },
+   "C4": {
+    "criterion_id": "C4",
+    "evidence": "AWS Certified Solutions Architect",
+    "rationale": "Only one relevant certification for a role requiring multiple specific Java and infrastructure certs.",
+    "term": "Low"
+   },
+   "C5": {
+    "criterion_id": "C5",
+    "evidence": "demonstrating leadership in coordinating resources",
+    "rationale": "Explicitly demonstrates the required soft skills of teamwork and leadership through concrete actions.",
+    "term": "High"
+   },
+   "C6": {
+    "criterion_id": "C6",
+    "evidence": "English, French, Spanish",
+    "rationale": "Full coverage of the required professional proficiency in English with additional languages.",
+    "term": "High"
+   }
+  }
+ ],
+ "S18": [
+  {
+   "C1": {
+    "criterion_id": "C1",
+    "evidence": "",
+    "rationale": "No Java, Spring Boot, SQL, or REST API skills listed in the CV.",
+    "term": "Very Low"
+   },
+   "C2": {
+    "criterion_id": "C2",
+    "evidence": "",
+    "rationale": "Accounting and marketing roles do not match the Backend Software Engineer role; no evidence of 4+ years in similar domain.",
+    "term": "Very Low"
+   },
+   "C3": {
+    "criterion_id": "C3",
+    "evidence": "Bachelor's degree in Accounting",
+    "rationale": "Degree is relevant to accounting but not Computer Science or Software Engineering as required.",
+    "term": "Low"
+   },
+   "C4": {
+    "criterion_id": "C4",
+    "evidence": "",
+    "rationale": "CPA certification is for accounting, not Java, AWS, or Kubernetes as requested.",
+    "term": "Very Low"
+   },
+   "C5": {
+    "criterion_id": "C5",
+    "evidence": "showcasing leadership and problem-solving during audits",
+    "rationale": "Explicitly mentions leadership and problem-solving, though in an accounting context.",
+    "term": "Medium"
+   },
+   "C6": {
+    "criterion_id": "C6",
+    "evidence": "English, French",
+    "rationale": "Professional proficiency in English is explicitly listed as a requirement.",
+    "term": "High"
+   }
+  },
+  {
+   "C1": {
+    "criterion_id": "C1",
+    "evidence": "",
+    "rationale": "No Java, Spring Boot, or SQL skills listed despite extensive accounting focus.",
+    "term": "Very Low"
+   },
+   "C2": {
+    "criterion_id": "C2",
+    "evidence": "",
+    "rationale": "Only 1 year in a marketing role and no backend development experience shown.",
+    "term": "Very Low"
+   },
+   "C3": {
+    "criterion_id": "C3",
+    "evidence": "Bachelor's degree in Accounting",
+    "rationale": "Accounting degree does not match the required Computer Science or Software Engineering field.",
+    "term": "Low"
+   },
+   "C4": {
+    "criterion_id": "C4",
+    "evidence": "",
+    "rationale": "Holds a CPA certification which is irrelevant to Java backend engineering roles.",
+    "term": "Very Low"
+   },
+   "C5": {
+    "criterion_id": "C5",
+    "evidence": "showcasing leadership and problem-solving during audits",
+    "rationale": "Leadership and problem-solving are mentioned but in an accounting context rather than software engineering.",
+    "term": "Medium"
+   },
+   "C6": {
+    "criterion_id": "C6",
+    "evidence": "English, French",
+    "rationale": "Explicitly lists English proficiency meeting the professional requirement.",
+    "term": "High"
+   }
+  },
+  {
+   "C1": {
+    "criterion_id": "C1",
+    "evidence": "",
+    "rationale": "No Java, Spring Boot, SQL or other required backend skills found in the CV.",
+    "term": "Very Low"
+   },
+   "C2": {
+    "criterion_id": "C2",
+    "evidence": "Accountant (2023 - 2026)",
+    "rationale": "Four years of accounting experience does not match the requirement for four years of Backend Software Engineer experience.",
+    "term": "Very Low"
+   },
+   "C3": {
+    "criterion_id": "C3",
+    "evidence": "Bachelor's degree in Accounting",
+    "rationale": "The field of study is irrelevant to the Java backend engineering role.",
+    "term": "Low"
+   },
+   "C4": {
+    "criterion_id": "C4",
+    "evidence": "",
+    "rationale": "No Oracle, AWS or Kubernetes certifications are listed; only a CPA is present.",
+    "term": "Very Low"
+   },
+   "C5": {
+    "criterion_id": "C5",
+    "evidence": "showcasing leadership and problem-solving during audits",
+    "rationale": "Leadership and problem-solving are mentioned but lack the concrete technical achievements typical for this role.",
+    "term": "Low"
+   },
+   "C6": {
+    "criterion_id": "C6",
+    "evidence": "English, French",
+    "rationale": "The candidate lists English proficiency which meets the requirement for professional proficiency.",
+    "term": "High"
+   }
+  }
+ ],
+ "S19": [
+  {
+   "C1": {
+    "criterion_id": "C1",
+    "evidence": "",
+    "rationale": "No Java, Spring Boot, SQL, or backend development skills are listed in the CV.",
+    "term": "Very Low"
+   },
+   "C2": {
+    "criterion_id": "C2",
+    "evidence": "",
+    "rationale": "The candidate has no professional experience as a Backend Software Engineer or in software development roles.",
+    "term": "Very Low"
+   },
+   "C3": {
+    "criterion_id": "C3",
+    "evidence": "Bachelor's degree in Accounting",
+    "rationale": "The field of study (Accounting) does not match the required field (Computer Science/Software Engineering).",
+    "term": "Low"
+   },
+   "C4": {
+    "criterion_id": "C4",
+    "evidence": "",
+    "rationale": "The candidate holds a CPA certification, which is irrelevant to Java backend engineering roles.",
+    "term": "Very Low"
+   },
+   "C5": {
+    "criterion_id": "C5",
+    "evidence": "demonstrating effective communication during stakeholder training sessions",
+    "rationale": "While communication is mentioned, it lacks the leadership or problem-solving context required for senior engineering roles.",
+    "term": "Low"
+   },
+   "C6": {
+    "criterion_id": "C6",
+    "evidence": "English, Spanish",
+    "rationale": "The candidate lists English as a language, meeting the requirement for professional proficiency.",
+    "term": "High"
+   }
+  },
+  {
+   "C1": {
+    "criterion_id": "C1",
+    "evidence": "",
+    "rationale": "The CV lists only Excel, SAP, and IFRS skills with no mention of Java, Spring Boot, or backend technologies required by the job offer.",
+    "term": "Very Low"
+   },
+   "C2": {
+    "criterion_id": "C2",
+    "evidence": "Financial Analyst (2021 - 2026)",
+    "rationale": "The candidate's recent roles are in finance and accounting, not backend software engineering, lacking relevant professional experience.",
+    "term": "Very Low"
+   },
+   "C3": {
+    "criterion_id": "C3",
+    "evidence": "Bachelor's degree in Accounting",
+    "rationale": "The field of study is Accounting rather than Computer Science or Software Engineering required for this role.",
+    "term": "Low"
+   },
+   "C4": {
+    "criterion_id": "C4",
+    "evidence": "",
+    "rationale": "The candidate holds a CPA certification, which is irrelevant to the Java and cloud certifications preferred by the job offer.",
+    "term": "Very Low"
+   },
+   "C5": {
+    "criterion_id": "C5",
+    "evidence": "Collaborated cross-functionally...",
+    "rationale": "There is evidence of teamwork and communication in financial contexts, though it does not demonstrate technical leadership or problem solving in software engineering.",
+    "term": "Medium"
+   },
+   "C6": {
+    "criterion_id": "C6",
+    "evidence": "English, Spanish",
+    "rationale": "The candidate lists English as a language, meeting the requirement for professional proficiency in English.",
+    "term": "High"
+   }
+  },
+  {
+   "C1": {
+    "criterion_id": "C1",
+    "evidence": "",
+    "rationale": "No Java, Spring Boot, SQL or backend development skills are listed in the CV.",
+    "term": "Very Low"
+   },
+   "C2": {
+    "criterion_id": "C2",
+    "evidence": "Financial Analyst (2021 - 2026)",
+    "rationale": "Four years of experience exist but they are in finance roles, not software engineering.",
+    "term": "Low"
+   },
+   "C3": {
+    "criterion_id": "C3",
+    "evidence": "Bachelor's degree in Accounting",
+    "rationale": "The candidate holds a relevant bachelor's degree but the field is unrelated to computer science.",
+    "term": "Medium"
+   },
+   "C4": {
+    "criterion_id": "C4",
+    "evidence": "",
+    "rationale": "No Java, Spring Boot or cloud-related certifications are present; only a CPA is listed.",
+    "term": "Very Low"
+   },
+   "C5": {
+    "criterion_id": "C5",
+    "evidence": "Collaborated cross-functionally...",
+    "rationale": "Evidence of teamwork and communication exists but lacks leadership or problem-solving context.",
+    "term": "Medium"
+   },
+   "C6": {
+    "criterion_id": "C6",
+    "evidence": "English, Spanish",
+    "rationale": "Professional proficiency in English is explicitly listed, meeting the job requirement.",
+    "term": "Very High"
+   }
+  }
+ ],
+ "S20": [
+  {
+   "C1": {
+    "criterion_id": "C1",
+    "evidence": "",
+    "rationale": "No Java, Spring Boot, SQL, or backend development skills listed in the CV.",
+    "term": "Very Low"
+   },
+   "C2": {
+    "criterion_id": "C2",
+    "evidence": "",
+    "rationale": "Experience is in marketing and digital strategy, not backend software engineering.",
+    "term": "Very Low"
+   },
+   "C3": {
+    "criterion_id": "C3",
+    "evidence": "PhD in Communication",
+    "rationale": "The PhD field (Communication) does not match the required Computer Science or Software Engineering degree.",
+    "term": "Low"
+   },
+   "C4": {
+    "criterion_id": "C4",
+    "evidence": "",
+    "rationale": "No professional certifications relevant to Java, Spring Boot, or cloud infrastructure are listed.",
+    "term": "Very Low"
+   },
+   "C5": {
+    "criterion_id": "C5",
+    "evidence": "Led cross-functional teams... resolved complex algorithmic shifts",
+    "rationale": "Demonstrates teamwork and problem solving but lacks evidence of technical leadership in software development.",
+    "term": "Low"
+   },
+   "C6": {
+    "criterion_id": "C6",
+    "evidence": "Spanish",
+    "rationale": "Only Spanish is listed; English proficiency required by the job offer is not evidenced.",
+    "term": "Very Low"
+   }
+  },
+  {
+   "C1": {
+    "criterion_id": "C1",
+    "evidence": "",
+    "rationale": "The CV lists only Excel and marketing tools, with no Java or Spring Boot skills present.",
+    "term": "Very Low"
+   },
+   "C2": {
+    "criterion_id": "C2",
+    "evidence": "Digital Marketing Manager (2021 - 2026)",
+    "rationale": "The candidate has 5 years of experience but in digital marketing, not backend software engineering.",
+    "term": "Very Low"
+   },
+   "C3": {
+    "criterion_id": "C3",
+    "evidence": "PhD in Communication",
+    "rationale": "A PhD exists but the field is Communication rather than Computer Science or Engineering required by the offer.",
+    "term": "Medium"
+   },
+   "C4": {
+    "criterion_id": "C4",
+    "evidence": "",
+    "rationale": "The CV contains no professional certifications, and the candidate holds a PhD in an unrelated field.",
+    "term": "Very Low"
+   },
+   "C5": {
+    "criterion_id": "C5",
+    "evidence": "Led cross-functional teams with full autonomy... resolved complex algorithmic shifts.",
+    "rationale": "Explicit mentions of leading teams and solving complex problems demonstrate strong leadership and problem-solving skills.",
+    "term": "High"
+   },
+   "C6": {
+    "criterion_id": "C6",
+    "evidence": "Spanish",
+    "rationale": "The CV lists only Spanish, failing to meet the requirement for English professional proficiency.",
+    "term": "Very Low"
+   }
+  },
+  {
+   "C1": {
+    "criterion_id": "C1",
+    "evidence": "",
+    "rationale": "No Java, Spring Boot, SQL or backend technologies are listed in the skills section,",
+    "term": "Very Low"
+   },
+   "C2": {
+    "criterion_id": "C2",
+    "evidence": "Digital Marketing Manager (2021 - 2026)",
+    "rationale": "Experience is in marketing, not software engineering, and lacks required depth of professional experience.",
+    "term": "Very Low"
+   },
+   "C3": {
+    "criterion_id": "C3",
+    "evidence": "PhD in Communication",
+    "rationale": "The candidate holds a PhD which exceeds the degree requirement, though the field is less relevant than CS.",
+    "term": "High"
+   },
+   "C4": {
+    "criterion_id": "C4",
+    "evidence": "",
+    "rationale": "No certifications related to Java, AWS, or Kubernetes are mentioned in the CV.",
+    "term": "Very Low"
+   },
+   "C5": {
+    "criterion_id": "C5",
+    "evidence": "Led cross-functional teams with full autonomy",
+    "rationale": "Explicit mention of leading teams demonstrates teamwork and leadership capabilities.",
+    "term": "Medium"
+   },
+   "C6": {
+    "criterion_id": "C6",
+    "evidence": "Spanish",
+    "rationale": "English is not listed as a spoken language, while professional proficiency in English is required.",
+    "term": "Low"
+   }
+  }
+ ]
+}

@@ -1,0 +1,12 @@
+{
+ "provider": "ollama",
+ "model": "qwen3.5:4b",
+ "runs": 3,
+ "steps": [
+  "synthetic",
+  "fairness"
+ ],
+ "llm_calls": 148,
+ "cache_hits": 125,
+ "seconds": 5772
+}

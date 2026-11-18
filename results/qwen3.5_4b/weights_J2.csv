@@ -1,0 +1,7 @@
+criterion,expert,llm,llm_reason
+C1,Very High,Very High,The job requires specific core technologies like Java and Spring Boot which are critical for the role's functionality.
+C2,High,High,At least 4 years of professional experience is explicitly required to ensure the candidate has sufficient depth in the domain.
+C3,Medium,Medium,"A degree in a relevant field is standard, but a Master's or PhD is only noted as a plus rather than a strict requirement."
+C4,Low,Low,"While certifications are appreciated, they are listed as optional and do not carry the same weight as required skills or experience."
+C5,Medium,Medium,Soft skills like teamwork and communication are requested but are generally harder to verify through a job offer alone compared to technical requirements.
+C6,Medium,High,"Professional proficiency in English is explicitly required, making language capability a fundamental prerequisite for the role."

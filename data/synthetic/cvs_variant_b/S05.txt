@@ -1,0 +1,16 @@
+Name: Fatima Zahra El Amrani
+Gender: Female
+Age: 54
+Nationality: Moroccan
+
+PROFESSIONAL EXPERIENCE
+Data Analyst (2023 - 2026)
+Implemented Python scripts to automate data cleaning workflows, demonstrating autonomy in identifying and resolving complex dataset issues without constant supervision. Utilized SQL to extract high-volume transaction records, ensuring precise analysis while managing tight project deadlines through effective time management.
+MLOps Engineer (2021 - 2023)
+Deployed machine learning models using Python pipelines, showcasing independence in designing scalable infrastructure for production environments. Applied advanced Statistics methods to validate model performance metrics, maintaining rigorous standards under strict regulatory timelines via proactive time management.
+EDUCATION
+PhD in Statistics
+SKILLS
+Python, SQL, Power BI, Statistics
+LANGUAGES
+English, German

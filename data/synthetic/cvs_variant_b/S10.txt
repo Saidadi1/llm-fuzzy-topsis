@@ -1,0 +1,26 @@
+Name: Ngozi Okafor
+Gender: Female
+Age: 52
+Nationality: Nigerian
+
+PROFESSIONAL EXPERIENCE
+
+Java Developer (2025 - 2026)
+- Designed scalable REST APIs using Spring Boot and Hibernate, leveraging problem solving to optimize database queries and ensure high availability on AWS.
+- Collaborated with cross-functional teams to integrate Kafka streams for real-time data processing, demonstrating strong communication and teamwork while deploying solutions via Kubernetes and Git.
+
+Backend Developer (2024 - 2025)
+- Developed secure microservices utilizing Spring Boot and REST APIs, applying problem solving to resolve complex latency issues and enhancing system reliability on AWS infrastructure.
+- Facilitated agile development cycles through effective communication and teamwork, managing code versioning with Git and orchestrating containerized environments using Kubernetes.
+
+EDUCATION
+Bachelor's degree in Computer Science
+
+SKILLS
+REST APIs, Hibernate, Kubernetes, Git, Spring Boot, Kafka, AWS
+
+CERTIFICATIONS
+AWS Certified Solutions Architect, Oracle Certified Professional: Java SE Developer
+
+LANGUAGES
+English, Spanish
